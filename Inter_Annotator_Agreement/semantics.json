@@ -5,7 +5,7 @@
   "firstPhrase" : "Insiemi e dizionari",
   "secondPhrase" : "Insiemi e dizionari",
   "voto" : 6,
-  "annotatore" : "",
+  "annotatore" : "salman",
   "id" : "1284-1285-0"
 }, {
   "firstId" : 1284,
@@ -14,6 +14,33 @@
   "firstPhrase" : "La funzione dei dizionari",
   "secondPhrase" : "Unione di insiemi",
   "voto" : 1,
-  "annotatore" : "",
+  "annotatore" : "salman",
   "id" : "1284-1285-1"
+} ,{
+  "firstId" : 1284,
+  "secondId" : 1285,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi e dizionari",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1284-1285-0"
+}, {
+  "firstId" : 1284,
+  "secondId" : 1285,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "La funzione dei dizionari",
+  "secondPhrase" : "Unione di insiemi",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1284-1285-1"
+},{
+  "firstId" : 1284,
+  "secondId" : 1285,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "La funzione dei dizionari",
+  "secondPhrase" : "Unione di insiemi",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1286-1287-1"
 } ]

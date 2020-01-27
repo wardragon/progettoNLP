@@ -46,8 +46,8 @@ def parse_json(path):
 def preprocessinf():
     annotations_results = parse_json('posOutput.json')
     annotators_map = {}
-    
-    sorted_keys = annotations_results.keys()
+
+    sorted_keys = list(annotations_results.keys())
     sorted_keys.sort()
     for x in sorted_keys:
         y = annotations_results[x].keys()
@@ -93,22 +93,25 @@ print(parse_json_semantic('semantics.json'))
 
 
 def preprocessinf_semantic():
-    annotations_results = parse_json('semantics.json')
+    annotations_results = parse_json_semantic('semantics.json')
     annotators_map = {}
-    for x in annotations_results.keys():
+    sorted_keys = list(annotations_results.keys())
+    sorted_keys.sort()
+    for x in sorted_keys:
         y = annotations_results[x].keys()
         for ann in y:
             annotators_map[ann] = []
 
-    for x in annotations_results.keys():
+    for x in sorted_keys:
         y = annotations_results[x].keys()
         for ann in y:
-            for row in annotations_results[x][ann]:
-                for tag in row:
-                    annotators_map[ann].append(tag)
+            for mark in annotations_results[x][ann]:
+                annotators_map[ann].append(mark)
 
     print(annotators_map)
     return annotators_map
+
+preprocessinf_semantic()
 
 def parse_json_sentiment(path):
 
@@ -139,7 +142,7 @@ def preprocessinf_sentiment():
     print(annotations_results)
     annotators_map = {}
     
-    sorted_keys = annotations_results.keys()
+    sorted_keys = list(annotations_results.keys())
     sorted_keys.sort()
     for x in sorted_keys:
         y = annotations_results[x].keys()
