@@ -1,0 +1,19 @@
+[ {
+  "firstId" : 1284,
+  "secondId" : 1285,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi e dizionari",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 6,
+  "annotatore" : "",
+  "id" : "1284-1285-0"
+}, {
+  "firstId" : 1284,
+  "secondId" : 1285,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "La funzione dei dizionari",
+  "secondPhrase" : "Unione di insiemi",
+  "voto" : 1,
+  "annotatore" : "",
+  "id" : "1284-1285-1"
+} ]

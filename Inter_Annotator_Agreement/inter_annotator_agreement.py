@@ -63,6 +63,53 @@ def preprocessinf():
 
     return annotators_map
 
+def parse_json_semantic(path):
+
+    f = open(path, "r")
+    parsed_json = (json.loads(f.read()))
+
+    annotations = {}
+    error = 0
+    for ann in parsed_json:
+        voto = ann['voto']
+        id = ann['id']
+        column = int(str(id).split("-")[2])
+        id = id[:-2]
+        annotator=ann["annotatore"]
+
+        if id in annotations:
+            if annotator in annotations[id]:
+                annotations[id][annotator][column] = voto
+            else:
+                annotations[id][annotator] = [-1, -1, -1]
+                annotations[id][annotator][column] = voto
+        else:
+            annotations[id] = {annotator : [-1, -1, -1]}
+            annotations[id][annotator][column] = voto
+
+    return annotations
+
+print(parse_json_semantic('semantics.json'))
+
+
+def preprocessinf_semantic():
+    annotations_results = parse_json('semantics.json')
+    annotators_map = {}
+    for x in annotations_results.keys():
+        y = annotations_results[x].keys()
+        for ann in y:
+            annotators_map[ann] = []
+
+    for x in annotations_results.keys():
+        y = annotations_results[x].keys()
+        for ann in y:
+            for row in annotations_results[x][ann]:
+                for tag in row:
+                    annotators_map[ann].append(tag)
+
+    print(annotators_map)
+    return annotators_map
+
 def parse_json_sentiment(path):
 
     f = open(path, "r")
@@ -106,7 +153,6 @@ def preprocessinf_sentiment():
               annotators_map[ann].append(row)
 
     return annotators_map
-
 
 # ------------------ Pos-tagging/Sentiment Agreement for 2 annotators  ---------------------------------------
 
@@ -277,11 +323,11 @@ preprocessinf_sentiment()
 sorted_list = list(preprocessinf().values())
 sorted_list.sort()
 
-iaa_pos = fleiss_kappa(list(preprocessinf().values()), ANNOTATION_CLASSES)
-iaa_sentiment = fleiss_kappa(list(preprocessinf_sentiment().values()), ['POSITIVO', 'NEGATIVO', 'NEUTRO'])
+#iaa_pos = fleiss_kappa(list(preprocessinf().values()), ANNOTATION_CLASSES)
+#iaa_sentiment = fleiss_kappa(list(preprocessinf_sentiment().values()), ['POSITIVO', 'NEGATIVO', 'NEUTRO'])
 
-print("POS: ",iaa_pos)
-print("SENTIMENT: ",iaa_sentiment)
+#print("POS: ",iaa_pos)
+#print("SENTIMENT: ",iaa_sentiment)
 
 
 # ---------
