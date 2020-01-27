@@ -5,6 +5,9 @@ import numpy as np
 import math
 import json
 
+ANNOTATION_CLASSES = ["ADJ", "ADP", "ADV", "AUX", "CCONJ", "DET", "INTJ", "NOUN",
+                      "NUM", "PART", "PRON", "PROPN", "PUNCT", "SCONJ", "SYM", "VERB", "X"]
+
 
 def parse_json(path):
 
@@ -40,28 +43,25 @@ def parse_json(path):
 
     return annotations
 
-
-
-
 def preprocessinf():
     annotations_results = parse_json('posOutput.json')
     annotators_map = {}
-    for x in annotations_results.keys():
+    
+    sorted_keys = annotations_results.keys()
+    sorted_keys.sort()
+    for x in sorted_keys:
         y = annotations_results[x].keys()
         for ann in y:
             annotators_map[ann] = []
 
-    for x in annotations_results.keys():
+    for x in sorted_keys:
         y = annotations_results[x].keys()
         for ann in y:
             for row in annotations_results[x][ann]:
                 for tag in row:
                     annotators_map[ann].append(tag)
 
-    print(annotators_map)
     return annotators_map
-
-
 
 def parse_json_sentiment(path):
 
@@ -87,94 +87,26 @@ def parse_json_sentiment(path):
     return annotations
 
 
-
-
 def preprocessinf_sentiment():
     annotations_results = parse_json_sentiment('posOutput.json')
     print(annotations_results)
     annotators_map = {}
-    for x in annotations_results.keys():
+    
+    sorted_keys = annotations_results.keys()
+    sorted_keys.sort()
+    for x in sorted_keys:
         y = annotations_results[x].keys()
         for ann in y:
             annotators_map[ann] = []
 
-    for x in annotations_results.keys():
+    for x in sorted_keys:
         y = annotations_results[x].keys()
         for ann in y:
             for row in annotations_results[x][ann]:
               annotators_map[ann].append(row)
 
-    print(annotators_map)
     return annotators_map
 
-preprocessinf_sentiment()
-
-
-ANNOTATION_CLASSES = ["ADJ", "ADP", "ADV", "AUX", "CCONJ", "DET", "INTJ", "NOUN",
-                      "NUM", "PART", "PRON", "PROPN", "PUNCT", "SCONJ", "SYM", "VERB", "X"]
-
-# Data taken from google sheet
-ROWS = [
-    [u'ADV', u'VERB', u'ADV', u'ADJ', u'SCONJ', u'DET', u'NOUN', u'DET', u'NOUN', u'ADP', u'NOUN', u'ADJ',
-     u'ADP', u'PROPN', u'PROPN', u'PROPN', u'VERB', u'ADJ', u'SYM', u'CCONJ', u'SCONJ', u'VERB', u'DET', u'ADJ',
-     u'NOUN', u'SCONJ', u'VERB', u'AUX', u'ADJ', u'ADP', u'NOUN', u'SYM', u'PUNCT', u'ADV', u'SCONJ', u'VERB',
-     u'ADJ', u'VERB', u'SCONJ', u'ADV', u'ADJ', u'NOUN', u'ADP', u'ADJ', u'NOUN', u'CCONJ', u'DET', u'NOUN', 
-     u'ADV', u'VERB', u'ADJ', u'DET', u'NOUN', u'CCONJ', u'DET', u'NOUN', u'PROPN', u'PART', u'PROPN', u'PUNCT'],
-    
-    [u'part', u'aux', u'adv', u'adj', u'sconj', u'det', u'noun', u'adp', u'noun', u'adp', u'noun', u'adj',
-     u'adp', u'propn', u'propn', u'propn', u'aux', u'adj', u'sym', u'cconj', u'cconj', u'verb', u'det', u'adj',
-     u'noun', u'sconj', u'verb', u'verb', u'verb', u'adp', u'propn', u'sym', u'sym', u'sconj', u'sconj', u'verb',
-     u'adj', u'verb', u'adp', u'adp', u'adj', u'noun', u'', u'adj', u'noun', u'cconj', u'adp', u'noun', u'adv',
-     u'aux', u'adj', u'adp', u'noun', u'cconj', u'adp', u'propn', u'propn', u'propn', u'propn', u'sym'],
-    
-    [u'CCONJ', u'VERB', u'ADV', u'ADJ', u'SCONJ', u'DET', u'NOUN', u'ADP', u'NOUN', u'ADP', u'NOUN', u'ADJ',
-     u'ADP', u'PROPN', u'PROPN', u'PROPN', u'AUX', u'VERB', u'SYM', u'SCONJ', u'CCONJ', u'VERB', u'DET', u'ADJ',
-     u'NOUN', u'SCONJ', u'AUX', u'VERB', u'ADJ', u'ADP', u'PROPN', u'SYM', u'PUNCT', u'ADJ', u'ADV', u'AUX', u'VERB',
-     u'VERB', u'PRON', u'ADV', u'ADJ', u'NOUN', u'ADP', u'ADJ', u'NOUN', u'ADP', u'DET', u'NOUN', u'ADV', u'AUX',
-     u'VERB', u'DET', u'NOUN', u'ADP', u'DET', u'NOUN', u'PROPN', u'PROPN', u'PROPN', u'PUNCT'],
-
-    [u'ADV', u'VERB', u'ADV', u'ADJ', u'CCONJ', u'DET', u'NOUN', u'ADP', u'NOUN', u'CCONJ', u'NOUN', u'ADJ',
-     u'ADP', u'PROPN', u'PROPN', u'PROPN', u'VERB', u'ADJ', u'PUNCT', u'ADV', u'CCONJ', u'VERB', u'DET', u'ADJ',
-     u'NOUN', u'CCONJ', u'VERB', u'VERB', u'VERB', u'ADP', u'PROPN', u'PUNCT', u'PUNCT', u'PRON', u'CCONJ',
-     u'VERB', u'ADJ', u'VERB', u'CCONJ', u'ADJ', u'ADJ', u'NOUN', u'ADP', u'ADJ', u'NOUN', u'ADP', u'DET', u'NOUN',
-     u'ADV', u'VERB', u'ADJ', u'DET', u'NOUN', u'ADP', u'DET', u'PROPN', u'PROPN', u'PROPN', u'PROPN', u'PUNCT'],
-
-    [u'ADV', u'VERB', u'ADV', u'ADJ', u'SCONJ', u'DET', u'NOUN', u'ADP', u'NOUN', u'ADP', u'NOUN', u'ADJ', u'ADP',
-     u'PROPN', u'PROPN', u'PROPN', u'VERB', u'ADJ', u'SYM', u'SCONJ', u'SCONJ', u'VERB', u'DET' , u'ADJ', u'NOUN',
-     u'SCONJ', u'AUX', u'AUX', u'VERB', u'ADP', u'NOUN', u'SYM', u'PUNCT', u'PRON', u'SCONJ', u'VERB', u'ADJ', u'VERB',
-     u'SCONJ', u'ADV', u'PRON', u'NOUN', u'ADP', u'ADJ', u'NOUN', u'ADP', u'DET', u'NOUN', u'NOUN', u'VERB', u'ADJ',
-     u'DET', u'NOUN', u'ADP', u'DET', u'NOUN', u'PROPN', u'PROPN', u'PROPN'],
-
-    [u'AUX', u'VERB', u'ADJ', u'NOUN', u'SCONJ', u'DET', u'NOUN', u'ADP', u'NOUN', u'ADP', u'NOUN', u'ADJ', u'ADP',
-     u'PROPN', u'PROPN', u'PROPN', u'VERB', u'NOUN', u'PUNCT', u'SCONJ', u'SCONJ', u'VERB', u'DET', u'ADJ', u'NOUN',
-     u'ADV', u'AUX', u'VERB', u'VERB', u'ADP', u'PROPN', u'PUNCT', u'PUNCT', u'DET', u'SCONJ', u'VERB', u'ADV', u'VERB',
-     u'SCONJ', u'ADV', u'PRON', u'NOUN', u'ADP', u'ADV', u'NOUN', u'ADP', u'DET', u'NOUN', u'ADV', u'VERB', u'NOUN',
-     u'DET', u'NOUN', u'ADP', u'DET', u'NOUN', u'PROPN', u'PROPN', u'PROPN', u'PUNCT'],
-
-    [u'ADV', u'AUX', u'ADJ', u'NOUN', u'SCONJ', u'DET', u'NOUN', u'ADP', u'NOUN', u'ADP', u'NOUN', u'ADJ', u'ADP',
-     u'PROPN', u'PROPN', u'PROPN', u'AUX', u'NOUN', u'PUNCT', u'CCONJ', u'SCONJ', u'VERB', u'DET', u'ADJ', u'NOUN',
-     u'SCONJ', u'AUX', u'VERB', u'ADV', u'ADP', u'PROPN', u'PUNCT', u'PUNCT', u'PRON', u'SCONJ', u'AUX', u'ADV',
-     u'AUX', u'SCONJ', u'ADV', u'ADV', u'NOUN', u'ADP', u'ADJ', u'NOUN', u'ADP', u'DET', u'NOUN', u'ADV', u'AUX',
-     u'NOUN', u'DET', u'NOUN', u'ADP', u'DET', u'PROPN', u'PROPN', u'PART', u'PROPN', u'PUNCT']
-]
-
-# -------------------------------------------------------------------------------------
-
-data = {
-    34: {"tamiano": ["AUX", "VERB"],
-         "salman": ["NOUN", "VERB"]
-    },
-
-    1352: {"tamiano": ["AUX", "VERB"],
-           "salman": ["NOUN", "VERB"]
-    }
-}
-
-# obtained by linearizing, in order, 
-flatten_data = {
-    "tamiano": ["AUX", "VERB", "AUX", "VERB"],
-    "salman": ["NOUN", "VERB", "NOUN", "VERB"]
-}
 
 # ------------------ Pos-tagging/Sentiment Agreement for 2 annotators  ---------------------------------------
 
@@ -340,6 +272,10 @@ def kendell_tau(col1, col2):
 # ------------------ Testing area ---------------------------------------
 print("|--------------- Syntactical annotation agreement testing --------------------|")
 
+preprocessinf_sentiment()
+
+sorted_list = list(preprocessinf().values())
+sorted_list.sort()
 
 iaa_pos = fleiss_kappa(list(preprocessinf().values()), ANNOTATION_CLASSES)
 iaa_sentiment = fleiss_kappa(list(preprocessinf_sentiment().values()), ['POSITIVO', 'NEGATIVO', 'NEUTRO'])
