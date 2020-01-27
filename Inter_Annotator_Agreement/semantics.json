@@ -16,6 +16,15 @@
   "voto" : 1,
   "annotatore" : "salman",
   "id" : "1284-1285-1"
+}, {
+  "firstId" : 1284,
+  "secondId" : 1285,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "La funzione dei dizionari",
+  "secondPhrase" : "Unione di insiemi",
+  "voto" : 1,
+  "annotatore" : "salman",
+  "id" : "1284-1285-2"
 } ,{
   "firstId" : 1284,
   "secondId" : 1285,
@@ -34,7 +43,7 @@
   "voto" : 4,
   "annotatore" : "giorgioni",
   "id" : "1284-1285-1"
-},{
+}, {
   "firstId" : 1284,
   "secondId" : 1285,
   "column" : "Argomento più interessante",
@@ -42,5 +51,5 @@
   "secondPhrase" : "Unione di insiemi",
   "voto" : 4,
   "annotatore" : "giorgioni",
-  "id" : "1286-1287-1"
-} ]
+  "id" : "1284-1285-2"
+}]

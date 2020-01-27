@@ -5,6 +5,10 @@ import numpy as np
 import math
 import json
 
+
+POS_FILENAME = ''
+SEMANTIC_FILENAME = ''
+
 ANNOTATION_CLASSES = ["ADJ", "ADP", "ADV", "AUX", "CCONJ", "DET", "INTJ", "NOUN",
                       "NUM", "PART", "PRON", "PROPN", "PUNCT", "SCONJ", "SYM", "VERB", "X"]
 
@@ -43,8 +47,8 @@ def parse_json(path):
 
     return annotations
 
-def preprocessinf():
-    annotations_results = parse_json('posOutput.json')
+def preprocessinf(path):
+    annotations_results = parse_json(path)
     annotators_map = {}
 
     sorted_keys = list(annotations_results.keys())
@@ -92,8 +96,8 @@ def parse_json_semantic(path):
 print(parse_json_semantic('semantics.json'))
 
 
-def preprocessinf_semantic():
-    annotations_results = parse_json_semantic('semantics.json')
+def preprocessinf_semantic(path):
+    annotations_results = parse_json_semantic(path)
     annotators_map = {}
     sorted_keys = list(annotations_results.keys())
     sorted_keys.sort()
@@ -137,8 +141,8 @@ def parse_json_sentiment(path):
     return annotations
 
 
-def preprocessinf_sentiment():
-    annotations_results = parse_json_sentiment('posOutput.json')
+def preprocessinf_sentiment(path):
+    annotations_results = parse_json_sentiment(path)
     print(annotations_results)
     annotators_map = {}
     
@@ -326,9 +330,8 @@ preprocessinf_sentiment()
 sorted_list = list(preprocessinf().values())
 sorted_list.sort()
 
-#iaa_pos = fleiss_kappa(list(preprocessinf().values()), ANNOTATION_CLASSES)
-#iaa_sentiment = fleiss_kappa(list(preprocessinf_sentiment().values()), ['POSITIVO', 'NEGATIVO', 'NEUTRO'])
-
+#iaa_pos = fleiss_kappa(list(preprocessinf(POS_FILENAME).values()), ANNOTATION_CLASSES)
+#iaa_sentiment = fleiss_kappa(list(preprocessinf_sentiment(POS_FILENAME).values()), ['POSITIVO', 'NEGATIVO', 'NEUTRO'])
 #print("POS: ",iaa_pos)
 #print("SENTIMENT: ",iaa_sentiment)
 
@@ -347,4 +350,7 @@ z = 3 * tau * math.sqrt(n * (n-1)) / math.sqrt(2 * (2*n + 5))
 print(f"Tau     is: {tau}")
 print(f"Z-value is: {z}")
 
+
+#iaa_semantic = kendell_tau(list(preprocessinf_semantic(SEMANTIC_FILENAME).values())[0], list(preprocessinf_semantic().values())[1])
+#print("IAA SEMANTIC: ", iaa_semantic)
 
