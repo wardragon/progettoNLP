@@ -1,10 +1,114 @@
 # ------------------ Imports  ---------------------------------------
 
-# import gspread
-from pprint import pprint 
 from itertools import combinations
 import numpy as np
 import math
+import json
+
+
+def parse_json(path):
+
+    f = open(path, "r")
+    parsed_json = (json.loads(f.read()))
+
+    annotations = {}
+    error = 0
+    for ann in parsed_json:
+        list_of_annotations = []
+        try:
+            if ann['messaggioTags'] == None:
+                list_of_annotations.append(["" for x in range(0, len(ann['messaggioWords']))])
+            else:
+                list_of_annotations.append(ann['messaggioTags'])
+            if ann['argomentoTags'] == None:
+                list_of_annotations.append(["" for x in range(0, len(ann['argomentoWords']))])
+            else:
+                list_of_annotations.append(ann['argomentoTags'])
+
+            if ann['chiarimentiTags'] == None:
+                list_of_annotations.append(["" for x in range(0, len(ann['chiarimentiWords']))])
+            else:
+                list_of_annotations.append(ann['chiarimentiTags'])
+
+            if ann['id'] in annotations:
+                annotations[ann['id']][ann['annotatore']] = list_of_annotations
+            else:
+                annotations[ann['id']] = {ann['annotatore']: list_of_annotations}
+
+        except Exception as e:
+            print("None argoument of: ", ann['id'] , ann['messaggioWords'], ann['argomentoWords'], ann['chiarimentiWords'])
+
+    return annotations
+
+
+
+
+def preprocessinf():
+    annotations_results = parse_json('posOutput.json')
+    annotators_map = {}
+    for x in annotations_results.keys():
+        y = annotations_results[x].keys()
+        for ann in y:
+            annotators_map[ann] = []
+
+    for x in annotations_results.keys():
+        y = annotations_results[x].keys()
+        for ann in y:
+            for row in annotations_results[x][ann]:
+                for tag in row:
+                    annotators_map[ann].append(tag)
+
+    print(annotators_map)
+    return annotators_map
+
+
+
+def parse_json_sentiment(path):
+
+    f = open(path, "r")
+    parsed_json = (json.loads(f.read()))
+
+    annotations = {}
+    error = 0
+    for ann in parsed_json:
+        list_of_annotations = []
+
+        list_of_annotations.append(ann['sentimentArgomento'])
+
+        list_of_annotations.append(ann['sentimentChiarimenti'])
+
+
+        if ann['id'] in annotations:
+            annotations[ann['id']][ann['annotatore']] = list_of_annotations
+        else:
+            annotations[ann['id']] = {ann['annotatore']: list_of_annotations}
+
+
+    return annotations
+
+
+
+
+def preprocessinf_sentiment():
+    annotations_results = parse_json_sentiment('posOutput.json')
+    print(annotations_results)
+    annotators_map = {}
+    for x in annotations_results.keys():
+        y = annotations_results[x].keys()
+        for ann in y:
+            annotators_map[ann] = []
+
+    for x in annotations_results.keys():
+        y = annotations_results[x].keys()
+        for ann in y:
+            for row in annotations_results[x][ann]:
+              annotators_map[ann].append(row)
+
+    print(annotators_map)
+    return annotators_map
+
+preprocessinf_sentiment()
+
 
 ANNOTATION_CLASSES = ["ADJ", "ADP", "ADV", "AUX", "CCONJ", "DET", "INTJ", "NOUN",
                       "NUM", "PART", "PRON", "PROPN", "PUNCT", "SCONJ", "SYM", "VERB", "X"]
@@ -236,16 +340,13 @@ def kendell_tau(col1, col2):
 # ------------------ Testing area ---------------------------------------
 print("|--------------- Syntactical annotation agreement testing --------------------|")
 
-# print coefficients for given spreadsheet
-# my_list = [1, 2, 3, 4, 5, 6, 7]
-my_list = [1, 2]
-function = cohen_kappa_hp
-for pair in combinations(my_list, 2):
-    i, j = pair
-    value = basic_agreement(ROWS[i-1], ROWS[j-1], ANNOTATION_CLASSES, function)
-    print("Scott's pi coefficient for " + str(i) + ", " + str(j) + " is: " + str(value))
-    
-print(f"Fleiss kappa is: {fleiss_kappa(ROWS, ANNOTATION_CLASSES)}")
+
+iaa_pos = fleiss_kappa(list(preprocessinf().values()), ANNOTATION_CLASSES)
+iaa_sentiment = fleiss_kappa(list(preprocessinf_sentiment().values()), ['POSITIVO', 'NEGATIVO', 'NEUTRO'])
+
+print("POS: ",iaa_pos)
+print("SENTIMENT: ",iaa_sentiment)
+
 
 # ---------
 print("|--------------- Semantical annotation agreement testing --------------------|")
