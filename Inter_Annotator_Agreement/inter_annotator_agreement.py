@@ -5,37 +5,41 @@ import numpy as np
 import math
 import json
 
+# global variables
 
-POS_FILENAME = ''
-SEMANTIC_FILENAME = ''
+POS_FILENAME       = 'posTagRipulito.json'
+SEMANTIC_FILENAME  = 'semantica.json'
 
 ANNOTATION_CLASSES = ["ADJ", "ADP", "ADV", "AUX", "CCONJ", "DET", "INTJ", "NOUN",
-                      "NUM", "PART", "PRON", "PROPN", "PUNCT", "SCONJ", "SYM", "VERB", "X"]
+                      "NUM", "PART", "PRON", "PROPN", "PUNCT", "SCONG", "SYM", "VERB", "X"]
 
+N_OF_ANNOTATORS    = 11
 
-def parse_json(path):
+CLASSES_TO_HIDE    = []
+ID_TO_HIDE_FOR_POS = [239]
 
+# ---------------- Pos tagging analysis ----------------
+
+def parse_json_pos(path):
     f = open(path, "r")
     parsed_json = (json.loads(f.read()))
-
     annotations = {}
     error = 0
+    
     for ann in parsed_json:
         list_of_annotations = []
         try:
-            if ann['messaggioTags'] == None:
-                list_of_annotations.append(["" for x in range(0, len(ann['messaggioWords']))])
-            else:
-                list_of_annotations.append(ann['messaggioTags'])
-            if ann['argomentoTags'] == None:
-                list_of_annotations.append(["" for x in range(0, len(ann['argomentoWords']))])
-            else:
-                list_of_annotations.append(ann['argomentoTags'])
 
-            if ann['chiarimentiTags'] == None:
-                list_of_annotations.append(["" for x in range(0, len(ann['chiarimentiWords']))])
-            else:
-                list_of_annotations.append(ann['chiarimentiTags'])
+            # NOTE: We don't consider annotations regarding id found
+            # in array ID_TO_HIDE_FOR_POS.
+            if ann['id'] in ID_TO_HIDE_FOR_POS:
+                continue
+            
+            for field in ['messaggioTags', 'argomentoTags', 'chiarimentiTags']:
+                if ann[field] == None:
+                    list_of_annotations.append(["" for x in range(0, len(ann[field]))])
+                else:
+                    list_of_annotations.append([x for x in ann[field] if x not in CLASSES_TO_HIDE])
 
             if ann['id'] in annotations:
                 annotations[ann['id']][ann['annotatore']] = list_of_annotations
@@ -47,8 +51,8 @@ def parse_json(path):
 
     return annotations
 
-def preprocessinf(path):
-    annotations_results = parse_json(path)
+def pre_process_pos(path):
+    annotations_results = parse_json_pos(path)
     annotators_map = {}
 
     sorted_keys = list(annotations_results.keys())
@@ -67,6 +71,8 @@ def preprocessinf(path):
 
     return annotators_map
 
+# ---------------- Semantic analysis ----------------
+
 def parse_json_semantic(path):
 
     f = open(path, "r")
@@ -75,28 +81,35 @@ def parse_json_semantic(path):
     annotations = {}
     error = 0
     for ann in parsed_json:
-        voto = ann['voto']
-        id = ann['id']
-        column = int(str(id).split("-")[2])
-        id = id[:-2]
-        annotator=ann["annotatore"]
+        if 'voto' in ann and 'id' in ann and 'annotatore' in ann:
+            voto = ann['voto']
+            
+            id = ann['id']
+            id_1, id_2, column = str(id).split("-")
+            column = int(column)
+            id = id[:-2]
+            annotator=ann["annotatore"]
 
-        if id in annotations:
-            if annotator in annotations[id]:
-                annotations[id][annotator][column] = voto
+            if id in annotations:
+                if annotator in annotations[id]:
+                    annotations[id][annotator][column] = voto
+                else:
+                    annotations[id][annotator] = [-1, -1, -1]
+                    annotations[id][annotator][column] = voto
+            elif id_2 + "-" + id_1 in annotations:
+                id = id_2 + "-" + id_1
+                if annotator in annotations[id]:
+                    annotations[id][annotator][column] = voto
+                else:
+                    annotations[id][annotator] = [-1, -1, -1]
+                    annotations[id][annotator][column] = voto
             else:
-                annotations[id][annotator] = [-1, -1, -1]
+                annotations[id] = {annotator : [-1, -1, -1]}
                 annotations[id][annotator][column] = voto
-        else:
-            annotations[id] = {annotator : [-1, -1, -1]}
-            annotations[id][annotator][column] = voto
 
     return annotations
 
-print(parse_json_semantic('semantics.json'))
-
-
-def preprocessinf_semantic(path):
+def pre_process_semantic(path):
     annotations_results = parse_json_semantic(path)
     annotators_map = {}
     sorted_keys = list(annotations_results.keys())
@@ -112,10 +125,9 @@ def preprocessinf_semantic(path):
             for mark in annotations_results[x][ann]:
                 annotators_map[ann].append(mark)
 
-    print(annotators_map)
     return annotators_map
 
-preprocessinf_semantic()
+# ---------------- Sentimeny analysis ----------------
 
 def parse_json_sentiment(path):
 
@@ -128,22 +140,17 @@ def parse_json_sentiment(path):
         list_of_annotations = []
 
         list_of_annotations.append(ann['sentimentArgomento'])
-
         list_of_annotations.append(ann['sentimentChiarimenti'])
-
 
         if ann['id'] in annotations:
             annotations[ann['id']][ann['annotatore']] = list_of_annotations
         else:
             annotations[ann['id']] = {ann['annotatore']: list_of_annotations}
 
-
     return annotations
 
-
-def preprocessinf_sentiment(path):
+def pre_process_sentiment(path):
     annotations_results = parse_json_sentiment(path)
-    print(annotations_results)
     annotators_map = {}
     
     sorted_keys = list(annotations_results.keys())
@@ -322,35 +329,59 @@ def kendell_tau(col1, col2):
 
 # TODO: understand how to extend kendell's tau to multiple annotators.
 
-# ------------------ Testing area ---------------------------------------
-print("|--------------- Syntactical annotation agreement testing --------------------|")
+# ------------------ Main functions ---------------------------------------
 
-preprocessinf_sentiment()
+def compute_pos_agreement(file_path):
+    print("|--------------- Pos annotation agreement -------------------------|")        
+    iaa_pos       = fleiss_kappa(list(pre_process_pos(file_path).values()),
+                                 ANNOTATION_CLASSES)
 
-sorted_list = list(preprocessinf().values())
-sorted_list.sort()
+    print("POS: ", iaa_pos)
 
-#iaa_pos = fleiss_kappa(list(preprocessinf(POS_FILENAME).values()), ANNOTATION_CLASSES)
-#iaa_sentiment = fleiss_kappa(list(preprocessinf_sentiment(POS_FILENAME).values()), ['POSITIVO', 'NEGATIVO', 'NEUTRO'])
-#print("POS: ",iaa_pos)
-#print("SENTIMENT: ",iaa_sentiment)
+def compute_sentiment_agreement(file_path):
 
+    print("|--------------- Semantic annotation agreement --------------------|")
+    iaa_sentiment = fleiss_kappa(list(pre_process_sentiment(file_path).values()),
+                                 ['POSITIVO', 'NEGATIVO', 'NEUTRO'])
 
-# ---------
-print("|--------------- Semantical annotation agreement testing --------------------|")
+    print("SENTIMENT: ",iaa_sentiment)
 
-# compute statistical significance for kendells tau
+def compute_semantic_agreement(file_path):
+    print("|--------------- Semantical annotation agreement ------------------|")
+    # compute statistical significance for kendells tau
 
-col1 = [1, 2, 5, 6, 4, 3, 7, 8, 9, 10, 11, 12]
-col2 = [1, 2, 6, 5, 3, 4, 8, 7, 10, 9, 12, 11]
-n = len(col1)
-tau = kendell_tau(col1, col2)
-z = 3 * tau * math.sqrt(n * (n-1)) / math.sqrt(2 * (2*n + 5))
+    semantic_results = list(pre_process_semantic(file_path).values())
+    n = len(semantic_results[0])
 
-print(f"Tau     is: {tau}")
-print(f"Z-value is: {z}")
+    CODE_TO_ANNOTATORS = {
+        0: "Santoro",
+        1: "Fabrizio Tafani",
+        2: "Dente",
+        3: "Francesco Arena",
+        4: "tamiano",
+        5: "Corridori",
+        6: "MM",
+        7: "salman",
+        8: "giorgioni",
+        9: "Volpi",
+        10: "Paolo Cerrito"
+    }
 
+    for pair in combinations(range(0, N_OF_ANNOTATORS), 2):
+        i, j = pair
 
-#iaa_semantic = kendell_tau(list(preprocessinf_semantic(SEMANTIC_FILENAME).values())[0], list(preprocessinf_semantic().values())[1])
-#print("IAA SEMANTIC: ", iaa_semantic)
+        print(f"Semantic for: {CODE_TO_ANNOTATORS[i], CODE_TO_ANNOTATORS[j]}")
 
+        tau = kendell_tau(
+            semantic_results[i],
+            semantic_results[j])
+
+        z = 3 * tau * math.sqrt(n * (n-1)) / math.sqrt(2 * (2*n + 5))
+
+        print(f"Tau     is: {tau}")
+        print(f"Z-value is: {z}")
+
+if __name__ == "__main__":
+    compute_pos_agreement(POS_FILENAME)
+    compute_sentiment_agreement(POS_FILENAME)
+    compute_semantic_agreement(SEMANTIC_FILENAME)
