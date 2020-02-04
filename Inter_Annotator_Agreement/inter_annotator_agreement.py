@@ -15,12 +15,19 @@ ANNOTATION_CLASSES = ["ADJ", "ADP", "ADV", "AUX", "CCONJ", "DET", "INTJ", "NOUN"
 
 N_OF_ANNOTATORS    = 11
 
-CLASSES_TO_HIDE    = []
+CLASSES_TO_HIDE    = ['PUNCT']
 ID_TO_HIDE_FOR_POS = [239]
+
+
+ANNOTATORS = ["Claudio Santoro", "Fabrizio Tafani", "Francesco Arena",
+              "Dente", "tamiano", "Corridori", "MM", "Paolo Cerrito", "salman",
+              "giorgioni", "Volpi"]
+
+ANNOTATORS_TO_CONSIDER_FOR_POS = ANNOTATORS
 
 # ---------------- Pos tagging analysis ----------------
 
-def parse_json_pos(path):
+def parse_json_pos(path, annotators_to_consider=ANNOTATORS):
     f = open(path, "r")
     parsed_json = (json.loads(f.read()))
     annotations = {}
@@ -32,7 +39,7 @@ def parse_json_pos(path):
 
             # NOTE: We don't consider annotations regarding id found
             # in array ID_TO_HIDE_FOR_POS.
-            if ann['id'] in ID_TO_HIDE_FOR_POS:
+            if ann['id'] in ID_TO_HIDE_FOR_POS or ann['annotatore'] not in annotators_to_consider:
                 continue
             
             for field in ['messaggioTags', 'argomentoTags', 'chiarimentiTags']:
@@ -51,8 +58,8 @@ def parse_json_pos(path):
 
     return annotations
 
-def pre_process_pos(path):
-    annotations_results = parse_json_pos(path)
+def pre_process_pos(path, annotators_to_consider=ANNOTATORS):
+    annotations_results = parse_json_pos(path, annotators_to_consider)
     annotators_map = {}
 
     sorted_keys = list(annotations_results.keys())
@@ -331,11 +338,12 @@ def kendell_tau(col1, col2):
 
 # ------------------ Main functions ---------------------------------------
 
-def compute_pos_agreement(file_path):
+def compute_pos_agreement(file_path, annotators):
     print("|--------------- Pos annotation agreement -------------------------|")        
-    iaa_pos       = fleiss_kappa(list(pre_process_pos(file_path).values()),
+    iaa_pos       = fleiss_kappa(list(pre_process_pos(file_path, annotators).values()),
                                  ANNOTATION_CLASSES)
 
+    print(f"POS for: {annotators}")                
     print("POS: ", iaa_pos)
 
 def compute_sentiment_agreement(file_path):
@@ -382,6 +390,11 @@ def compute_semantic_agreement(file_path):
         print(f"Z-value is: {z}")
 
 if __name__ == "__main__":
-    compute_pos_agreement(POS_FILENAME)
-    compute_sentiment_agreement(POS_FILENAME)
-    compute_semantic_agreement(SEMANTIC_FILENAME)
+    # compute_pos_agreement(POS_FILENAME, ['Dente', 'Volpi', 'tamiano'])
+    
+    for t in combinations(ANNOTATORS, 6):
+        annotators = list(t)
+        compute_pos_agreement(POS_FILENAME, annotators)
+
+    # compute_sentiment_agreement(POS_FILENAME)
+    # compute_semantic_agreement(SEMANTIC_FILENAME)

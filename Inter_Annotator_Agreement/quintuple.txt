@@ -1,0 +1,1386 @@
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Dente', 'tamiano']
+POS:  0.23414871125399817
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Dente', 'Corridori']
+POS:  0.1956137268017287
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Dente', 'MM']
+POS:  0.1517798725639283
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Dente', 'Paolo Cerrito']
+POS:  0.16967582779196683
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Dente', 'salman']
+POS:  0.1879214359795599
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Dente', 'giorgioni']
+POS:  0.1879214359795599
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Dente', 'Volpi']
+POS:  0.2585479874358677
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'Corridori']
+POS:  0.17682335204203548
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'MM']
+POS:  0.13489021917806493
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'Paolo Cerrito']
+POS:  0.1510667234134149
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'salman']
+POS:  0.1696072730080197
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'giorgioni']
+POS:  0.1696072730080197
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'Volpi']
+POS:  0.2315300833893493
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'MM']
+POS:  0.17029233331814642
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'Paolo Cerrito']
+POS:  0.19555193996552994
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'salman']
+POS:  0.1856473756485072
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'giorgioni']
+POS:  0.1856473756485072
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'Volpi']
+POS:  0.19123664476363866
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'MM', 'Paolo Cerrito']
+POS:  0.17105287647266712
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'MM', 'salman']
+POS:  0.14071197160309712
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'MM', 'giorgioni']
+POS:  0.14071197160309712
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'MM', 'Volpi']
+POS:  0.15013856364052355
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Paolo Cerrito', 'salman']
+POS:  0.16040507749438837
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Paolo Cerrito', 'giorgioni']
+POS:  0.16040507749438837
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'Paolo Cerrito', 'Volpi']
+POS:  0.16833182567877214
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'salman', 'giorgioni']
+POS:  0.24980303390711356
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'salman', 'Volpi']
+POS:  0.18459461267181249
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Francesco Arena', 'giorgioni', 'Volpi']
+POS:  0.18459461267181249
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'tamiano', 'Corridori']
+POS:  0.2426015499849528
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'tamiano', 'MM']
+POS:  0.25293647252165313
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'tamiano', 'Paolo Cerrito']
+POS:  0.2778131560988103
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'tamiano', 'salman']
+POS:  0.32358743881698643
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'tamiano', 'giorgioni']
+POS:  0.32358743881698643
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'tamiano', 'Volpi']
+POS:  0.4476003014907741
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'Corridori', 'MM']
+POS:  0.14874473713042433
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'Corridori', 'Paolo Cerrito']
+POS:  0.18275614550572242
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'Corridori', 'salman']
+POS:  0.19930758548633054
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'Corridori', 'giorgioni']
+POS:  0.19930758548633054
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'Corridori', 'Volpi']
+POS:  0.26688430616098696
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'MM', 'Paolo Cerrito']
+POS:  0.21119198513146278
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'MM', 'salman']
+POS:  0.2074386070474974
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'MM', 'giorgioni']
+POS:  0.2074386070474974
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'MM', 'Volpi']
+POS:  0.2786793865042231
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'Paolo Cerrito', 'salman']
+POS:  0.23592258708764452
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'Paolo Cerrito', 'giorgioni']
+POS:  0.23592258708764452
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'Paolo Cerrito', 'Volpi']
+POS:  0.3057072869895172
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'salman', 'giorgioni']
+POS:  0.3528528319816436
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'salman', 'Volpi']
+POS:  0.349628921801827
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Dente', 'giorgioni', 'Volpi']
+POS:  0.349628921801827
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'Corridori', 'MM']
+POS:  0.1306440657625561
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'Corridori', 'Paolo Cerrito']
+POS:  0.16272503876376704
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'Corridori', 'salman']
+POS:  0.1795785923755489
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'Corridori', 'giorgioni']
+POS:  0.1795785923755489
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'Corridori', 'Volpi']
+POS:  0.2384892836971228
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'MM', 'Paolo Cerrito']
+POS:  0.19222073199992623
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'MM', 'salman']
+POS:  0.18901510788069745
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'MM', 'giorgioni']
+POS:  0.18901510788069745
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'MM', 'Volpi']
+POS:  0.251625447448524
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'Paolo Cerrito', 'salman']
+POS:  0.2156217005308887
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'Paolo Cerrito', 'giorgioni']
+POS:  0.2156217005308887
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'Paolo Cerrito', 'Volpi']
+POS:  0.2767652325126815
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'salman', 'giorgioni']
+POS:  0.3315768686990966
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'salman', 'Volpi']
+POS:  0.32055882325350227
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'tamiano', 'giorgioni', 'Volpi']
+POS:  0.32055882325350227
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Corridori', 'MM', 'Paolo Cerrito']
+POS:  0.17136738242057306
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Corridori', 'MM', 'salman']
+POS:  0.13924375303038536
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Corridori', 'MM', 'giorgioni']
+POS:  0.13924375303038536
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Corridori', 'MM', 'Volpi']
+POS:  0.14562351814514152
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Corridori', 'Paolo Cerrito', 'salman']
+POS:  0.17501782163358587
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Corridori', 'Paolo Cerrito', 'giorgioni']
+POS:  0.17501782163358587
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Corridori', 'Paolo Cerrito', 'Volpi']
+POS:  0.17993743411518062
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Corridori', 'salman', 'giorgioni']
+POS:  0.2628123567026607
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Corridori', 'salman', 'Volpi']
+POS:  0.1944849838371964
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Corridori', 'giorgioni', 'Volpi']
+POS:  0.1944849838371964
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.20219490593260278
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.20219490593260278
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.2111748643754541
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'MM', 'salman', 'giorgioni']
+POS:  0.26924700120070716
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'MM', 'salman', 'Volpi']
+POS:  0.20542940809671786
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'MM', 'giorgioni', 'Volpi']
+POS:  0.20542940809671786
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.29955712485215974
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.23418754659858532
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.23418754659858532
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Fabrizio Tafani', 'salman', 'giorgioni', 'Volpi']
+POS:  0.3491267675420708
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'tamiano', 'Corridori']
+POS:  0.18696397727301173
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'tamiano', 'MM']
+POS:  0.14417267407502618
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'tamiano', 'Paolo Cerrito']
+POS:  0.16101820539132033
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'tamiano', 'salman']
+POS:  0.18184501334808145
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'tamiano', 'giorgioni']
+POS:  0.18184501334808145
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'tamiano', 'Volpi']
+POS:  0.2392585138385957
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'Corridori', 'MM']
+POS:  0.1797170589072423
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'Corridori', 'Paolo Cerrito']
+POS:  0.20571303565099763
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'Corridori', 'salman']
+POS:  0.19798388854114513
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'Corridori', 'giorgioni']
+POS:  0.19798388854114513
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'Corridori', 'Volpi']
+POS:  0.19874333553422904
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'MM', 'Paolo Cerrito']
+POS:  0.1804128722818149
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'MM', 'salman']
+POS:  0.15213555964767508
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'MM', 'giorgioni']
+POS:  0.15213555964767508
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'MM', 'Volpi']
+POS:  0.15677927132014297
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'Paolo Cerrito', 'salman']
+POS:  0.1725299716074965
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'Paolo Cerrito', 'giorgioni']
+POS:  0.1725299716074965
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'Paolo Cerrito', 'Volpi']
+POS:  0.17566844313342633
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'salman', 'giorgioni']
+POS:  0.26462914494548306
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'salman', 'Volpi']
+POS:  0.1942248940354803
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Dente', 'giorgioni', 'Volpi']
+POS:  0.1942248940354803
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'Corridori', 'MM']
+POS:  0.17002394509351568
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'Corridori', 'Paolo Cerrito']
+POS:  0.19418258719505585
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'Corridori', 'salman']
+POS:  0.18711042858701968
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'Corridori', 'giorgioni']
+POS:  0.18711042858701968
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'Corridori', 'Volpi']
+POS:  0.1800708551784708
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'MM', 'Paolo Cerrito']
+POS:  0.1705270296239344
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'MM', 'salman']
+POS:  0.14316093835648638
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'MM', 'giorgioni']
+POS:  0.14316093835648638
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'MM', 'Volpi']
+POS:  0.14000965037758367
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'Paolo Cerrito', 'salman']
+POS:  0.16179536696297428
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'Paolo Cerrito', 'giorgioni']
+POS:  0.16179536696297428
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'Paolo Cerrito', 'Volpi']
+POS:  0.15714982060746346
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'salman', 'giorgioni']
+POS:  0.25329991781430883
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'salman', 'Volpi']
+POS:  0.1759955135136147
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'tamiano', 'giorgioni', 'Volpi']
+POS:  0.1759955135136147
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Corridori', 'MM', 'Paolo Cerrito']
+POS:  0.2890294559118088
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Corridori', 'MM', 'salman']
+POS:  0.23346534777358635
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Corridori', 'MM', 'giorgioni']
+POS:  0.23346534777358635
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Corridori', 'MM', 'Volpi']
+POS:  0.17388217091243377
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Corridori', 'Paolo Cerrito', 'salman']
+POS:  0.26126967475084695
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Corridori', 'Paolo Cerrito', 'giorgioni']
+POS:  0.26126967475084695
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Corridori', 'Paolo Cerrito', 'Volpi']
+POS:  0.2001684125275056
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Corridori', 'salman', 'giorgioni']
+POS:  0.3253753318242313
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Corridori', 'salman', 'Volpi']
+POS:  0.19039557217027528
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Corridori', 'giorgioni', 'Volpi']
+POS:  0.19039557217027528
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.23440967836819135
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.23440967836819135
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.1776345347444078
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'MM', 'salman', 'giorgioni']
+POS:  0.27753188804678197
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'MM', 'salman', 'Volpi']
+POS:  0.14732719496197774
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'MM', 'giorgioni', 'Volpi']
+POS:  0.14732719496197774
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.2997704080513528
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.16801277435779383
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.16801277435779383
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Francesco Arena', 'salman', 'giorgioni', 'Volpi']
+POS:  0.25812037144838396
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'Corridori', 'MM']
+POS:  0.13943923508954567
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'Corridori', 'Paolo Cerrito']
+POS:  0.17227110655852254
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'Corridori', 'salman']
+POS:  0.1914034204633029
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'Corridori', 'giorgioni']
+POS:  0.1914034204633029
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'Corridori', 'Volpi']
+POS:  0.2457836968355263
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'MM', 'Paolo Cerrito']
+POS:  0.20122800534409735
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'MM', 'salman']
+POS:  0.2001907485105936
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'MM', 'giorgioni']
+POS:  0.2001907485105936
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'MM', 'Volpi']
+POS:  0.2582988005110775
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'Paolo Cerrito', 'salman']
+POS:  0.22754515998077243
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'Paolo Cerrito', 'giorgioni']
+POS:  0.22754515998077243
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'Paolo Cerrito', 'Volpi']
+POS:  0.28419698859402803
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'salman', 'giorgioni']
+POS:  0.3463034677876501
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'salman', 'Volpi']
+POS:  0.3304073967224994
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'tamiano', 'giorgioni', 'Volpi']
+POS:  0.3304073967224994
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'Corridori', 'MM', 'Paolo Cerrito']
+POS:  0.1802626739887912
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'Corridori', 'MM', 'salman']
+POS:  0.15019058787193088
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'Corridori', 'MM', 'giorgioni']
+POS:  0.15019058787193088
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'Corridori', 'MM', 'Volpi']
+POS:  0.15176718875054285
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'Corridori', 'Paolo Cerrito', 'salman']
+POS:  0.18675573353846478
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'Corridori', 'Paolo Cerrito', 'giorgioni']
+POS:  0.18675573353846478
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'Corridori', 'Paolo Cerrito', 'Volpi']
+POS:  0.1868623634755859
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'Corridori', 'salman', 'giorgioni']
+POS:  0.2772478166671505
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'Corridori', 'salman', 'Volpi']
+POS:  0.20369465035668294
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'Corridori', 'giorgioni', 'Volpi']
+POS:  0.20369465035668294
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.21335851187634733
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.21335851187634733
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.21757867427292102
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'MM', 'salman', 'giorgioni']
+POS:  0.2829618133728309
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'MM', 'salman', 'Volpi']
+POS:  0.2140007538911119
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'MM', 'giorgioni', 'Volpi']
+POS:  0.2140007538911119
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.31408357147936533
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.2435362610299589
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.2435362610299589
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Dente', 'salman', 'giorgioni', 'Volpi']
+POS:  0.36131819302307494
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'Corridori', 'MM', 'Paolo Cerrito']
+POS:  0.16913171553849227
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'Corridori', 'MM', 'salman']
+POS:  0.1399858352724036
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'Corridori', 'MM', 'giorgioni']
+POS:  0.1399858352724036
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'Corridori', 'MM', 'Volpi']
+POS:  0.13380996272669174
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'Corridori', 'Paolo Cerrito', 'salman']
+POS:  0.17458103159331995
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'Corridori', 'Paolo Cerrito', 'giorgioni']
+POS:  0.17458103159331995
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'Corridori', 'Paolo Cerrito', 'Volpi']
+POS:  0.16693867733425471
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'Corridori', 'salman', 'giorgioni']
+POS:  0.26447837229653565
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'Corridori', 'salman', 'Volpi']
+POS:  0.18406910684435912
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'Corridori', 'giorgioni', 'Volpi']
+POS:  0.18406910684435912
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.20222293415097553
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.20222293415097553
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.1986844026118951
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'MM', 'salman', 'giorgioni']
+POS:  0.27153759101713587
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'MM', 'salman', 'Volpi']
+POS:  0.19565876540012284
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'MM', 'giorgioni', 'Volpi']
+POS:  0.19565876540012284
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.3007193544798116
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.2232825711320705
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.2232825711320705
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'tamiano', 'salman', 'giorgioni', 'Volpi']
+POS:  0.3400372016716936
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Corridori', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.23584442302990535
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Corridori', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.23584442302990535
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Corridori', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.17600449213875596
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Corridori', 'MM', 'salman', 'giorgioni']
+POS:  0.27721309091547164
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Corridori', 'MM', 'salman', 'Volpi']
+POS:  0.14390079965827549
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Corridori', 'MM', 'giorgioni', 'Volpi']
+POS:  0.14390079965827549
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Corridori', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.31569652204848275
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Corridori', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.18075157954295284
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Corridori', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.18075157954295284
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Corridori', 'salman', 'giorgioni', 'Volpi']
+POS:  0.2692049315366842
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'MM', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.3400756249649606
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'MM', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.21017239624409984
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'MM', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.21017239624409984
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'MM', 'salman', 'giorgioni', 'Volpi']
+POS:  0.27778841793357767
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Claudio Santoro', 'Paolo Cerrito', 'salman', 'giorgioni', 'Volpi']
+POS:  0.30914570324620566
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'tamiano', 'Corridori']
+POS:  0.281218482565897
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'tamiano', 'MM']
+POS:  0.24667808518065834
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'tamiano', 'Paolo Cerrito']
+POS:  0.24741488870060702
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'tamiano', 'salman']
+POS:  0.2619853871739596
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'tamiano', 'giorgioni']
+POS:  0.2619853871739596
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'tamiano', 'Volpi']
+POS:  0.428504088950835
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'Corridori', 'MM']
+POS:  0.20318615153035732
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'Corridori', 'Paolo Cerrito']
+POS:  0.213588256671066
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'Corridori', 'salman']
+POS:  0.1977955988324642
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'Corridori', 'giorgioni']
+POS:  0.1977955988324642
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'Corridori', 'Volpi']
+POS:  0.30721459899954956
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'MM', 'Paolo Cerrito']
+POS:  0.19707937049104401
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'MM', 'salman']
+POS:  0.1608225231664937
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'MM', 'giorgioni']
+POS:  0.1608225231664937
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'MM', 'Volpi']
+POS:  0.27351227659233385
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'Paolo Cerrito', 'salman']
+POS:  0.1654345524483538
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'Paolo Cerrito', 'giorgioni']
+POS:  0.1654345524483538
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'Paolo Cerrito', 'Volpi']
+POS:  0.2760987346423404
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'salman', 'giorgioni']
+POS:  0.2514808431234071
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'salman', 'Volpi']
+POS:  0.28835310034590983
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Dente', 'giorgioni', 'Volpi']
+POS:  0.28835310034590983
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'Corridori', 'MM']
+POS:  0.1841529246303604
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'Corridori', 'Paolo Cerrito']
+POS:  0.19287808840720455
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'Corridori', 'salman']
+POS:  0.17780728012527267
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'Corridori', 'giorgioni']
+POS:  0.17780728012527267
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'Corridori', 'Volpi']
+POS:  0.2776655836558034
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'MM', 'Paolo Cerrito']
+POS:  0.17800352879979553
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'MM', 'salman']
+POS:  0.14273344228425894
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'MM', 'giorgioni']
+POS:  0.14273344228425894
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'MM', 'Volpi']
+POS:  0.24594885387850646
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'Paolo Cerrito', 'salman']
+POS:  0.14576028694635793
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'Paolo Cerrito', 'giorgioni']
+POS:  0.14576028694635793
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'Paolo Cerrito', 'Volpi']
+POS:  0.2469393657016147
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'salman', 'giorgioni']
+POS:  0.23114851449417834
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'salman', 'Volpi']
+POS:  0.2594640775241726
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'tamiano', 'giorgioni', 'Volpi']
+POS:  0.2594640775241726
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'MM', 'Paolo Cerrito']
+POS:  0.21939581502256206
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'MM', 'salman']
+POS:  0.1541760621827189
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'MM', 'giorgioni']
+POS:  0.1541760621827189
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'MM', 'Volpi']
+POS:  0.2006587201397395
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'Paolo Cerrito', 'salman']
+POS:  0.16685175691537926
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'Paolo Cerrito', 'giorgioni']
+POS:  0.16685175691537926
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'Paolo Cerrito', 'Volpi']
+POS:  0.21134178569691553
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'salman', 'giorgioni']
+POS:  0.2230333788795642
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'salman', 'Volpi']
+POS:  0.19345228959397878
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Corridori', 'giorgioni', 'Volpi']
+POS:  0.19345228959397878
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.1494425979781183
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.1494425979781183
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.19766018143362335
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'MM', 'salman', 'giorgioni']
+POS:  0.18470233156805013
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'MM', 'salman', 'Volpi']
+POS:  0.15931247067892407
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'MM', 'giorgioni', 'Volpi']
+POS:  0.15931247067892407
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.19164489494633125
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.16421287580719476
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.16421287580719476
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Francesco Arena', 'salman', 'giorgioni', 'Volpi']
+POS:  0.2482504509534594
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'Corridori', 'MM']
+POS:  0.24156865487231927
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'Corridori', 'Paolo Cerrito']
+POS:  0.25876108138096676
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'Corridori', 'salman']
+POS:  0.2715835711893125
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'Corridori', 'giorgioni']
+POS:  0.2715835711893125
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'Corridori', 'Volpi']
+POS:  0.4349272367499039
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'MM', 'Paolo Cerrito']
+POS:  0.29723101175012206
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'MM', 'salman']
+POS:  0.28998036032193963
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'MM', 'giorgioni']
+POS:  0.28998036032193963
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'MM', 'Volpi']
+POS:  0.45653068177638423
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'Paolo Cerrito', 'salman']
+POS:  0.30149483402945515
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'Paolo Cerrito', 'giorgioni']
+POS:  0.30149483402945515
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'Paolo Cerrito', 'Volpi']
+POS:  0.46611408006291116
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'salman', 'giorgioni']
+POS:  0.41599331984697213
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'salman', 'Volpi']
+POS:  0.5078311937268521
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'tamiano', 'giorgioni', 'Volpi']
+POS:  0.5078311937268521
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'Corridori', 'MM', 'Paolo Cerrito']
+POS:  0.19669786289739022
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'Corridori', 'MM', 'salman']
+POS:  0.158599495702584
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'Corridori', 'MM', 'giorgioni']
+POS:  0.158599495702584
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'Corridori', 'MM', 'Volpi']
+POS:  0.2680673833426842
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'Corridori', 'Paolo Cerrito', 'salman']
+POS:  0.17977911718240439
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'Corridori', 'Paolo Cerrito', 'giorgioni']
+POS:  0.17977911718240439
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'Corridori', 'Paolo Cerrito', 'Volpi']
+POS:  0.28737210972207017
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'Corridori', 'salman', 'giorgioni']
+POS:  0.264143809619086
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'Corridori', 'salman', 'Volpi']
+POS:  0.2978485902044686
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'Corridori', 'giorgioni', 'Volpi']
+POS:  0.2978485902044686
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.21659084456124994
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.21659084456124994
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.3277095386940191
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'MM', 'salman', 'giorgioni']
+POS:  0.28012527051097863
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'MM', 'salman', 'Volpi']
+POS:  0.3178526331426852
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'MM', 'giorgioni', 'Volpi']
+POS:  0.3178526331426852
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.2956733095886612
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.33139117846522864
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.33139117846522864
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Dente', 'salman', 'giorgioni', 'Volpi']
+POS:  0.4450428698137403
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'Corridori', 'MM', 'Paolo Cerrito']
+POS:  0.1763539185384967
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'Corridori', 'MM', 'salman']
+POS:  0.1392589828258074
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'Corridori', 'MM', 'giorgioni']
+POS:  0.1392589828258074
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'Corridori', 'MM', 'Volpi']
+POS:  0.2393000832408422
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'Corridori', 'Paolo Cerrito', 'salman']
+POS:  0.15861650135862912
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'Corridori', 'Paolo Cerrito', 'giorgioni']
+POS:  0.15861650135862912
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'Corridori', 'Paolo Cerrito', 'Volpi']
+POS:  0.2567607518416195
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'Corridori', 'salman', 'giorgioni']
+POS:  0.24232450837194486
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'Corridori', 'salman', 'Volpi']
+POS:  0.2675177678506706
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'Corridori', 'giorgioni', 'Volpi']
+POS:  0.2675177678506706
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.19638413184139206
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.19638413184139206
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.29812217064558816
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'MM', 'salman', 'giorgioni']
+POS:  0.25958448959254665
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'MM', 'salman', 'Volpi']
+POS:  0.2888134708430441
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'MM', 'giorgioni', 'Volpi']
+POS:  0.2888134708430441
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.2733476277120815
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.30057354895394817
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.30057354895394817
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'tamiano', 'salman', 'giorgioni', 'Volpi']
+POS:  0.4130392955843178
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Corridori', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.15065565886501978
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Corridori', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.15065565886501978
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Corridori', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.1957574007136523
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Corridori', 'MM', 'salman', 'giorgioni']
+POS:  0.18409453704122486
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Corridori', 'MM', 'salman', 'Volpi']
+POS:  0.1555690072639215
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Corridori', 'MM', 'giorgioni', 'Volpi']
+POS:  0.1555690072639215
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Corridori', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.20758122743682186
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Corridori', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.1770433755791392
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Corridori', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.1770433755791392
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Corridori', 'salman', 'giorgioni', 'Volpi']
+POS:  0.2593526742061894
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'MM', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.242791100485473
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'MM', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.21673558019801464
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'MM', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.21673558019801464
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'MM', 'salman', 'giorgioni', 'Volpi']
+POS:  0.2782597642438453
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Fabrizio Tafani', 'Paolo Cerrito', 'salman', 'giorgioni', 'Volpi']
+POS:  0.2940563244092594
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'Corridori', 'MM']
+POS:  0.19417044547695247
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'Corridori', 'Paolo Cerrito']
+POS:  0.20355280595578665
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'Corridori', 'salman']
+POS:  0.1906771711107305
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'Corridori', 'giorgioni']
+POS:  0.1906771711107305
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'Corridori', 'Volpi']
+POS:  0.2861201979124851
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'MM', 'Paolo Cerrito']
+POS:  0.18791267591073488
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'MM', 'salman']
+POS:  0.15472559065062547
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'MM', 'giorgioni']
+POS:  0.15472559065062547
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'MM', 'Volpi']
+POS:  0.2535370777982717
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'Paolo Cerrito', 'salman']
+POS:  0.15836650824587484
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'Paolo Cerrito', 'giorgioni']
+POS:  0.15836650824587484
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'Paolo Cerrito', 'Volpi']
+POS:  0.2551668202026659
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'salman', 'giorgioni']
+POS:  0.2464996751040285
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'salman', 'Volpi']
+POS:  0.27002828103596344
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'tamiano', 'giorgioni', 'Volpi']
+POS:  0.27002828103596344
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'Corridori', 'MM', 'Paolo Cerrito']
+POS:  0.22950205481568442
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'Corridori', 'MM', 'salman']
+POS:  0.16623805453113727
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'Corridori', 'MM', 'giorgioni']
+POS:  0.16623805453113727
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'Corridori', 'MM', 'Volpi']
+POS:  0.20800151310675066
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'Corridori', 'Paolo Cerrito', 'salman']
+POS:  0.1795939351215338
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'Corridori', 'Paolo Cerrito', 'giorgioni']
+POS:  0.1795939351215338
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'Corridori', 'Paolo Cerrito', 'Volpi']
+POS:  0.21936829442428715
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'Corridori', 'salman', 'giorgioni']
+POS:  0.23840360972852595
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'Corridori', 'salman', 'Volpi']
+POS:  0.20367038780725127
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'Corridori', 'giorgioni', 'Volpi']
+POS:  0.20367038780725127
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.16138208762886486
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.16138208762886486
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.2049224669928691
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'MM', 'salman', 'giorgioni']
+POS:  0.19911935471300982
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'MM', 'salman', 'Volpi']
+POS:  0.16864692312658985
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'MM', 'giorgioni', 'Volpi']
+POS:  0.16864692312658985
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.20672392660364322
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.1741859235986716
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.1741859235986716
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Dente', 'salman', 'giorgioni', 'Volpi']
+POS:  0.26100192175315523
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'Corridori', 'MM', 'Paolo Cerrito']
+POS:  0.21686880067157085
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'Corridori', 'MM', 'salman']
+POS:  0.15597736720407285
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'Corridori', 'MM', 'giorgioni']
+POS:  0.15597736720407285
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'Corridori', 'MM', 'Volpi']
+POS:  0.1881330987961353
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'Corridori', 'Paolo Cerrito', 'salman']
+POS:  0.1667954586361524
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'Corridori', 'Paolo Cerrito', 'giorgioni']
+POS:  0.1667954586361524
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'Corridori', 'Paolo Cerrito', 'Volpi']
+POS:  0.1973988459596787
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'Corridori', 'salman', 'giorgioni']
+POS:  0.2259998397050588
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'Corridori', 'salman', 'Volpi']
+POS:  0.18283874560265903
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'Corridori', 'giorgioni', 'Volpi']
+POS:  0.18283874560265903
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.15024553516431147
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.15024553516431147
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.1846428329055335
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'MM', 'salman', 'giorgioni']
+POS:  0.18874297678109858
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'MM', 'salman', 'Volpi']
+POS:  0.1498323437556907
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'MM', 'giorgioni', 'Volpi']
+POS:  0.1498323437556907
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.19387961078002433
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.15341924860648917
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.15341924860648917
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'tamiano', 'salman', 'giorgioni', 'Volpi']
+POS:  0.23957175256099403
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Corridori', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.24748369287563401
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Corridori', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.24748369287563401
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Corridori', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.22495235375949146
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Corridori', 'MM', 'salman', 'giorgioni']
+POS:  0.2576784398992622
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Corridori', 'MM', 'salman', 'Volpi']
+POS:  0.16052089712210765
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Corridori', 'MM', 'giorgioni', 'Volpi']
+POS:  0.16052089712210765
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Corridori', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.27205717267018836
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Corridori', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.17334124713312815
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Corridori', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.17334124713312815
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Corridori', 'salman', 'giorgioni', 'Volpi']
+POS:  0.23070918641146293
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'MM', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.2519949249696222
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'MM', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.15804316225983214
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'MM', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.15804316225983214
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'MM', 'salman', 'giorgioni', 'Volpi']
+POS:  0.1944209915007383
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Francesco Arena', 'Paolo Cerrito', 'salman', 'giorgioni', 'Volpi']
+POS:  0.20147622445585917
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'Corridori', 'MM', 'Paolo Cerrito']
+POS:  0.1857786164806173
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'Corridori', 'MM', 'salman']
+POS:  0.15075309306078427
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'Corridori', 'MM', 'giorgioni']
+POS:  0.15075309306078427
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'Corridori', 'MM', 'Volpi']
+POS:  0.24637229350052722
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'Corridori', 'Paolo Cerrito', 'salman']
+POS:  0.17081778573951698
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'Corridori', 'Paolo Cerrito', 'giorgioni']
+POS:  0.17081778573951698
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'Corridori', 'Paolo Cerrito', 'Volpi']
+POS:  0.26456184601230465
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'Corridori', 'salman', 'giorgioni']
+POS:  0.2572653094037021
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'Corridori', 'salman', 'Volpi']
+POS:  0.2776449985753502
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'Corridori', 'giorgioni', 'Volpi']
+POS:  0.2776449985753502
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.20806630670636314
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.20806630670636314
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.3054233086006581
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'MM', 'salman', 'giorgioni']
+POS:  0.2738569682505665
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'MM', 'salman', 'Volpi']
+POS:  0.2983214750912283
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'MM', 'giorgioni', 'Volpi']
+POS:  0.2983214750912283
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.2883446423750472
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.31080105845561506
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.31080105845561506
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'tamiano', 'salman', 'giorgioni', 'Volpi']
+POS:  0.4261783327470999
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'Corridori', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.1621222061395639
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'Corridori', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.1621222061395639
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'Corridori', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.2025256545925846
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'Corridori', 'MM', 'salman', 'giorgioni']
+POS:  0.19802796370590434
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'Corridori', 'MM', 'salman', 'Volpi']
+POS:  0.16439426785021466
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'Corridori', 'MM', 'giorgioni', 'Volpi']
+POS:  0.16439426785021466
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'Corridori', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.22227852943204476
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'Corridori', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.18660445196425596
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'Corridori', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.18660445196425596
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'Corridori', 'salman', 'giorgioni', 'Volpi']
+POS:  0.27168505189323733
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'MM', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.25691384744043494
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'MM', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.22579972832265469
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'MM', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.22579972832265469
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'MM', 'salman', 'giorgioni', 'Volpi']
+POS:  0.289937424481481
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Dente', 'Paolo Cerrito', 'salman', 'giorgioni', 'Volpi']
+POS:  0.30648695929480774
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'Corridori', 'MM', 'Paolo Cerrito', 'salman']
+POS:  0.1502733578806197
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'Corridori', 'MM', 'Paolo Cerrito', 'giorgioni']
+POS:  0.1502733578806197
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'Corridori', 'MM', 'Paolo Cerrito', 'Volpi']
+POS:  0.1822567726300986
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'Corridori', 'MM', 'salman', 'giorgioni']
+POS:  0.1862750376911468
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'Corridori', 'MM', 'salman', 'Volpi']
+POS:  0.1451507659376579
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'Corridori', 'MM', 'giorgioni', 'Volpi']
+POS:  0.1451507659376579
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'Corridori', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.20864574322537793
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'Corridori', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.1655049668501125
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'Corridori', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.1655049668501125
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'Corridori', 'salman', 'giorgioni', 'Volpi']
+POS:  0.24988911778609102
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'MM', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.24424126491519138
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'MM', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.20562047902009611
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'MM', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.20562047902009611
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'MM', 'salman', 'giorgioni', 'Volpi']
+POS:  0.26939433242808664
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['tamiano', 'Paolo Cerrito', 'salman', 'giorgioni', 'Volpi']
+POS:  0.2841264363149137
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Corridori', 'MM', 'Paolo Cerrito', 'salman', 'giorgioni']
+POS:  0.25435584585655685
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Corridori', 'MM', 'Paolo Cerrito', 'salman', 'Volpi']
+POS:  0.15726828480892144
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Corridori', 'MM', 'Paolo Cerrito', 'giorgioni', 'Volpi']
+POS:  0.15726828480892144
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Corridori', 'MM', 'salman', 'giorgioni', 'Volpi']
+POS:  0.19180077445024585
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['Corridori', 'Paolo Cerrito', 'salman', 'giorgioni', 'Volpi']
+POS:  0.21543882503539347
+|--------------- Pos annotation agreement -------------------------|
+POS for: ['MM', 'Paolo Cerrito', 'salman', 'giorgioni', 'Volpi']
+POS:  0.25011034544597
