@@ -1,29 +1,30 @@
+# Made by Leonardo Tamiano & Samir Salman
+
 # ------------------ Imports  ---------------------------------------
 
 from itertools import combinations
+from argparse import ArgumentParser
+
 import numpy as np
 import math
 import json
 
 # global variables
 
-POS_FILENAME       = 'posTagRipulito.json'
-SEMANTIC_FILENAME  = 'semantica.json'
+POS_FILENAME       = './annotations/pos_sentiment.json'
+SEMANTIC_FILENAME  = './annotations/semantic.json'
 
 ANNOTATION_CLASSES = ["ADJ", "ADP", "ADV", "AUX", "CCONJ", "DET", "INTJ", "NOUN",
                       "NUM", "PART", "PRON", "PROPN", "PUNCT", "SCONG", "SYM", "VERB", "X"]
 
-N_OF_ANNOTATORS    = 11
+ANNOTATORS      = ["Claudio Santoro", "Fabrizio Tafani", "Francesco Arena",
+                   "Dente", "tamiano", "Corridori", "MM", "Paolo Cerrito", "salman",
+                   "giorgioni", "Volpi"]
 
-CLASSES_TO_HIDE    = ['PUNCT']
+N_OF_ANNOTATORS = len(ANNOTATORS)
+
+CLASSES_TO_HIDE    = []
 ID_TO_HIDE_FOR_POS = [239]
-
-
-ANNOTATORS = ["Claudio Santoro", "Fabrizio Tafani", "Francesco Arena",
-              "Dente", "tamiano", "Corridori", "MM", "Paolo Cerrito", "salman",
-              "giorgioni", "Volpi"]
-
-ANNOTATORS_TO_CONSIDER_FOR_POS = ANNOTATORS
 
 # ---------------- Pos tagging analysis ----------------
 
@@ -38,7 +39,8 @@ def parse_json_pos(path, annotators_to_consider=ANNOTATORS):
         try:
 
             # NOTE: We don't consider annotations regarding id found
-            # in array ID_TO_HIDE_FOR_POS.
+            # in array ID_TO_HIDE_FOR_POS and also we only consider
+            # annotators found in annotators_to_consider
             if ann['id'] in ID_TO_HIDE_FOR_POS or ann['annotatore'] not in annotators_to_consider:
                 continue
             
@@ -80,7 +82,7 @@ def pre_process_pos(path, annotators_to_consider=ANNOTATORS):
 
 # ---------------- Semantic analysis ----------------
 
-def parse_json_semantic(path):
+def parse_json_semantic(path, annotators_to_consider=ANNOTATORS):
 
     f = open(path, "r")
     parsed_json = (json.loads(f.read()))
@@ -88,6 +90,13 @@ def parse_json_semantic(path):
     annotations = {}
     error = 0
     for ann in parsed_json:
+
+        # NOTE: We don't consider annotations regarding id found
+        # in array ID_TO_HIDE_FOR_POS and also we only consider
+        # annotators found in annotators_to_consider
+        if ann['id'] in ID_TO_HIDE_FOR_POS or ann['annotatore'] not in annotators_to_consider:
+            continue
+        
         if 'voto' in ann and 'id' in ann and 'annotatore' in ann:
             voto = ann['voto']
             
@@ -116,8 +125,8 @@ def parse_json_semantic(path):
 
     return annotations
 
-def pre_process_semantic(path):
-    annotations_results = parse_json_semantic(path)
+def pre_process_semantic(path, annotators_to_consider=ANNOTATORS):
+    annotations_results = parse_json_semantic(path, annotators_to_consider)
     annotators_map = {}
     sorted_keys = list(annotations_results.keys())
     sorted_keys.sort()
@@ -134,9 +143,9 @@ def pre_process_semantic(path):
 
     return annotators_map
 
-# ---------------- Sentimeny analysis ----------------
+# ---------------- Sentiment analysis ----------------
 
-def parse_json_sentiment(path):
+def parse_json_sentiment(path, annotators_to_consider=ANNOTATORS):
 
     f = open(path, "r")
     parsed_json = (json.loads(f.read()))
@@ -144,6 +153,13 @@ def parse_json_sentiment(path):
     annotations = {}
     error = 0
     for ann in parsed_json:
+
+        # NOTE: We don't consider annotations regarding id found
+        # in array ID_TO_HIDE_FOR_POS and also we only consider
+        # annotators found in annotators_to_consider
+        if ann['id'] in ID_TO_HIDE_FOR_POS or ann['annotatore'] not in annotators_to_consider:
+            continue        
+        
         list_of_annotations = []
 
         list_of_annotations.append(ann['sentimentArgomento'])
@@ -156,8 +172,8 @@ def parse_json_sentiment(path):
 
     return annotations
 
-def pre_process_sentiment(path):
-    annotations_results = parse_json_sentiment(path)
+def pre_process_sentiment(path, annotators_to_consider=ANNOTATORS):
+    annotations_results = parse_json_sentiment(path, annotators_to_consider)
     annotators_map = {}
     
     sorted_keys = list(annotations_results.keys())
@@ -338,7 +354,7 @@ def kendell_tau(col1, col2):
 
 # ------------------ Main functions ---------------------------------------
 
-def compute_pos_agreement(file_path, annotators):
+def compute_pos_agreement(file_path, annotators=ANNOTATORS):
     print("|--------------- Pos annotation agreement -------------------------|")        
     iaa_pos       = fleiss_kappa(list(pre_process_pos(file_path, annotators).values()),
                                  ANNOTATION_CLASSES)
@@ -346,21 +362,24 @@ def compute_pos_agreement(file_path, annotators):
     print(f"POS for: {annotators}")                
     print("POS: ", iaa_pos)
 
-def compute_sentiment_agreement(file_path):
+def compute_sentiment_agreement(file_path, annotators=ANNOTATORS):
 
-    print("|--------------- Semantic annotation agreement --------------------|")
-    iaa_sentiment = fleiss_kappa(list(pre_process_sentiment(file_path).values()),
+    print("|--------------- Sentiment annotation agreement --------------------|")
+    iaa_sentiment = fleiss_kappa(list(pre_process_sentiment(file_path, annotators).values()),
                                  ['POSITIVO', 'NEGATIVO', 'NEUTRO'])
 
+    print(f"SENTIMENT for: {annotators}")                    
     print("SENTIMENT: ",iaa_sentiment)
 
 def compute_semantic_agreement(file_path):
     print("|--------------- Semantical annotation agreement ------------------|")
     # compute statistical significance for kendells tau
-
+    
     semantic_results = list(pre_process_semantic(file_path).values())
     n = len(semantic_results[0])
 
+    print(len(semantic_results))
+    
     CODE_TO_ANNOTATORS = {
         0: "Santoro",
         1: "Fabrizio Tafani",
@@ -383,18 +402,38 @@ def compute_semantic_agreement(file_path):
         tau = kendell_tau(
             semantic_results[i],
             semantic_results[j])
-
+        
         z = 3 * tau * math.sqrt(n * (n-1)) / math.sqrt(2 * (2*n + 5))
 
         print(f"Tau     is: {tau}")
         print(f"Z-value is: {z}")
 
-if __name__ == "__main__":
-    # compute_pos_agreement(POS_FILENAME, ['Dente', 'Volpi', 'tamiano'])
-    
-    for t in combinations(ANNOTATORS, 6):
-        annotators = list(t)
-        compute_pos_agreement(POS_FILENAME, annotators)
+if __name__ == "__main__":    
+    argument_parser = ArgumentParser()
+    argument_parser.add_argument("-p", "--pos", dest="pos", help="compute pos tagging agreement")
+    argument_parser.add_argument("-e", "--sent", dest="sent", help="compute sentiment tagging agreement")
+    argument_parser.add_argument("-s", "--sem", dest="sem", help="compute semantic tagging agreement")
+    argument_parser.add_argument("-t", "--tuple", dest="tpl", help="tuple size")    
 
-    # compute_sentiment_agreement(POS_FILENAME)
-    # compute_semantic_agreement(SEMANTIC_FILENAME)
+    args = argument_parser.parse_args()
+
+    # NOTE: assume args.tpl is passed as an integer
+
+    if args.pos and not args.tpl:
+        compute_pos_agreement(POS_FILENAME)
+        
+    elif args.sent and not args.tpl:
+        compute_sentiment_agreement(POS_FILENAME)
+        
+    elif args.sem and not args.tpl:
+        compute_semantic_agreement(SEMANTIC_FILENAME)
+        
+    elif args.pos and args.tpl:
+        for t in combinations(ANNOTATORS, int(args.tpl)):
+            annotators = list(t)
+            compute_pos_agreement(POS_FILENAME, annotators)
+        
+    elif args.sent and args.tpl:
+        for t in combinations(ANNOTATORS, int(args.tpl)):
+            annotators = list(t)
+            compute_sentiment_agreement(POS_FILENAME, annotators)    

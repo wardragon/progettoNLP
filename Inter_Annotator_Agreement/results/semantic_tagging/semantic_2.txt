@@ -1,7 +1,5 @@
-|--------------- Syntactical annotation agreement testing --------------------|
-POS:  0.3581728061281977
-SENTIMENT:  0.2783912971814734
-|--------------- Semantical annotation agreement testing --------------------|
+|--------------- Semantical annotation agreement ------------------|
+11
 Semantic for: ('Santoro', 'Fabrizio Tafani')
 Tau     is: 0.7713390759592795
 Z-value is: 8.707594865963998

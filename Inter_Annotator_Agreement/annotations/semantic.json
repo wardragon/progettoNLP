@@ -6,7 +6,7 @@
     "firstPhrase": "Conoscenza ",
     "secondPhrase": "Presentazione del corso ",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "34-33-0"
   },
   {
@@ -16,7 +16,7 @@
     "firstPhrase": "Su cosa si basa la programmazione",
     "secondPhrase": "Programmazione C++",
     "voto": 2,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "34-33-1"
   },
   {
@@ -26,7 +26,7 @@
     "firstPhrase": "Nessuna ",
     "secondPhrase": "Nessuna",
     "voto": 6,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "33-34-2"
   },
   {
@@ -36,7 +36,7 @@
     "firstPhrase": "Esercizio con i dizionari",
     "secondPhrase": "Lo ?Scrambled code? è utile ",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1352-1353-0"
   },
   {
@@ -46,7 +46,7 @@
     "firstPhrase": "Nessuna ",
     "secondPhrase": "Scrambled Code si serve ",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1353-1352-2"
   },
   {
@@ -56,7 +56,7 @@
     "firstPhrase": "Scrittura di un algoritmo partendo da un codice parzialmente giá scritto",
     "secondPhrase": "Esercizio con dizionario",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1391-1392-0"
   },
   {
@@ -66,7 +66,7 @@
     "firstPhrase": "Per me è molto utile lo scrambled code.",
     "secondPhrase": "Algoritmi con liste e dizionari",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1392-1391-1"
   },
   {
@@ -76,7 +76,7 @@
     "firstPhrase": "Nessuna",
     "secondPhrase": "Nessuno",
     "voto": 6,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1392-1391-2"
   },
   {
@@ -86,7 +86,7 @@
     "firstPhrase": "Ciclo ",
     "secondPhrase": "cicli con while",
     "voto": 6,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "884-885-0"
   },
   {
@@ -96,7 +96,7 @@
     "firstPhrase": "Ciclo",
     "secondPhrase": "i cicli con while e tutte le funzioni studiate",
     "voto": 4,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "884-885-1"
   },
   {
@@ -106,7 +106,7 @@
     "firstPhrase": "tutto sufficientemente chiaro",
     "secondPhrase": "Nessuna ",
     "voto": 5,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "885-884-2"
   },
   {
@@ -116,7 +116,7 @@
     "firstPhrase": "Tipi di variabili nel linguaggio Python",
     "secondPhrase": "Sintassi e semantica in Python",
     "voto": 2,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "610-611-0"
   },
   {
@@ -126,7 +126,7 @@
     "firstPhrase": "Operazioni  tra variabili ",
     "secondPhrase": "Float, numeri interi e stringhe ",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "610-611-1"
   },
   {
@@ -136,7 +136,7 @@
     "firstPhrase": "Nessuna ",
     "secondPhrase": "Nessuna ",
     "voto": 6,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "610-611-2"
   },
   {
@@ -146,7 +146,7 @@
     "firstPhrase": "Ciclo While, esercizi ed errori",
     "secondPhrase": "cicli",
     "voto": 2,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "837-838-0"
   },
   {
@@ -156,7 +156,7 @@
     "firstPhrase": "Esercizi",
     "secondPhrase": "i cicli",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "837-838-1"
   },
   {
@@ -166,7 +166,7 @@
     "firstPhrase": "l'ultimo esercizio",
     "secondPhrase": "Esercizi",
     "voto": 6,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "838-837-2"
   },
   {
@@ -176,7 +176,7 @@
     "firstPhrase": "Duplicazione liste, Creazioni di insiemi e dizionari ",
     "secondPhrase": "Insiemi; dizionari che sono insiemi di chiavi e valori",
     "voto": 2,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1295-1294-0"
   },
   {
@@ -186,7 +186,7 @@
     "firstPhrase": "Dizionari",
     "secondPhrase": "le applicazioni di unione intersezione e differenza sugli insiemi",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1295-1294-1"
   },
   {
@@ -196,7 +196,7 @@
     "firstPhrase": "Nessuna",
     "secondPhrase": "come si genera una nuova posizione negli insiemi",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1295-1294-2"
   },
   {
@@ -206,7 +206,7 @@
     "firstPhrase": "eserzizio con uno dizionario",
     "secondPhrase": "Tuple, esercizi",
     "voto": 2,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1386-1387-0"
   },
   {
@@ -216,7 +216,7 @@
     "firstPhrase": "Ho trovato postivo il metodo dello scrambled code poichè la mia grande difficoltà è capire cosa fare quando mi trovo davanti il testo dell'esercizio e la maggior parte delle volte sbaglio la risoluzione",
     "secondPhrase": "Tuple",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1386-1387-1"
   },
   {
@@ -226,7 +226,7 @@
     "firstPhrase": "Le tuple cosa sono di preciso e come si possono usare",
     "secondPhrase": "lezione un pò pesante",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1387-1386-2"
   },
   {
@@ -236,7 +236,7 @@
     "firstPhrase": "Come usare una variabile ",
     "secondPhrase": "Variabili, errori e convenzioni nel linguaggio di Python con definizione di stringa",
     "voto": 2,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "653-652-0"
   },
   {
@@ -246,7 +246,7 @@
     "firstPhrase": "Le stringhe ",
     "secondPhrase": "come scrivere un codice",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "653-652-1"
   },
   {
@@ -256,7 +256,7 @@
     "firstPhrase": "Nessuna ",
     "secondPhrase": "la forma in cui sono trascritti gli input negli spazi di memoria",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "653-652-2"
   },
   {
@@ -266,7 +266,7 @@
     "firstPhrase": "Algoritmo",
     "secondPhrase": "complessità degli algoritimi ",
     "voto": 2,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "400-399-0"
   },
   {
@@ -276,7 +276,7 @@
     "firstPhrase": "Somma",
     "secondPhrase": "i diversi tipi di algoritmi ",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "400-399-1"
   },
   {
@@ -286,7 +286,7 @@
     "firstPhrase": "quale tra metodo del pallottoliere e normale sia più complesso",
     "secondPhrase": "Trovare la complessità",
     "voto": 5,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "399-400-2"
   },
   {
@@ -296,7 +296,7 @@
     "firstPhrase": "Imparare alcuni comandi e linguaggi di phyton",
     "secondPhrase": "Variabili in python",
     "voto": 2,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "603-602-0"
   },
   {
@@ -306,7 +306,7 @@
     "firstPhrase": "Imparare le operazioni tra interi e reali",
     "secondPhrase": "Stringhe",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "603-602-1"
   },
   {
@@ -316,7 +316,7 @@
     "firstPhrase": "Tutto abbastanza chiaro",
     "secondPhrase": "Nessuna",
     "voto": 5,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "603-602-2"
   },
   {
@@ -326,7 +326,7 @@
     "firstPhrase": "Tipo di Variabili reali float stringhe e usarle",
     "secondPhrase": "Iniziare a usare python",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "629-630-0"
   },
   {
@@ -336,7 +336,7 @@
     "firstPhrase": "Variabili in python",
     "secondPhrase": "I vari tipi di variabili ",
     "voto": 5,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "630-629-1"
   },
   {
@@ -346,7 +346,7 @@
     "firstPhrase": "Come si rappresentano i reali ",
     "secondPhrase": "/",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "629-630-2"
   },
   {
@@ -356,7 +356,7 @@
     "firstPhrase": "Rappresentazione",
     "secondPhrase": "La rappresentazione ",
     "voto": 6,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "555-556-0"
   },
   {
@@ -366,7 +366,7 @@
     "firstPhrase": "Sistema binario",
     "secondPhrase": "La somma dei numeri binari",
     "voto": 5,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "555-556-1"
   },
   {
@@ -376,7 +376,7 @@
     "firstPhrase": "La somma in colonna",
     "secondPhrase": "Somma del sistema binario",
     "voto": 5,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "556-555-2"
   },
   {
@@ -386,7 +386,7 @@
     "firstPhrase": "Bisogna imparare ad utilizzare bene Internet e i dispositivi tecnologici",
     "secondPhrase": "Informazioni sul corso di informatica ",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "154-153-0"
   },
   {
@@ -396,7 +396,7 @@
     "firstPhrase": "Programmazione di siti",
     "secondPhrase": "Programmazione",
     "voto": 2,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "153-154-1"
   },
   {
@@ -406,7 +406,7 @@
     "firstPhrase": "Nessuna",
     "secondPhrase": "La spiegazione iniziale è stata un po' confusionaria",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "154-153-2"
   },
   {
@@ -416,7 +416,7 @@
     "firstPhrase": "istruzioni",
     "secondPhrase": "Variabili matematica Vs variabili informatiche (spazi di memoria)\nDefinizione di algoritmo ",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "295-296-0"
   },
   {
@@ -426,7 +426,7 @@
     "firstPhrase": "Imparare a scrivere gli algoritmi",
     "secondPhrase": "algoritmi",
     "voto": 5,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "296-295-1"
   },
   {
@@ -436,7 +436,7 @@
     "firstPhrase": "Non ce ne sono state",
     "secondPhrase": "nessuna",
     "voto": 5,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "296-295-2"
   },
   {
@@ -446,7 +446,7 @@
     "firstPhrase": "Concetto di funzioni",
     "secondPhrase": "definire le funzioni ",
     "voto": 2,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1110-1109-0"
   },
   {
@@ -456,7 +456,7 @@
     "firstPhrase": "Come definire una nuova funzione ",
     "secondPhrase": "gli esempi oggi sono stati più chiari ",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1110-1109-1"
   },
   {
@@ -466,7 +466,7 @@
     "firstPhrase": "Quando una variabile può assumere lo stesso nome di una funzione che abbiamo definito ",
     "secondPhrase": "Esercizio finale ",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1109-1110-2"
   },
   {
@@ -476,7 +476,7 @@
     "firstPhrase": "X in informatica non è incognita, ma memoria ",
     "secondPhrase": "L?algoritmo è una sequenza ordintata di operazioni",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "240-239-0"
   },
   {
@@ -486,7 +486,7 @@
     "firstPhrase": "L?algoritmo, come possiamo crearne uno",
     "secondPhrase": "Algoritmi",
     "voto": 5,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "239-240-1"
   },
   {
@@ -496,7 +496,7 @@
     "firstPhrase": "Niente",
     "secondPhrase": "Nessuna",
     "voto": 5,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "240-239-2"
   },
   {
@@ -506,7 +506,7 @@
     "firstPhrase": "Si",
     "secondPhrase": "Numeri binari",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "478-479-0"
   },
   {
@@ -516,7 +516,7 @@
     "firstPhrase": "No, tutto ok",
     "secondPhrase": "Somma di numeri binari ",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "478-479-1"
   },
   {
@@ -526,7 +526,7 @@
     "firstPhrase": "Nessuna",
     "secondPhrase": "Wow finalmente una lezione in cui mi è tutto chiaro, gg",
     "voto": 5,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "479-478-2"
   },
   {
@@ -536,7 +536,7 @@
     "firstPhrase": "Logica, dimostrazioni, CPU",
     "secondPhrase": "logica e dimostrazioni\n",
     "voto": 3,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "943-944-0"
   },
   {
@@ -546,7 +546,7 @@
     "firstPhrase": "Logica",
     "secondPhrase": "logica",
     "voto": 6,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "943-944-1"
   },
   {
@@ -556,7 +556,7 @@
     "firstPhrase": "Nessuna",
     "secondPhrase": "bit \n",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "943-944-2"
   },
   {
@@ -566,7 +566,7 @@
     "firstPhrase": "Conoscere e comprendere la costruzione ed il funzionamento del calcolatore e dei suoi componenti",
     "secondPhrase": "Sistema operativo ",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1279-1280-0"
   },
   {
@@ -576,7 +576,7 @@
     "firstPhrase": "Capire come funziona la macchina ",
     "secondPhrase": "Funzionamente della CPU e gestione della memoria",
     "voto": 2,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1280-1279-1"
   },
   {
@@ -586,7 +586,7 @@
     "firstPhrase": "Nessuna",
     "secondPhrase": "Come funziona la macchina ",
     "voto": 1,
-    "annotatore": "Santoro",
+    "annotatore": "Claudio Santoro",
     "id": "1279-1280-2"
   },
   {
