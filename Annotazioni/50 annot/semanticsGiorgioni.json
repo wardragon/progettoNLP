@@ -1,0 +1,1351 @@
+[ {
+  "firstId" : 1289,
+  "secondId" : 1290,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Come duplicare le liste, Gli insiemi e le funzioni da utilizzare per operare con essi,il dizionario  ",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1290-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1290,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : " L'applicazione delle varie funzioni sugli insiemi ",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1290-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1290,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Come costruire le funzioni  da usare sugli insiemi ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1290-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1291,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "concetto di insieme e dizionario ",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1291-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1291,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "insiemi ",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1291-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1291,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "nessuna ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1291-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1292,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1292-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1292,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1292-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1292,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1292-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1294,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi; dizionari che sono insiemi di chiavi e valori",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1294-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1294,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "le applicazioni di unione intersezione e differenza sugli insiemi",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1294-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1294,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "come si genera una nuova posizione negli insiemi",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1294-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1295,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Duplicazione liste, Creazioni di insiemi e dizionari ",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1295-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1295,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Dizionari",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1295-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1295,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1295-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1296,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1296-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1296,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Tutti",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1296-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1296,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nessuno",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1296-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1297,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi, operazioni sugli insiemi  e duplicare una lista ",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1297-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1297,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Operazioni tra insiemi ",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1297-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1297,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nessuno",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1297-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1298,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Cosa sono gli insieme e i dizionari",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1298-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1298,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "I dizionari",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1298-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1298,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1298-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1299,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi e relative operazioni, dizionari. Esempi",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1299-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1299,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Esempi",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1299-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1299,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Operazione di intersezione",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1299-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1300,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Slicing delle liste, insiemi e dizionario",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1300-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1300,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "L'applicazione del dizionario",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1300-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1300,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1300-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1301,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1301-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1301,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "La differenza tra lista e dizionari",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1301-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1301,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "La parte sul set",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1301-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1302,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Duplicazione insiemi e dizionari",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1302-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1302,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Insiemi",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1302-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1302,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Duplicazione",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1302-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1303,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Operazioni con le liste e insiemi",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1303-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1303,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Esercizi sugli insiemi",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1303-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1303,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Differenza tra insiemi ",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1303-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1304,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi, dizionari ",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1304-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1304,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Dizionari",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1304-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1304,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "L?esercizio def diff ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1304-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1305,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1305-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1305,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Dizionari",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1305-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1305,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Alcuni comandi per gli Insiemi ",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1305-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1306,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "insiemi e dizionari",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1306-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1306,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "i set",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1306-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1306,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "nessuna",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1306-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1307,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Dizionari ed Insiemi ",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1307-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1307,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Insiemi ",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1307-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1307,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1307-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1308,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "dizionari e insiemi ",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1308-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1308,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "insiemi",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1308-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1308,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "nessuna",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1308-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1309,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "liste insiemi dizionari",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1309-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1309,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "l'utilizzo dei dizionari",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1309-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1309,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "la conversione da insieme a lista",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1309-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1310,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi, liste, dizionario",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1310-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1310,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Insiemi",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1310-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1310,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1310-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1311,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Parentesi quadra: liste che sono ordinate;graffe: insieme non ordinati. Duplicare le varie liste. Come aggiungere numeri negli insiemi. Intersezione, differenza e dizionario.",
+  "voto" : 3,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1311-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1311,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Insiemi",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1311-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1311,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Ultimo esempio non capisco perchè  dopo l'insieme se scrivo rubrica [\"dario\"] non ottengo il valore della graffa",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1311-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1312,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1312-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1312,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Utilizzo insiemi ",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1312-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1312,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "-",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1312-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1313,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "ripasso sullo slicing, insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1313-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1313,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "i dizionari",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1313-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1313,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "nessuna",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1313-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1314,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi e dizionari ",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1314-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1314,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Duplicare le liste ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1314-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1314,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Dizionari ",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1314-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1315,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi e dizionario",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1315-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1315,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Dizionario",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1315-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1315,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Niente",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1315-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1316,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insieme, dizionari, liste",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1316-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1316,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Tutte e tre ",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1316-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1316,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Funzioni ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1316-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1317,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi e Dizionari",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1317-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1317,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Utilizzo dei dizionari",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1317-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1317,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nulla, credo",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1317-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1318,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Come duplicare le varie liste, gli insiemi e  il dizionario",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1318-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1318,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "I dizionari",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1318-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1318,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Come non far mutare una lista",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1318-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1319,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi e chiavi ",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1319-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1319,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Insiemi ",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1319-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1319,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Funzionamento di una chiave (oltre il fatto che associa più elementi)",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1319-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1320,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Dizionari insiemi ",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1320-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1320,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Dizionari ",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1320-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1320,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1320-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1321,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1321-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1321,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "I dizionari e le chiavi",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1321-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1321,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "La soluzione migliore per la differenza tra insiemi",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1321-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1322,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Liste, insiemi, unione, intersezione, differenza e dizionari ",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1322-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1322,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "I dizionari e come funzionano ",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1322-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1322,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "La differenza ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1322-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1323,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1323-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1323,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Insiemi e dizionari ",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1323-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1323,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1323-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1324,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi, unire insiemi, duplicare liste",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1324-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1324,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Insiemi",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1324-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1324,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Operatore diff",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1324-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1325,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1325-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1325,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Dizionari",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1325-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1325,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1325-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1326,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1326-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1326,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Dizionari",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1326-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1326,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Come modificare (aggiungere, togliere, o modificare) elementi di un dizionario",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1326-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1327,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Spiegare insiemi e dizionari e capire come duplicare le liste",
+  "voto" : 3,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1327-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1327,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "I dizionari",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1327-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1327,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nulla",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1327-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1328,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Definizione insiemi e dizionario",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1328-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1328,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Dizionari, \"chiavi\" ",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1328-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1328,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "L'esercizio sugli insieme per la funzione differenza",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1328-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1329,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Introduzione duplicazione lista e insiemi",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1329-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1329,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Insiemi",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1329-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1329,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Differenza tra insiemi",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1329-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1330,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1330-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1330,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Gli insieme, la loro unione e intersezione ",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1330-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1330,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "I dizionari\n",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1330-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1331,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "desrizione insiemi e dizionari",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1331-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1331,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Come sfruttarli insieme alle funzioni ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1331-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1331,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Niente ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1331-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1332,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Liste e insiemi, dizionari",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1332-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1332,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Creare differenti dizionari",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1332-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1332,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Definizione della funzione sottrazione",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1332-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1333,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Gli insiemi",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1333-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1333,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Gli insiemi",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1333-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1333,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Niente",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1333-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1334,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Gli insiemi e i dizionari",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1334-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1334,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "I metodi degli insiemi e dei dizionari",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1334-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1334,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1334-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1335,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi ",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1335-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1335,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Intersezione e Unione ",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1335-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1335,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1335-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1336,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Insiemi, dizionari",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1336-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1336,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "/",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1336-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1336,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "/",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1336-2"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1406,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi  e dizionari",
+  "secondPhrase" : "Dizionari insiemi ",
+  "voto" : 6,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1406-0"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1406,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Operazioni tra piu insiemi",
+  "secondPhrase" : "Dizionari ",
+  "voto" : 2,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1406-1"
+}, {
+  "firstId" : 1289,
+  "secondId" : 1406,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1289-1406-2"
+}, {
+  "firstId" : 1290,
+  "secondId" : 1291,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Come duplicare le liste, Gli insiemi e le funzioni da utilizzare per operare con essi,il dizionario  ",
+  "secondPhrase" : "concetto di insieme e dizionario ",
+  "voto" : 3,
+  "annotatore" : "giorgioni",
+  "id" : "1290-1291-0"
+}, {
+  "firstId" : 1290,
+  "secondId" : 1291,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : " L'applicazione delle varie funzioni sugli insiemi ",
+  "secondPhrase" : "insiemi ",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1290-1291-1"
+}, {
+  "firstId" : 1290,
+  "secondId" : 1291,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Come costruire le funzioni  da usare sugli insiemi ",
+  "secondPhrase" : "nessuna ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1290-1291-2"
+}, {
+  "firstId" : 1290,
+  "secondId" : 1292,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Come duplicare le liste, Gli insiemi e le funzioni da utilizzare per operare con essi,il dizionario  ",
+  "secondPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1290-1292-0"
+}, {
+  "firstId" : 1290,
+  "secondId" : 1292,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : " L'applicazione delle varie funzioni sugli insiemi ",
+  "secondPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1290-1292-1"
+}, {
+  "firstId" : 1290,
+  "secondId" : 1292,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Come costruire le funzioni  da usare sugli insiemi ",
+  "secondPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "voto" : 1,
+  "annotatore" : "giorgioni",
+  "id" : "1290-1292-2"
+}, {
+  "firstId" : 1290,
+  "secondId" : 1294,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Come duplicare le liste, Gli insiemi e le funzioni da utilizzare per operare con essi,il dizionario  ",
+  "secondPhrase" : "Insiemi; dizionari che sono insiemi di chiavi e valori",
+  "voto" : 4,
+  "annotatore" : "giorgioni",
+  "id" : "1290-1294-0"
+}, {
+  "firstId" : 1290,
+  "secondId" : 1294,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : " L'applicazione delle varie funzioni sugli insiemi ",
+  "secondPhrase" : "le applicazioni di unione intersezione e differenza sugli insiemi",
+  "voto" : 3,
+  "annotatore" : "giorgioni",
+  "id" : "1290-1294-1"
+}, {
+  "firstId" : 1290,
+  "secondId" : 1294,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Come costruire le funzioni  da usare sugli insiemi ",
+  "secondPhrase" : "come si genera una nuova posizione negli insiemi",
+  "voto" : 5,
+  "annotatore" : "giorgioni",
+  "id" : "1290-1294-2"
+}]
