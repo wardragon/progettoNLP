@@ -9,7 +9,7 @@ with open("dataset.json",'r', encoding='latin-1') as read_file:
 with open('output.csv','w') as f:
     wr = csv.writer(f)
     for i in data:
-        if i['id'] not in ( 6, 21, 35, 44, 46, 55, 84, 99, 160, 167, 177, 213, 244, 282, 298, 301, 400, 430, 474, 510, 525, 563, 575, 578, 580, 625, 637, 666, 676, 685, 689, 1129): 
+        if i['id'] not in (747, 766, 775, 789, 790, 840, 897, 902, 921, 927, 943, 959, 996, 1028, 1036, 1111, 1129): 
             continue
         outrw1 = i['messaggio'].split()
         outrw2 = i['argomento'].split()
