@@ -1,8 +1,20 @@
 #!/usr/bin/python3
 import json
 import csv
+import inquirer
 
 annotatore = "Paolo Cerrito"
+
+def sentiment():
+    questions = [
+      inquirer.List('size',
+                    message="Sentiment della frase (1 Positivo, 2 Negativo, 3 Neutro)",
+                    choices=['Positivo', 'Negativo', 'Neutro'],
+                ),
+    ]
+    answers = inquirer.prompt(questions)
+    return answers["size"]
+
 
 with open("dataset.json",'r+', encoding='latin-1') as read_file:
     data = json.load(read_file)
@@ -28,13 +40,16 @@ count=0
 for i in data:
     if i['id'] in elenco: 
         i['messaggioTags'] = pos_tagged[count]
-        i['sentimentMessaggio'] = 'Neutro'
+        print(i['messaggio'])
+        i['sentimentMessaggio'] = sentiment()
         i['messaggioWords'] = i['messaggio'].split()
         i['argomentoWords'] = i['argomento'].split()
         i['argomentoTags'] = pos_tagged[count + 1]
-        i['sentimentArgomento']='Neutro'
+        print(i['argomento'])
+        i['sentimentArgomento'] = sentiment()
         i['chiarimentiWords'] = i['chiarimenti'].split()
-        i['sentimentChiarimenti'] = 'Neutro'
+        print(i['chiarimenti'])
+        i['sentimentChiarimenti'] = sentiment()
         i['chiarimentiTags'] = pos_tagged[count + 2]
         i['annotatore'] = annotatore
         count = count + 3

@@ -103,7 +103,7 @@
    "ADP",
    ""
   ],
-  "sentimentChiarimenti": "Neutro",
+  "sentimentChiarimenti": "Negativo",
   "annotatore": "Paolo Cerrito"
  },
  {
@@ -122,7 +122,7 @@
    "ADP",
    "NOUN"
   ],
-  "sentimentMessaggio": "Neutro",
+  "sentimentMessaggio": "Positivo",
   "argomento": "Python",
   "argomentoWords": [
    "Python"
@@ -142,7 +142,7 @@
    "ADJ",
    "NOUN"
   ],
-  "sentimentChiarimenti": "Neutro",
+  "sentimentChiarimenti": "Positivo",
   "annotatore": "Paolo Cerrito"
  },
  {
@@ -157,7 +157,7 @@
   "messaggioTags": [
    "VERB"
   ],
-  "sentimentMessaggio": "Neutro",
+  "sentimentMessaggio": "Positivo",
   "argomento": "Nessuna in particolare ",
   "argomentoWords": [
    "Nessuna",
@@ -315,7 +315,7 @@
    "DET",
    "NOUN"
   ],
-  "sentimentMessaggio": "Neutro",
+  "sentimentMessaggio": "Positivo",
   "argomento": "Introduzione al corso",
   "argomentoWords": [
    "Introduzione",
@@ -482,7 +482,7 @@
    "ADJ",
    "NOUN"
   ],
-  "sentimentChiarimenti": "Neutro",
+  "sentimentChiarimenti": "Positivo",
   "annotatore": "Paolo Cerrito"
  },
  {
@@ -686,7 +686,7 @@
    "ADP",
    "NOUN"
   ],
-  "sentimentChiarimenti": "Neutro",
+  "sentimentChiarimenti": "Positivo",
   "annotatore": "Paolo Cerrito"
  },
  {
@@ -854,7 +854,7 @@
    "DET",
    "NOUN"
   ],
-  "sentimentArgomento": "Neutro",
+  "sentimentArgomento": "Positivo",
   "chiarimenti": "-",
   "chiarimentiWords": [
    "-"
@@ -1073,7 +1073,7 @@
    "NOUN",
    "ADJ"
   ],
-  "sentimentMessaggio": "Neutro",
+  "sentimentMessaggio": "Negativo",
   "argomento": "La rappresentazione dei numeri ",
   "argomentoWords": [
    "La",
@@ -1339,7 +1339,7 @@
    "PRON",
    "ADJ"
   ],
-  "sentimentChiarimenti": "Neutro",
+  "sentimentChiarimenti": "Positivo",
   "annotatore": "Paolo Cerrito"
  },
  {
@@ -1401,7 +1401,7 @@
    "ADP",
    "PROPN"
   ],
-  "sentimentMessaggio": "Neutro",
+  "sentimentMessaggio": "Positivo",
   "argomento": "Stringhe",
   "argomentoWords": [
    "Stringhe"
@@ -1451,7 +1451,7 @@
   "messaggioTags": [
    "NOUN"
   ],
-  "sentimentMessaggio": "Neutro",
+  "sentimentMessaggio": "Positivo",
   "argomento": "La differenza dei connettivi logici nell'aggregare le condizioni ",
   "argomentoWords": [
    "La",
@@ -1466,7 +1466,7 @@
   "argomentoTags": [
    "PRON"
   ],
-  "sentimentArgomento": "Neutro",
+  "sentimentArgomento": "Positivo",
   "chiarimenti": "Perch\u00e9 con numeri grandi bisogna scrivere \"around\" ",
   "chiarimentiWords": [
    "Perch\u00e9",
@@ -1480,7 +1480,7 @@
   "chiarimentiTags": [
    "PRON"
   ],
-  "sentimentChiarimenti": "Neutro",
+  "sentimentChiarimenti": "Positivo",
   "annotatore": "Paolo Cerrito"
  },
  {
@@ -1521,7 +1521,7 @@
    "PRON",
    "ADJ"
   ],
-  "sentimentChiarimenti": "Neutro",
+  "sentimentChiarimenti": "Positivo",
   "annotatore": "Paolo Cerrito"
  },
  {
@@ -1859,7 +1859,7 @@
    "DET",
    "NOUN"
   ],
-  "sentimentArgomento": "Neutro",
+  "sentimentArgomento": "Positivo",
   "chiarimenti": "il primo dei due esercizi proposti verso la fine della lezione",
   "chiarimentiWords": [
    "il",
@@ -1887,7 +1887,7 @@
    "ADP",
    "NOUN"
   ],
-  "sentimentChiarimenti": "Neutro",
+  "sentimentChiarimenti": "Negativo",
   "annotatore": "Paolo Cerrito"
  },
  {
@@ -1924,7 +1924,7 @@
    "VERB",
    "ADV"
   ],
-  "sentimentArgomento": "Neutro",
+  "sentimentArgomento": "Positivo",
   "chiarimenti": "Il motivo per quale il computatore da come risultato 434.999994",
   "chiarimentiWords": [
    "Il",
@@ -2175,7 +2175,7 @@
    "ADJ",
    "NOUN"
   ],
-  "sentimentChiarimenti": "Neutro",
+  "sentimentChiarimenti": "Negativo",
   "annotatore": "Paolo Cerrito"
  },
  {
@@ -2264,7 +2264,7 @@
    "ADP",
    "NOUN"
   ],
-  "sentimentChiarimenti": "Neutro",
+  "sentimentChiarimenti": "Positivo",
   "annotatore": "Paolo Cerrito"
  },
  {
@@ -2371,7 +2371,7 @@
    "PRON",
    "NOUN"
   ],
-  "sentimentChiarimenti": "Neutro",
+  "sentimentChiarimenti": "Negativo",
   "annotatore": "Paolo Cerrito"
  },
  {
@@ -2394,7 +2394,7 @@
   "argomentoTags": [
    "PRON"
   ],
-  "sentimentArgomento": "Neutro",
+  "sentimentArgomento": "Positivo",
   "chiarimenti": "Niente",
   "chiarimentiWords": [
    "Niente"
