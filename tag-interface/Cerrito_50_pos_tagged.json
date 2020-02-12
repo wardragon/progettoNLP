@@ -1,0 +1,2408 @@
+[
+ {
+  "id": 6,
+  "timeStamp": "3/4/2019 15:21:45",
+  "codice": "IT12",
+  "data": "3/4/2019",
+  "messaggio": "Motivazione",
+  "messaggioWords": [
+   "Motivazione"
+  ],
+  "messaggioTags": [
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Programmazione",
+  "argomentoWords": [
+   "Programmazione"
+  ],
+  "argomentoTags": [
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "L'unico esercizio che abbiamo fatto",
+  "chiarimentiWords": [
+   "L'unico",
+   "esercizio",
+   "che",
+   "abbiamo",
+   "fatto"
+  ],
+  "chiarimentiTags": [
+   "ADJ",
+   "NOUN",
+   "SCONJ",
+   "AUX",
+   "VERB"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 21,
+  "timeStamp": "3/4/2019 15:22:31",
+  "codice": "QDOf",
+  "data": "3/4/2019",
+  "messaggio": "Conoscenza",
+  "messaggioWords": [
+   "Conoscenza"
+  ],
+  "messaggioTags": [
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "test",
+  "argomentoWords": [
+   "test"
+  ],
+  "argomentoTags": [
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "programmazione",
+  "chiarimentiWords": [
+   "programmazione"
+  ],
+  "chiarimentiTags": [
+   "NOUN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 35,
+  "timeStamp": "3/4/2019 15:22:48",
+  "codice": "Wup3",
+  "data": "1/3/2019",
+  "messaggio": "programmazione",
+  "messaggioWords": [
+   "programmazione"
+  ],
+  "messaggioTags": [
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "python",
+  "argomentoWords": [
+   "python"
+  ],
+  "argomentoTags": [
+   "PROPN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "il nome del professore",
+  "chiarimentiWords": [
+   "il",
+   "nome",
+   "del",
+   "professore"
+  ],
+  "chiarimentiTags": [
+   "DET",
+   "NOUN",
+   "ADP",
+   ""
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 44,
+  "timeStamp": "3/4/2019 15:22:59",
+  "codice": "YEiZ",
+  "data": "3/4/2019",
+  "messaggio": "L'importanza dei dati",
+  "messaggioWords": [
+   "L'importanza",
+   "dei",
+   "dati"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "ADP",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Python",
+  "argomentoWords": [
+   "Python"
+  ],
+  "argomentoTags": [
+   "PROPN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Il nostro futuro",
+  "chiarimentiWords": [
+   "Il",
+   "nostro",
+   "futuro"
+  ],
+  "chiarimentiTags": [
+   "DET",
+   "ADJ",
+   "NOUN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 46,
+  "timeStamp": "3/4/2019 15:23:02",
+  "codice": "tHbS",
+  "data": "3/4/2019",
+  "messaggio": "Coniscerci",
+  "messaggioWords": [
+   "Coniscerci"
+  ],
+  "messaggioTags": [
+   "VERB"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Nessuna in particolare ",
+  "argomentoWords": [
+   "Nessuna",
+   "in",
+   "particolare"
+  ],
+  "argomentoTags": [
+   "PRON",
+   "ADP",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 55,
+  "timeStamp": "3/4/2019 15:23:14",
+  "codice": "chYn",
+  "data": "3/4/2019",
+  "messaggio": "Introduzione",
+  "messaggioWords": [
+   "Introduzione"
+  ],
+  "messaggioTags": [
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Come programmare ",
+  "argomentoWords": [
+   "Come",
+   "programmare"
+  ],
+  "argomentoTags": [
+   "ADV",
+   "VERB"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Come programmare ",
+  "chiarimentiWords": [
+   "Come",
+   "programmare"
+  ],
+  "chiarimentiTags": [
+   "ADV",
+   "VERB"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 84,
+  "timeStamp": "3/4/2019 15:23:54",
+  "codice": "83gB",
+  "data": "3/4/2019",
+  "messaggio": "Inizio",
+  "messaggioWords": [
+   "Inizio"
+  ],
+  "messaggioTags": [
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Intelligenza artificiale",
+  "argomentoWords": [
+   "Intelligenza",
+   "artificiale"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuno",
+  "chiarimentiWords": [
+   "Nessuno"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 99,
+  "timeStamp": "3/4/2019 15:24:14",
+  "codice": "GEhe",
+  "data": "3/4/2019",
+  "messaggio": "Conoscenza e motivazione ",
+  "messaggioWords": [
+   "Conoscenza",
+   "e",
+   "motivazione"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "CCONJ",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "La programmazione ",
+  "argomentoWords": [
+   "La",
+   "programmazione"
+  ],
+  "argomentoTags": [
+   "DET",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna ",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 160,
+  "timeStamp": "3/4/2019 20:50:05",
+  "codice": "LuJu",
+  "data": "3/4/2019",
+  "messaggio": "Occorre imparare a gestire ci\u00f2 che oramai gestisce il mondo",
+  "messaggioWords": [
+   "Occorre",
+   "imparare",
+   "a",
+   "gestire",
+   "ci\u00f2",
+   "che",
+   "oramai",
+   "gestisce",
+   "il",
+   "mondo"
+  ],
+  "messaggioTags": [
+   "VERB",
+   "VERB",
+   "ADP",
+   "VERB",
+   "PRON",
+   "PRON",
+   "ADV",
+   "VERB",
+   "DET",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Introduzione al corso",
+  "argomentoWords": [
+   "Introduzione",
+   "al",
+   "corso"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "ADP",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 167,
+  "timeStamp": "3/5/2019 10:52:54",
+  "codice": "Qngv",
+  "data": "3/5/2019",
+  "messaggio": "Variabili e algoritmi",
+  "messaggioWords": [
+   "Variabili",
+   "e",
+   "algoritmi"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "CCONJ",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Algoritmi",
+  "argomentoWords": [
+   "Algoritmi"
+  ],
+  "argomentoTags": [
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "La lezione \u00e8 leggera e scorrevole, a tratti ricreativa, ma si potrebbe essere pi\u00f9 concreti e trasmettere pi\u00f9 concetti mantenendo la sua bellissima metodologia.\nUn esempio potrebbe essere una pi\u00f9 ampliata e specifica esposizione degli algoritmi.\nApprezzo tantissimo la possibilit\u00e0 di esprimere un parere in merito e lunge da me sapere come si svolge il suo lavoro.",
+  "chiarimentiWords": [
+   "La",
+   "lezione",
+   "\u00e8",
+   "leggera",
+   "e",
+   "scorrevole,",
+   "a",
+   "tratti",
+   "ricreativa,",
+   "ma",
+   "si",
+   "potrebbe",
+   "essere",
+   "pi\u00f9",
+   "concreti",
+   "e",
+   "trasmettere",
+   "pi\u00f9",
+   "concetti",
+   "mantenendo",
+   "la",
+   "sua",
+   "bellissima",
+   "metodologia.",
+   "Un",
+   "esempio",
+   "potrebbe",
+   "essere",
+   "una",
+   "pi\u00f9",
+   "ampliata",
+   "e",
+   "specifica",
+   "esposizione",
+   "degli",
+   "algoritmi.",
+   "Apprezzo",
+   "tantissimo",
+   "la",
+   "possibilit\u00e0",
+   "di",
+   "esprimere",
+   "un",
+   "parere",
+   "in",
+   "merito",
+   "e",
+   "lunge",
+   "da",
+   "me",
+   "sapere",
+   "come",
+   "si",
+   "svolge",
+   "il",
+   "suo",
+   "lavoro."
+  ],
+  "chiarimentiTags": [
+   "DET",
+   "NOUN",
+   "AUX",
+   "ADJ",
+   "CCONJ",
+   "ADJ",
+   "ADP",
+   "NOUN",
+   "ADJ",
+   "CCONJ",
+   "PRON",
+   "VERB",
+   "AUX ",
+   "ADV",
+   "ADJ",
+   "CCONJ",
+   "VERB",
+   "ADV",
+   "ADJ",
+   "VERB",
+   "DET",
+   "ADJ",
+   "ADJ",
+   "NOUN",
+   "DET",
+   "NOUN",
+   "VERB",
+   "AUX",
+   "DET",
+   "ADV",
+   "ADJ",
+   "CCONJ",
+   "ADJ",
+   "NOUN",
+   "ADP",
+   "NOUN",
+   "VERB",
+   "ADJ",
+   "DET",
+   "NOUN",
+   "ADP",
+   "VERB",
+   "DET",
+   "NOUN",
+   "ADP",
+   "NOUN",
+   "CCONJ",
+   "ADV",
+   "ADP",
+   "ADP",
+   "VERB",
+   "ADV",
+   "ADV",
+   "VERB",
+   "DET",
+   "ADJ",
+   "NOUN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 177,
+  "timeStamp": "3/5/2019 10:56:17",
+  "codice": "o0wO",
+  "data": "3/5/2019",
+  "messaggio": "Descrizione di variabile informatica e del concetto di algoritmo",
+  "messaggioWords": [
+   "Descrizione",
+   "di",
+   "variabile",
+   "informatica",
+   "e",
+   "del",
+   "concetto",
+   "di",
+   "algoritmo"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "ADP",
+   "NOUN",
+   "ADJ",
+   "CCONJ",
+   "ADP",
+   "NOUN",
+   "ADP",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Formulazione di algoritmi",
+  "argomentoWords": [
+   "Formulazione",
+   "di",
+   "algoritmi"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "ADP",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 213,
+  "timeStamp": "3/5/2019 10:57:01",
+  "codice": "6t8M",
+  "data": "3/5/2019",
+  "messaggio": "La definizione di variabile e algoritmo",
+  "messaggioWords": [
+   "La",
+   "definizione",
+   "di",
+   "variabile",
+   "e",
+   "algoritmo"
+  ],
+  "messaggioTags": [
+   "DET",
+   "NOUN",
+   "ADP",
+   "NOUN",
+   "CCONJ",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "La definzione di algoritmo e variabile ",
+  "argomentoWords": [
+   "La",
+   "definzione",
+   "di",
+   "algoritmo",
+   "e",
+   "variabile"
+  ],
+  "argomentoTags": [
+   "DET",
+   "NOUN",
+   "ADP",
+   "NOUN ",
+   "CCONJ",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 244,
+  "timeStamp": "3/5/2019 10:57:24",
+  "codice": "VMAP",
+  "data": "3/5/2019",
+  "messaggio": "Basi dell'informatica: defininizioni di sequenza, variabili informatiche ed algoritmo ",
+  "messaggioWords": [
+   "Basi",
+   "dell'informatica:",
+   "defininizioni",
+   "di",
+   "sequenza,",
+   "variabili",
+   "informatiche",
+   "ed",
+   "algoritmo"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "NOUN",
+   "NOUN",
+   "ADP",
+   "NOUN",
+   "NOOUN",
+   "ADJ",
+   "CCONJ",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Tutto ",
+  "argomentoWords": [
+   "Tutto"
+  ],
+  "argomentoTags": [
+   "PRON"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nulla",
+  "chiarimentiWords": [
+   "Nulla"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 282,
+  "timeStamp": "3/5/2019 10:58:06",
+  "codice": "Vuje",
+  "data": "3/5/2019",
+  "messaggio": "Cosa sono una variabile informatica e un algoritmo",
+  "messaggioWords": [
+   "Cosa",
+   "sono",
+   "una",
+   "variabile",
+   "informatica",
+   "e",
+   "un",
+   "algoritmo"
+  ],
+  "messaggioTags": [
+   "ADV",
+   "AUX",
+   "DET",
+   "NOUN",
+   "ADJ",
+   "CCONJ",
+   "DET",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Gli algoritmi ",
+  "argomentoWords": [
+   "Gli",
+   "algoritmi"
+  ],
+  "argomentoTags": [
+   "DET",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "L?esecuzione pratica dell?algoritmo della somma",
+  "chiarimentiWords": [
+   "L?esecuzione",
+   "pratica",
+   "dell?algoritmo",
+   "della",
+   "somma"
+  ],
+  "chiarimentiTags": [
+   "NOUN",
+   "ADJ",
+   "NOUN",
+   "ADP",
+   "NOUN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 298,
+  "timeStamp": "3/5/2019 10:58:38",
+  "codice": "HbVc",
+  "data": "3/5/2019",
+  "messaggio": "Concetto di incognita e algoritmo",
+  "messaggioWords": [
+   "Concetto",
+   "di",
+   "incognita",
+   "e",
+   "algoritmo"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "ADO",
+   "NOUN",
+   "CCONJ",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Concetto di incognita e differenze rispetto al suo equivalente matematico",
+  "argomentoWords": [
+   "Concetto",
+   "di",
+   "incognita",
+   "e",
+   "differenze",
+   "rispetto",
+   "al",
+   "suo",
+   "equivalente",
+   "matematico"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "ADP",
+   "NOUN",
+   "CCONJ",
+   "NOUN",
+   "NOUN",
+   "ADP",
+   "ADJ",
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 301,
+  "timeStamp": "3/5/2019 10:58:49",
+  "codice": "KqKe",
+  "data": "3/5/2019",
+  "messaggio": "Algoritmo e variabile informatica",
+  "messaggioWords": [
+   "Algoritmo",
+   "e",
+   "variabile",
+   "informatica"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "CCONJ",
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Variabile informatica",
+  "argomentoWords": [
+   "Variabile",
+   "informatica"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Algoritmo",
+  "chiarimentiWords": [
+   "Algoritmo"
+  ],
+  "chiarimentiTags": [
+   "NOUN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 400,
+  "timeStamp": "3/7/2019 15:30:28",
+  "codice": "Ccjn",
+  "data": "3/7/2019",
+  "messaggio": "Algoritmo",
+  "messaggioWords": [
+   "Algoritmo"
+  ],
+  "messaggioTags": [
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Somma",
+  "argomentoWords": [
+   "Somma"
+  ],
+  "argomentoTags": [
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Trovare la complessit\u00e0",
+  "chiarimentiWords": [
+   "Trovare",
+   "la",
+   "complessit\u00e0"
+  ],
+  "chiarimentiTags": [
+   "VERB",
+   "DET",
+   "NOUN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 430,
+  "timeStamp": "3/7/2019 15:31:20",
+  "codice": "1esc",
+  "data": "3/7/2019",
+  "messaggio": "Complessit\u00e0 ",
+  "messaggioWords": [
+   "Complessit\u00e0"
+  ],
+  "messaggioTags": [
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Trovare soluzioni pi\u00f9 veloci per risolvere un problema",
+  "argomentoWords": [
+   "Trovare",
+   "soluzioni",
+   "pi\u00f9",
+   "veloci",
+   "per",
+   "risolvere",
+   "un",
+   "problema"
+  ],
+  "argomentoTags": [
+   "VERB",
+   "NOUN",
+   "ADV",
+   "ADJ",
+   "ADP",
+   "VERB",
+   "DET",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "-",
+  "chiarimentiWords": [
+   "-"
+  ],
+  "chiarimentiTags": [
+   "SYM"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 474,
+  "timeStamp": "3/11/2019 15:25:14",
+  "codice": "LJDp",
+  "data": "3/11/2019",
+  "messaggio": "Algoritmo",
+  "messaggioWords": [
+   "Algoritmo"
+  ],
+  "messaggioTags": [
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Sistema binario",
+  "argomentoWords": [
+   "Sistema",
+   "binario"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "/",
+  "chiarimentiWords": [
+   "/"
+  ],
+  "chiarimentiTags": [
+   "SYM"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 510,
+  "timeStamp": "3/11/2019 15:26:03",
+  "codice": "Li0e",
+  "data": "3/11/2019",
+  "messaggio": "La rappresentazione di qualcosa ",
+  "messaggioWords": [
+   "La",
+   "rappresentazione",
+   "di",
+   "qualcosa"
+  ],
+  "messaggioTags": [
+   "DET",
+   "NOUN",
+   "ADP",
+   "PRON"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "La differenza fra significato e significante ",
+  "argomentoWords": [
+   "La",
+   "differenza",
+   "fra",
+   "significato",
+   "e",
+   "significante"
+  ],
+  "argomentoTags": [
+   "DET",
+   "NOUN",
+   "ADP",
+   "NOUN",
+   "CCONJ",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna ",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 525,
+  "timeStamp": "3/11/2019 15:26:22",
+  "codice": "OOBq",
+  "data": "3/11/2019",
+  "messaggio": "Rappresentazione dell'informaziond",
+  "messaggioWords": [
+   "Rappresentazione",
+   "dell'informaziond"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "La rappresentazione simbolica di informazione ",
+  "argomentoWords": [
+   "La",
+   "rappresentazione",
+   "simbolica",
+   "di",
+   "informazione"
+  ],
+  "argomentoTags": [
+   "DET",
+   "NOUN",
+   "ADJ",
+   "ADP",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 563,
+  "timeStamp": "3/11/2019 15:27:20",
+  "codice": "XnIJ",
+  "data": "3/11/2019",
+  "messaggio": "La Rappresentazione",
+  "messaggioWords": [
+   "La",
+   "Rappresentazione"
+  ],
+  "messaggioTags": [
+   "DET",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "La rappresentazione numerica",
+  "argomentoWords": [
+   "La",
+   "rappresentazione",
+   "numerica"
+  ],
+  "argomentoTags": [
+   "DET",
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Operazioni adoperando il sistema binario",
+  "chiarimentiWords": [
+   "Operazioni",
+   "adoperando",
+   "il",
+   "sistema",
+   "binario"
+  ],
+  "chiarimentiTags": [
+   "NOUN",
+   "VERB",
+   "DET",
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 575,
+  "timeStamp": "3/11/2019 15:31:48",
+  "codice": "Fp9f",
+  "data": "3/11/2019",
+  "messaggio": "I numeri romani sono numeri in disuso perch\u00e9 la loro rappresentazione non permette un algoritmo efficace ",
+  "messaggioWords": [
+   "I",
+   "numeri",
+   "romani",
+   "sono",
+   "numeri",
+   "in",
+   "disuso",
+   "perch\u00e9",
+   "la",
+   "loro",
+   "rappresentazione",
+   "non",
+   "permette",
+   "un",
+   "algoritmo",
+   "efficace"
+  ],
+  "messaggioTags": [
+   "DET",
+   "NOUN",
+   "ADJ",
+   "AUX",
+   "NOUN",
+   "ADP",
+   "NOUN",
+   "SCONJ",
+   "DET",
+   "PRON",
+   "NOUN",
+   "ADV",
+   "VERB",
+   "DET",
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "La rappresentazione dei numeri ",
+  "argomentoWords": [
+   "La",
+   "rappresentazione",
+   "dei",
+   "numeri"
+  ],
+  "argomentoTags": [
+   "DET",
+   "NOUN",
+   "ADP",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna ",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 578,
+  "timeStamp": "3/11/2019 16:42:54",
+  "codice": "PGO1",
+  "data": "3/11/2019",
+  "messaggio": "Rappresentazione dell'informazione",
+  "messaggioWords": [
+   "Rappresentazione",
+   "dell'informazione"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Rappresentazione simbolica",
+  "argomentoWords": [
+   "Rappresentazione",
+   "simbolica"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 580,
+  "timeStamp": "3/11/2019 18:42:16",
+  "codice": "QDOf",
+  "data": "3/11/2019",
+  "messaggio": "numeri",
+  "messaggioWords": [
+   "numeri"
+  ],
+  "messaggioTags": [
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "complessit\u00e0 numeri",
+  "argomentoWords": [
+   "complessit\u00e0",
+   "numeri"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "nulla",
+  "chiarimentiWords": [
+   "nulla"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 625,
+  "timeStamp": "3/12/2019 10:55:42",
+  "codice": "PzDo",
+  "data": "3/12/2019",
+  "messaggio": "Variabili e stringhe",
+  "messaggioWords": [
+   "Variabili",
+   "e",
+   "stringhe"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "CCONJ",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Operazioni con le stringhe",
+  "argomentoWords": [
+   "Operazioni",
+   "con",
+   "le",
+   "stringhe"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "ADP",
+   "DET",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Operazioni con le variabili ",
+  "chiarimentiWords": [
+   "Operazioni",
+   "con",
+   "le",
+   "variabili"
+  ],
+  "chiarimentiTags": [
+   "NOUN",
+   "ADP",
+   "DET",
+   "NOUN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 637,
+  "timeStamp": "3/12/2019 10:56:13",
+  "codice": "9LVQ",
+  "data": "3/12/2019",
+  "messaggio": "Linguaggio in Python",
+  "messaggioWords": [
+   "Linguaggio",
+   "in",
+   "Python"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "ADP",
+   "PROPN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Linguaggio di programmazione",
+  "argomentoWords": [
+   "Linguaggio",
+   "di",
+   "programmazione"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "ADP",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Somme tra tipi di numeri diversi",
+  "chiarimentiWords": [
+   "Somme",
+   "tra",
+   "tipi",
+   "di",
+   "numeri",
+   "diversi"
+  ],
+  "chiarimentiTags": [
+   "NOUN",
+   "ADP",
+   "NOUN",
+   "ADP",
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 666,
+  "timeStamp": "3/12/2019 10:57:32",
+  "codice": "NOWe",
+  "data": "3/12/2019",
+  "messaggio": "Operazioni in Python",
+  "messaggioWords": [
+   "Operazioni",
+   "in",
+   "Python"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "ADP",
+   "PROPN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Tutto",
+  "argomentoWords": [
+   "Tutto"
+  ],
+  "argomentoTags": [
+   "PRON"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna ",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 676,
+  "timeStamp": "3/12/2019 10:58:36",
+  "codice": "70ES",
+  "data": "3/12/2019",
+  "messaggio": "Vari tipi variabili per il programma Python ",
+  "messaggioWords": [
+   "Vari",
+   "tipi",
+   "variabili",
+   "per",
+   "il",
+   "programma",
+   "Python"
+  ],
+  "messaggioTags": [
+   "ADJ",
+   "NOUN",
+   "NOUN",
+   "ADP",
+   "DET",
+   "NOUN",
+   "PROPN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": " Nessuno ",
+  "argomentoWords": [
+   "Nessuno"
+  ],
+  "argomentoTags": [
+   "PRON"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Tutto chiaro",
+  "chiarimentiWords": [
+   "Tutto",
+   "chiaro"
+  ],
+  "chiarimentiTags": [
+   "PRON",
+   "ADJ"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 685,
+  "timeStamp": "3/12/2019 11:02:03",
+  "codice": "APDz",
+  "data": "3/12/2019",
+  "messaggio": "Variabili in Python: interi, float, stringhe ",
+  "messaggioWords": [
+   "Variabili",
+   "in",
+   "Python:",
+   "interi,",
+   "float,",
+   "stringhe"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "ADP",
+   "PROPN",
+   "NOUN",
+   "NOUN",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Stringhe",
+  "argomentoWords": [
+   "Stringhe"
+  ],
+  "argomentoTags": [
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 689,
+  "timeStamp": "3/12/2019 11:04:42",
+  "codice": "cBaZ",
+  "data": "3/12/2019",
+  "messaggio": "Primo approccio con Python ",
+  "messaggioWords": [
+   "Primo",
+   "approccio",
+   "con",
+   "Python"
+  ],
+  "messaggioTags": [
+   "ADJ",
+   "NOUN",
+   "ADP",
+   "PROPN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Stringhe",
+  "argomentoWords": [
+   "Stringhe"
+  ],
+  "argomentoTags": [
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nuovi operatori // % ",
+  "chiarimentiWords": [
+   "Nuovi",
+   "operatori",
+   "//",
+   "%"
+  ],
+  "chiarimentiTags": [
+   "ADJ",
+   "NOUN",
+   "SYM",
+   "SYM"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 740,
+  "timeStamp": "3/14/2019 15:39:04",
+  "codice": "KpXn",
+  "data": "3/14/2019",
+  "messaggio": "Le diverse condizioni in Python, come inserirle e dividerle in blocchi,  i connettivi logici ",
+  "messaggioWords": [
+   "Le",
+   "diverse",
+   "condizioni",
+   "in",
+   "Python,",
+   "come",
+   "inserirle",
+   "e",
+   "dividerle",
+   "in",
+   "blocchi,",
+   "i",
+   "connettivi",
+   "logici"
+  ],
+  "messaggioTags": [
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "La differenza dei connettivi logici nell'aggregare le condizioni ",
+  "argomentoWords": [
+   "La",
+   "differenza",
+   "dei",
+   "connettivi",
+   "logici",
+   "nell'aggregare",
+   "le",
+   "condizioni"
+  ],
+  "argomentoTags": [
+   "PRON"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Perch\u00e9 con numeri grandi bisogna scrivere \"around\" ",
+  "chiarimentiWords": [
+   "Perch\u00e9",
+   "con",
+   "numeri",
+   "grandi",
+   "bisogna",
+   "scrivere",
+   "\"around\""
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 744,
+  "timeStamp": "3/14/2019 15:40:15",
+  "codice": "S1h2",
+  "data": "3/14/2019",
+  "messaggio": "Condizioni e connettivi logici",
+  "messaggioWords": [
+   "Condizioni",
+   "e",
+   "connettivi",
+   "logici"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "CCONJ",
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Connettivi logici",
+  "argomentoWords": [
+   "Connettivi",
+   "logici"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Tutto chiaro",
+  "chiarimentiWords": [
+   "Tutto",
+   "chiaro"
+  ],
+  "chiarimentiTags": [
+   "PRON",
+   "ADJ"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 747,
+  "timeStamp": "3/14/2019 15:41:09",
+  "codice": "osPn",
+  "data": "3/14/2019",
+  "messaggio": "Le condizioni",
+  "messaggioWords": [
+   "Le",
+   "condizioni"
+  ],
+  "messaggioTags": [
+   "DET",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Connettori logici",
+  "argomentoWords": [
+   "Connettori",
+   "logici"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Il motivo per cui avviene l?approssimazione al momento della moltiplicazione ",
+  "chiarimentiWords": [
+   "Il",
+   "motivo",
+   "per",
+   "cui",
+   "avviene",
+   "l?approssimazione",
+   "al",
+   "momento",
+   "della",
+   "moltiplicazione"
+  ],
+  "chiarimentiTags": [
+   "DET",
+   "NOUN",
+   "ADP",
+   "PRON",
+   "VERB",
+   "NOUN",
+   "ADP",
+   "NOUN",
+   "ADP",
+   "NOUN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 766,
+  "timeStamp": "3/14/2019 16:56:11",
+  "codice": "x9x2",
+  "data": "3/14/2019",
+  "messaggio": "Programmare con linguaggio python",
+  "messaggioWords": [
+   "Programmare",
+   "con",
+   "linguaggio",
+   "python"
+  ],
+  "messaggioTags": [
+   "VERB",
+   "ADP",
+   "NOUN",
+   "PROPN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Come programmare",
+  "argomentoWords": [
+   "Come",
+   "programmare"
+  ],
+  "argomentoTags": [
+   "ADV",
+   "VERB"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Numeri reali e numeri interi ",
+  "chiarimentiWords": [
+   "Numeri",
+   "reali",
+   "e",
+   "numeri",
+   "interi"
+  ],
+  "chiarimentiTags": [
+   "NOUN",
+   "ADJ",
+   "CCONJ",
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 775,
+  "timeStamp": "3/14/2019 19:05:06",
+  "codice": "eRGu",
+  "data": "3/14/2019",
+  "messaggio": "Espressioni condizionali e connettivi logici.",
+  "messaggioWords": [
+   "Espressioni",
+   "condizionali",
+   "e",
+   "connettivi",
+   "logici."
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "ADJ",
+   "CCONJ",
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "L'utilizzo dell'enunciato if",
+  "argomentoWords": [
+   "L'utilizzo",
+   "dell'enunciato",
+   "if"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "NOUN",
+   "X"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "/",
+  "chiarimentiWords": [
+   "/"
+  ],
+  "chiarimentiTags": [
+   "SYM"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 789,
+  "timeStamp": "3/17/2019 17:56:24",
+  "codice": "3YOD",
+  "data": "3/11/2019",
+  "messaggio": "significato di complessit\u00e0 di un algoritmo",
+  "messaggioWords": [
+   "significato",
+   "di",
+   "complessit\u00e0",
+   "di",
+   "un",
+   "algoritmo"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "ADP",
+   "NOUN",
+   "ADP",
+   "DET",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "algoritmi",
+  "argomentoWords": [
+   "algoritmi"
+  ],
+  "argomentoTags": [
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "nessuna\n",
+  "chiarimentiWords": [
+   "nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 790,
+  "timeStamp": "3/17/2019 18:11:45",
+  "codice": "3YOD",
+  "data": "3/14/2019",
+  "messaggio": "Primi passi in Python",
+  "messaggioWords": [
+   "Primi",
+   "passi",
+   "in",
+   "Python"
+  ],
+  "messaggioTags": [
+   "ADJ",
+   "NOUN",
+   "ADP",
+   "PROPN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Python",
+  "argomentoWords": [
+   "Python"
+  ],
+  "argomentoTags": [
+   "PROPN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PROPN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 840,
+  "timeStamp": "3/18/2019 15:30:31",
+  "codice": "feKh",
+  "data": "3/18/2019",
+  "messaggio": "I cicli",
+  "messaggioWords": [
+   "I",
+   "cicli"
+  ],
+  "messaggioTags": [
+   "DET",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "While",
+  "argomentoWords": [
+   "While"
+  ],
+  "argomentoTags": [
+   "X"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Input,int,str",
+  "chiarimentiWords": [
+   "Input,int,str"
+  ],
+  "chiarimentiTags": [
+   "X"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 897,
+  "timeStamp": "3/19/2019 9:56:41",
+  "codice": "QVLA",
+  "data": "3/18/2019",
+  "messaggio": "Cicli While",
+  "messaggioWords": [
+   "Cicli",
+   "While"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "X"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "I cicli",
+  "argomentoWords": [
+   "I",
+   "cicli"
+  ],
+  "argomentoTags": [
+   "DET",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": ".",
+  "chiarimentiWords": [
+   "."
+  ],
+  "chiarimentiTags": [
+   ""
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 902,
+  "timeStamp": "3/19/2019 19:06:51",
+  "codice": "eXCK",
+  "data": "3/18/2019",
+  "messaggio": "descrizione di alcune funzioni",
+  "messaggioWords": [
+   "descrizione",
+   "di",
+   "alcune",
+   "funzioni"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "ADP",
+   "ADJ",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "come capire quale algoritmo \u00e8 il migliore leggendo solamemte il codice ",
+  "argomentoWords": [
+   "come",
+   "capire",
+   "quale",
+   "algoritmo",
+   "\u00e8",
+   "il",
+   "migliore",
+   "leggendo",
+   "solamemte",
+   "il",
+   "codice"
+  ],
+  "argomentoTags": [
+   "ADV",
+   "VERB",
+   "PRON",
+   "NOUN",
+   "AUX",
+   "DET",
+   "ADJ",
+   "VERB",
+   "ADV",
+   "DET",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "il primo dei due esercizi proposti verso la fine della lezione",
+  "chiarimentiWords": [
+   "il",
+   "primo",
+   "dei",
+   "due",
+   "esercizi",
+   "proposti",
+   "verso",
+   "la",
+   "fine",
+   "della",
+   "lezione"
+  ],
+  "chiarimentiTags": [
+   "DET",
+   "ADJ",
+   "ADP",
+   "ADJ",
+   "NOUN",
+   "VERB",
+   "ADV",
+   "DET",
+   "NOUN",
+   "ADP",
+   "NOUN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 921,
+  "timeStamp": "3/21/2019 15:28:28",
+  "codice": "TGM6",
+  "data": "3/14/2019",
+  "messaggio": "Condizioni, if, else, and, or, logica ",
+  "messaggioWords": [
+   "Condizioni,",
+   "if,",
+   "else,",
+   "and,",
+   "or,",
+   "logica"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "X",
+   "X",
+   "X",
+   "X",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Saperle usare correttamente",
+  "argomentoWords": [
+   "Saperle",
+   "usare",
+   "correttamente"
+  ],
+  "argomentoTags": [
+   "VERB",
+   "VERB",
+   "ADV"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Il motivo per quale il computatore da come risultato 434.999994",
+  "chiarimentiWords": [
+   "Il",
+   "motivo",
+   "per",
+   "quale",
+   "il",
+   "computatore",
+   "da",
+   "come",
+   "risultato",
+   "434.999994"
+  ],
+  "chiarimentiTags": [
+   "DET",
+   "NOUN",
+   "ADP",
+   "PRON",
+   "DET",
+   "NOUN",
+   "ADP",
+   "ADV",
+   "NOUN",
+   "NUM"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 927,
+  "timeStamp": "3/21/2019 15:28:39",
+  "codice": "chYn",
+  "data": "3/21/2019",
+  "messaggio": "Logica e Rappresentazione dei numeri",
+  "messaggioWords": [
+   "Logica",
+   "e",
+   "Rappresentazione",
+   "dei",
+   "numeri"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "CCONJ",
+   "NOUN",
+   "ADP",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "La logica\n",
+  "argomentoWords": [
+   "La",
+   "logica"
+  ],
+  "argomentoTags": [
+   "DET",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 943,
+  "timeStamp": "3/21/2019 15:29:50",
+  "codice": "TGM6",
+  "data": "3/21/2019",
+  "messaggio": "Logica, dimostrazioni, CPU",
+  "messaggioWords": [
+   "Logica,",
+   "dimostrazioni,",
+   "CPU"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "NOUN",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Logica",
+  "argomentoWords": [
+   "Logica"
+  ],
+  "argomentoTags": [
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Nessuna",
+  "chiarimentiWords": [
+   "Nessuna"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 959,
+  "timeStamp": "3/21/2019 15:33:00",
+  "codice": "3ZB6",
+  "data": "3/21/2019",
+  "messaggio": "Algoritmo vitale, macchina di von Neumann, sintassi, numeri reali",
+  "messaggioWords": [
+   "Algoritmo",
+   "vitale,",
+   "macchina",
+   "di",
+   "von",
+   "Neumann,",
+   "sintassi,",
+   "numeri",
+   "reali"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "ADJ",
+   "NOUN",
+   "ADP",
+   "PROPN",
+   "PROPN",
+   "NOUN",
+   "NOUN",
+   "ADJ"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Come funziona la CPU ",
+  "argomentoWords": [
+   "Come",
+   "funziona",
+   "la",
+   "CPU"
+  ],
+  "argomentoTags": [
+   "ADV",
+   "VERB",
+   "DET",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Come implicare tutti gli argomenti nella codifica in python ",
+  "chiarimentiWords": [
+   "Come",
+   "implicare",
+   "tutti",
+   "gli",
+   "argomenti",
+   "nella",
+   "codifica",
+   "in",
+   "python"
+  ],
+  "chiarimentiTags": [
+   "ADV",
+   "VERB",
+   "ADJ",
+   "DET",
+   "NOUN",
+   "ADO",
+   "NOUN",
+   "ADP",
+   "PROPN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 996,
+  "timeStamp": "3/25/2019 15:30:35",
+  "codice": "Hzt6 ",
+  "data": "3/25/2019",
+  "messaggio": "Ciclo for",
+  "messaggioWords": [
+   "Ciclo",
+   "for"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "X"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Ciclo for",
+  "argomentoWords": [
+   "Ciclo",
+   "for"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "X"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Ultimo esercizio ",
+  "chiarimentiWords": [
+   "Ultimo",
+   "esercizio"
+  ],
+  "chiarimentiTags": [
+   "ADJ",
+   "NOUN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 1028,
+  "timeStamp": "3/25/2019 15:32:34",
+  "codice": "MvfM",
+  "data": "3/25/2019",
+  "messaggio": "Cicli for",
+  "messaggioWords": [
+   "Cicli",
+   "for"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "X"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Range",
+  "argomentoWords": [
+   "Range"
+  ],
+  "argomentoTags": [
+   "X"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Non ho capito gli ultimi esercizi",
+  "chiarimentiWords": [
+   "Non",
+   "ho",
+   "capito",
+   "gli",
+   "ultimi",
+   "esercizi"
+  ],
+  "chiarimentiTags": [
+   "ADV",
+   "AUX",
+   "VERB",
+   "DET",
+   "ADJ",
+   "NOUN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 1036,
+  "timeStamp": "3/25/2019 15:34:34",
+  "codice": "plTe",
+  "data": "3/25/2019",
+  "messaggio": "Ciclo for, utilizzo e vari esempi",
+  "messaggioWords": [
+   "Ciclo",
+   "for,",
+   "utilizzo",
+   "e",
+   "vari",
+   "esempi"
+  ],
+  "messaggioTags": [
+   "NOUN",
+   "X",
+   "VERB",
+   "CCONJ",
+   "ADJ",
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "I cicli innestati e \"l'end\" della funzione print",
+  "argomentoWords": [
+   "I",
+   "cicli",
+   "innestati",
+   "e",
+   "\"l'end\"",
+   "della",
+   "funzione",
+   "print"
+  ],
+  "argomentoTags": [
+   "DET",
+   "NOUN",
+   "ADJ",
+   "CCONJ",
+   "X",
+   "ADP",
+   "NOUN",
+   "X"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Il perch\u00e9 nell'esercizio il ciclo stampava per colonne e poi per righe e i cicli innestati negli esercizi ",
+  "chiarimentiWords": [
+   "Il",
+   "perch\u00e9",
+   "nell'esercizio",
+   "il",
+   "ciclo",
+   "stampava",
+   "per",
+   "colonne",
+   "e",
+   "poi",
+   "per",
+   "righe",
+   "e",
+   "i",
+   "cicli",
+   "innestati",
+   "negli",
+   "esercizi"
+  ],
+  "chiarimentiTags": [
+   "DET",
+   "NOUN",
+   "NOUN",
+   "DET",
+   "NOUN",
+   "VERB",
+   "ADP",
+   "NOUN",
+   "CCONJ",
+   "ADV",
+   "ADO",
+   "NOUN",
+   "CCONJ",
+   "DET",
+   "NOUN",
+   "ADJ",
+   "ADP",
+   "NOUN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 1111,
+  "timeStamp": "3/26/2019 19:31:50",
+  "codice": "515x",
+  "data": "3/26/2019",
+  "messaggio": "Funzioni",
+  "messaggioWords": [
+   "Funzioni"
+  ],
+  "messaggioTags": [
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Codice per scrivere il tappeto",
+  "argomentoWords": [
+   "Codice",
+   "per",
+   "scrivere",
+   "il",
+   "tappeto"
+  ],
+  "argomentoTags": [
+   "NOUN",
+   "ADP",
+   "VERB",
+   "DET",
+   "NOUN"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Come ha potuto notare oggi se ci chiede di svolgere un esercizio da soli non siamo in grado... C'\u00e8 qualcosa che non va! I concetti spiegati sono abbastanza chiari ma applicarli \u00e8 un altro conto",
+  "chiarimentiWords": [
+   "Come",
+   "ha",
+   "potuto",
+   "notare",
+   "oggi",
+   "se",
+   "ci",
+   "chiede",
+   "di",
+   "svolgere",
+   "un",
+   "esercizio",
+   "da",
+   "soli",
+   "non",
+   "siamo",
+   "in",
+   "grado...",
+   "C'\u00e8",
+   "qualcosa",
+   "che",
+   "non",
+   "va!",
+   "I",
+   "concetti",
+   "spiegati",
+   "sono",
+   "abbastanza",
+   "chiari",
+   "ma",
+   "applicarli",
+   "\u00e8",
+   "un",
+   "altro",
+   "conto"
+  ],
+  "chiarimentiTags": [
+   "ADV",
+   "AUX",
+   "VERB",
+   "VERB",
+   "ADV",
+   "SCONJ",
+   "PRON",
+   "VERB",
+   "ADP",
+   "VERB",
+   "DET",
+   "NOUN",
+   "ADP",
+   "NOUN",
+   "ADV",
+   "VERB",
+   "ADP",
+   "NOUN",
+   "AUX",
+   "PRON",
+   "PRON",
+   "ADV",
+   "VERB",
+   "DET",
+   "NOUN",
+   "ADJ",
+   "AUX",
+   "ADV",
+   "ADJ",
+   "CCONJ",
+   "VERB",
+   "AUX",
+   "DET",
+   "PRON",
+   "NOUN"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ },
+ {
+  "id": 1129,
+  "timeStamp": "3/28/2019 15:34:13",
+  "codice": "6NsC",
+  "data": "3/28/2019",
+  "messaggio": "Esercitazione",
+  "messaggioWords": [
+   "Esercitazione"
+  ],
+  "messaggioTags": [
+   "NOUN"
+  ],
+  "sentimentMessaggio": "Neutro",
+  "argomento": "Tutto",
+  "argomentoWords": [
+   "Tutto"
+  ],
+  "argomentoTags": [
+   "PRON"
+  ],
+  "sentimentArgomento": "Neutro",
+  "chiarimenti": "Niente",
+  "chiarimentiWords": [
+   "Niente"
+  ],
+  "chiarimentiTags": [
+   "PRON"
+  ],
+  "sentimentChiarimenti": "Neutro",
+  "annotatore": "Paolo Cerrito"
+ }
+]
