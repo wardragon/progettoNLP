@@ -39,7 +39,6 @@ for i in data:
         i['annotatore'] = annotatore
         count = count + 3
         my_json.append(i)
-print(my_json)
 
 with open('Cerrito_50_pos_tagged.json', 'w') as fp:
     json.dump(my_json, fp, indent=1)
