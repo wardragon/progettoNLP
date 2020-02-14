@@ -1,0 +1,1351 @@
+[ {
+  "firstId" : 1285,
+  "secondId" : 1335,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi e dizionari",
+  "secondPhrase" : "Insiemi ",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1285-1335-0"
+}, {
+  "firstId" : 1285,
+  "secondId" : 1335,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Unione di insiemi",
+  "secondPhrase" : "Intersezione e Unione ",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1285-1335-1"
+}, {
+  "firstId" : 1285,
+  "secondId" : 1335,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari e la loro funzione",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1285-1335-2"
+}, {
+  "firstId" : 1285,
+  "secondId" : 1336,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi e dizionari",
+  "secondPhrase" : "Insiemi, dizionari",
+  "voto" : 6,
+  "annotatore" : "Corridori",
+  "id" : "1285-1336-0"
+}, {
+  "firstId" : 1285,
+  "secondId" : 1336,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Unione di insiemi",
+  "secondPhrase" : "/",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1285-1336-1"
+}, {
+  "firstId" : 1285,
+  "secondId" : 1336,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari e la loro funzione",
+  "secondPhrase" : "/",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1285-1336-2"
+}, {
+  "firstId" : 1285,
+  "secondId" : 1406,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi e dizionari",
+  "secondPhrase" : "Dizionari insiemi ",
+  "voto" : 6,
+  "annotatore" : "Corridori",
+  "id" : "1285-1406-0"
+}, {
+  "firstId" : 1285,
+  "secondId" : 1406,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Unione di insiemi",
+  "secondPhrase" : "Dizionari ",
+  "voto" : 2,
+  "annotatore" : "Corridori",
+  "id" : "1285-1406-1"
+}, {
+  "firstId" : 1285,
+  "secondId" : 1406,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "I dizionari e la loro funzione",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1285-1406-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1287,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1287-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1287,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Unione e intersezione",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1287-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1287,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1287-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1288,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Duplicare una lista",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1288-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1288,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "insiemi",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1288-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1288,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "niente",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1288-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1289,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi  e dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1289-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1289,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Operazioni tra piu insiemi",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1289-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1289,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "I dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1289-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1290,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Come duplicare le liste, Gli insiemi e le funzioni da utilizzare per operare con essi,il dizionario  ",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1290-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1290,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : " L'applicazione delle varie funzioni sugli insiemi ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1290-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1290,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Come costruire le funzioni  da usare sugli insiemi ",
+  "voto" : 6,
+  "annotatore" : "Corridori",
+  "id" : "1286-1290-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1291,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "concetto di insieme e dizionario ",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1291-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1291,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "insiemi ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1291-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1291,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "nessuna ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1291-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1292,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1292-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1292,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1292-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1292,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1292-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1294,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi; dizionari che sono insiemi di chiavi e valori",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1294-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1294,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "le applicazioni di unione intersezione e differenza sugli insiemi",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1294-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1294,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "come si genera una nuova posizione negli insiemi",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1294-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1295,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Duplicazione liste, Creazioni di insiemi e dizionari ",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1295-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1295,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1295-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1295,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1295-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1296,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi",
+  "voto" : 6,
+  "annotatore" : "Corridori",
+  "id" : "1286-1296-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1296,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Tutti",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1296-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1296,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Nessuno",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1296-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1297,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi, operazioni sugli insiemi  e duplicare una lista ",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1297-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1297,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Operazioni tra insiemi ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1297-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1297,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Nessuno",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1297-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1298,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Cosa sono gli insieme e i dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1298-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1298,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "I dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1298-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1298,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1298-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1299,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi e relative operazioni, dizionari. Esempi",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1299-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1299,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Esempi",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1299-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1299,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Operazione di intersezione",
+  "voto" : 5,
+  "annotatore" : "Corridori",
+  "id" : "1286-1299-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1300,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Slicing delle liste, insiemi e dizionario",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1300-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1300,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "L'applicazione del dizionario",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1300-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1300,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1300-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1301,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1301-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1301,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "La differenza tra lista e dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1301-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1301,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "La parte sul set",
+  "voto" : 2,
+  "annotatore" : "Corridori",
+  "id" : "1286-1301-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1302,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Duplicazione insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1302-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1302,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Insiemi",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1302-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1302,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Duplicazione",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1302-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1303,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Operazioni con le liste e insiemi",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1303-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1303,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Esercizi sugli insiemi",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1303-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1303,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Differenza tra insiemi ",
+  "voto" : 5,
+  "annotatore" : "Corridori",
+  "id" : "1286-1303-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1304,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi, dizionari ",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1304-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1304,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1304-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1304,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "L’esercizio def diff ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1304-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1305,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1305-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1305,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1305-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1305,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Alcuni comandi per gli Insiemi ",
+  "voto" : 5,
+  "annotatore" : "Corridori",
+  "id" : "1286-1305-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1306,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1306-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1306,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "i set",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1306-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1306,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "nessuna",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1306-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1307,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Dizionari ed Insiemi ",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1307-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1307,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Insiemi ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1307-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1307,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1307-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1308,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "dizionari e insiemi ",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1308-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1308,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "insiemi",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1308-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1308,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "nessuna",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1308-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1309,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "liste insiemi dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1309-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1309,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "l'utilizzo dei dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1309-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1309,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "la conversione da insieme a lista",
+  "voto" : 5,
+  "annotatore" : "Corridori",
+  "id" : "1286-1309-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1310,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi, liste, dizionario",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1310-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1310,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Insiemi",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1310-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1310,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1310-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1311,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Parentesi quadra: liste che sono ordinate;graffe: insieme non ordinati. Duplicare le varie liste. Come aggiungere numeri negli insiemi. Intersezione, differenza e dizionario.",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1311-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1311,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Insiemi",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1311-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1311,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Ultimo esempio non capisco perchè  dopo l'insieme se scrivo rubrica [\"dario\"] non ottengo il valore della graffa",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1311-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1312,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi",
+  "voto" : 6,
+  "annotatore" : "Corridori",
+  "id" : "1286-1312-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1312,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Utilizzo insiemi ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1312-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1312,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "-",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1312-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1313,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "ripasso sullo slicing, insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1313-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1313,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "i dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1313-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1313,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "nessuna",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1313-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1314,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi e dizionari ",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1314-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1314,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Duplicare le liste ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1314-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1314,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Dizionari ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1314-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1315,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi e dizionario",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1315-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1315,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Dizionario",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1315-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1315,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Niente",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1315-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1316,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insieme, dizionari, liste",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1316-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1316,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Tutte e tre ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1316-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1316,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Funzioni ",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1316-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1317,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi e Dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1317-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1317,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Utilizzo dei dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1317-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1317,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Nulla, credo",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1317-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1318,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Come duplicare le varie liste, gli insiemi e  il dizionario",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1318-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1318,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "I dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1318-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1318,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Come non far mutare una lista",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1318-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1319,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi e chiavi ",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1319-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1319,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Insiemi ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1319-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1319,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Funzionamento di una chiave (oltre il fatto che associa più elementi)",
+  "voto" : 2,
+  "annotatore" : "Corridori",
+  "id" : "1286-1319-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1320,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Dizionari insiemi ",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1320-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1320,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Dizionari ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1320-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1320,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1320-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1321,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1321-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1321,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "I dizionari e le chiavi",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1321-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1321,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "La soluzione migliore per la differenza tra insiemi",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1321-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1322,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Liste, insiemi, unione, intersezione, differenza e dizionari ",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1322-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1322,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "I dizionari e come funzionano ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1322-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1322,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "La differenza ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1322-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1323,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1323-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1323,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Insiemi e dizionari ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1323-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1323,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1323-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1324,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi, unire insiemi, duplicare liste",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1324-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1324,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Insiemi",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1324-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1324,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Operatore diff",
+  "voto" : 2,
+  "annotatore" : "Corridori",
+  "id" : "1286-1324-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1325,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi",
+  "voto" : 6,
+  "annotatore" : "Corridori",
+  "id" : "1286-1325-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1325,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1325-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1325,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1325-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1326,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1326-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1326,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1326-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1326,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Come modificare (aggiungere, togliere, o modificare) elementi di un dizionario",
+  "voto" : 5,
+  "annotatore" : "Corridori",
+  "id" : "1286-1326-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1327,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Spiegare insiemi e dizionari e capire come duplicare le liste",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1327-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1327,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "I dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1327-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1327,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Nulla",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1327-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1328,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Definizione insiemi e dizionario",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1328-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1328,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Dizionari, \"chiavi\" ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1328-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1328,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "L'esercizio sugli insieme per la funzione differenza",
+  "voto" : 6,
+  "annotatore" : "Corridori",
+  "id" : "1286-1328-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1329,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Introduzione duplicazione lista e insiemi",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1329-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1329,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Insiemi",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1329-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1329,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Differenza tra insiemi",
+  "voto" : 5,
+  "annotatore" : "Corridori",
+  "id" : "1286-1329-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1330,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1330-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1330,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Gli insieme, la loro unione e intersezione ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1330-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1330,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "I dizionari\n",
+  "voto" : 2,
+  "annotatore" : "Corridori",
+  "id" : "1286-1330-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1331,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "desrizione insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1331-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1331,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Come sfruttarli insieme alle funzioni ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1331-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1331,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Niente ",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1331-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1332,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Liste e insiemi, dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1332-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1332,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Creare differenti dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1332-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1332,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Definizione della funzione sottrazione",
+  "voto" : 5,
+  "annotatore" : "Corridori",
+  "id" : "1286-1332-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1333,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Gli insiemi",
+  "voto" : 6,
+  "annotatore" : "Corridori",
+  "id" : "1286-1333-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1333,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "Gli insiemi",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1333-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1333,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Niente",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1333-2"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1334,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Insiemi",
+  "secondPhrase" : "Gli insiemi e i dizionari",
+  "voto" : 4,
+  "annotatore" : "Corridori",
+  "id" : "1286-1334-0"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1334,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "nessuno",
+  "secondPhrase" : "I metodi degli insiemi e dei dizionari",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1334-1"
+}, {
+  "firstId" : 1286,
+  "secondId" : 1334,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "funzioni di insiemi\n",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "Corridori",
+  "id" : "1286-1334-2"
+} ]

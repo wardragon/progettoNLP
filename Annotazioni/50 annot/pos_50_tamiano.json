@@ -1,0 +1,2304 @@
+[
+  {
+    "id": 12,
+    "data": "3/4/2019",
+    "messaggio": "Introduzione",
+    "messaggioWords": [
+      "Introduzione"
+    ],
+    "messaggioTags": [
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": ".",
+    "argomentoWords": [
+      "."
+    ],
+    "argomentoTags": [
+      "PUNCT"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": ".",
+    "chiarimentiWords": [
+      "."
+    ],
+    "chiarimentiTags": [
+      "PUNCT"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 56,
+    "data": "3/4/2019",
+    "messaggio": "Governi o vieni governato",
+    "messaggioWords": [
+      "Governi",
+      "o",
+      "vieni",
+      "governato"
+    ],
+    "messaggioTags": [
+      "VERB",
+      "CCONJ",
+      "AUX",
+      "VERB"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Programmazione",
+    "argomentoWords": [
+      "Programmazione"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Essendo motivazionale credo nulla",
+    "chiarimentiWords": [
+      "Essendo",
+      "motivazionale",
+      "credo",
+      "nulla"
+    ],
+    "chiarimentiTags": [
+      "VERB",
+      "ADJ",
+      "VERB",
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 72,
+    "data": "3/4/2019",
+    "messaggio": "Introduzione",
+    "messaggioWords": [
+      "Introduzione"
+    ],
+    "messaggioTags": [
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "fascia d'etá",
+    "argomentoWords": [
+      "fascia",
+      "d",
+      "etá"
+    ],
+    "argomentoTags": [
+      "NOUN",
+      "ADP",
+      "ADJ"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "C++",
+    "chiarimentiWords": [
+      "C++"
+    ],
+    "chiarimentiTags": [
+      "PROPN"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 81,
+    "data": "3/4/2019",
+    "messaggio": "Introduzione al corso ",
+    "messaggioWords": [
+      "Introduzione",
+      "al",
+      "corso"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "La ricerca a gruppi",
+    "argomentoWords": [
+      "La",
+      "ricerca",
+      "a",
+      "gruppi"
+    ],
+    "argomentoTags": [
+      "DET",
+      "VERB",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuna",
+    "chiarimentiWords": [
+      "Nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 89,
+    "data": "3/4/2019",
+    "messaggio": "Introduzione e spiegazione del corso",
+    "messaggioWords": [
+      "Introduzione",
+      "e",
+      "spiegazione",
+      "del",
+      "corso"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "CCONJ",
+      "NOUN",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Come sono strutturati i 2 esami (in particolare quello del sito web)",
+    "argomentoWords": [
+      "Come",
+      "sono",
+      "strutturati",
+      "i",
+      "2",
+      "esami",
+      "(",
+      "in",
+      "particolare",
+      "quello",
+      "del",
+      "sito",
+      "web",
+      ")"
+    ],
+    "argomentoTags": [
+      "ADV",
+      "AUX",
+      "VERB",
+      "DET",
+      "NUM",
+      "NOUN",
+      "PUNCT",
+      "ADP",
+      "NOUN",
+      "PRON",
+      "ADP",
+      "NOUN",
+      "ADJ",
+      "PUNCT"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Tutto chiaro",
+    "chiarimentiWords": [
+      "Tutto",
+      "chiaro"
+    ],
+    "chiarimentiTags": [
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentChiarimenti": "Positivo",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 93,
+    "data": "3/4/2019",
+    "messaggio": "introduzione e dare un'ottica positiva del corso",
+    "messaggioWords": [
+      "introduzione",
+      "e",
+      "dare",
+      "un",
+      "ottica",
+      "positiva",
+      "del",
+      "corso"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "CCONJ",
+      "VERB",
+      "DET",
+      "NOUN",
+      "ADJ",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Nessun argomento è stato trattato in modo concreto",
+    "argomentoWords": [
+      "Nessun",
+      "argomento",
+      "è",
+      "stato",
+      "trattato",
+      "in",
+      "modo",
+      "concreto"
+    ],
+    "argomentoTags": [
+      "PRON",
+      "NOUN",
+      "AUX",
+      "AUX",
+      "VERB",
+      "ADP",
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentArgomento": "Negativo",
+    "chiarimenti": "Orari, esami, libri, informazioni generali ed orientamento",
+    "chiarimentiWords": [
+      "Orari",
+      ",",
+      "esami",
+      ",",
+      "libri",
+      ",",
+      "informazioni",
+      "generali",
+      "ed",
+      "orientamento"
+    ],
+    "chiarimentiTags": [
+      "NOUN",
+      "PUNCT",
+      "NOUN",
+      "PUNCT",
+      "NOUN",
+      "PUNCT",
+      "NOUN",
+      "ADJ",
+      "CCONJ",
+      "NOUN"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 94,
+    "data": "3/4/2019",
+    "messaggio": "Conoscenza e introduzione della materia",
+    "messaggioWords": [
+      "Conoscenza",
+      "e",
+      "introduzione",
+      "della",
+      "materia"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "CCONJ",
+      "NOUN",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "La programmazione ",
+    "argomentoWords": [
+      "La",
+      "programmazione"
+    ],
+    "argomentoTags": [
+      "DET",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Niente in particolare ",
+    "chiarimentiWords": [
+      "Niente",
+      "in",
+      "particolare"
+    ],
+    "chiarimentiTags": [
+      "PRON",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 136,
+    "data": "3/4/2019",
+    "messaggio": "Presentazione e avvicinamento all'informatica",
+    "messaggioWords": [
+      "Presentazione",
+      "e",
+      "avvicinamento",
+      "all",
+      "informatica"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "CCONJ",
+      "NOUN",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Approfondire il linguaggio Phyton",
+    "argomentoWords": [
+      "Approfondire",
+      "il",
+      "linguaggio",
+      "Phyton"
+    ],
+    "argomentoTags": [
+      "VERB",
+      "DET",
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuna",
+    "chiarimentiWords": [
+      "Nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 147,
+    "data": "3/4/2019",
+    "messaggio": "Introduzione al corso ",
+    "messaggioWords": [
+      "Introduzione",
+      "al",
+      "corso"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Programmazione ",
+    "argomentoWords": [
+      "Programmazione"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Come risolvere l'esercizio assegnato ",
+    "chiarimentiWords": [
+      "Come",
+      "risolvere",
+      "l",
+      "esercizio",
+      "assegnato"
+    ],
+    "chiarimentiTags": [
+      "ADV",
+      "VERB",
+      "DET",
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 173,
+    "data": "3/5/2019",
+    "messaggio": "Variabile ",
+    "messaggioWords": [
+      "Variabile"
+    ],
+    "messaggioTags": [
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Variabile ",
+    "argomentoWords": [
+      "Variabile"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Algoritmo ",
+    "chiarimentiWords": [
+      "Algoritmo"
+    ],
+    "chiarimentiTags": [
+      "NOUN"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 175,
+    "data": "3/5/2019",
+    "messaggio": "Definizione di variabile informatica e algoritmo ",
+    "messaggioWords": [
+      "Definizione",
+      "di",
+      "variabile",
+      "informatica",
+      "e",
+      "algoritmo"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "ADP",
+      "NOUN",
+      "ADJ",
+      "CCONJ",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Variabile informatica ",
+    "argomentoWords": [
+      "Variabile",
+      "informatica"
+    ],
+    "argomentoTags": [
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "È stato tutto chiaro ",
+    "chiarimentiWords": [
+      "È",
+      "stato",
+      "tutto",
+      "chiaro"
+    ],
+    "chiarimentiTags": [
+      "AUX",
+      "VERB",
+      "PRON",
+      "ADJ"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 182,
+    "data": "3/5/2019",
+    "messaggio": "Variabili e algoritmi",
+    "messaggioWords": [
+      "Variabili",
+      "e",
+      "algoritmi"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "CCONJ",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Algoritmi",
+    "argomentoWords": [
+      "Algoritmi"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Tutto abbastanza chiaro",
+    "chiarimentiWords": [
+      "Tutto",
+      "abbastanza",
+      "chiaro"
+    ],
+    "chiarimentiTags": [
+      "PRON",
+      "ADV",
+      "ADJ"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 217,
+    "data": "3/5/2019",
+    "messaggio": "Apprendere u concetti principali dell'informatica ",
+    "messaggioWords": [
+      "Apprendere",
+      "u",
+      "concetti",
+      "principali",
+      "dell",
+      "informatica"
+    ],
+    "messaggioTags": [
+      "VERB",
+      "ADP",
+      "NOUN",
+      "ADJ",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Algoritmi",
+    "argomentoWords": [
+      "Algoritmi"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nulla tutto chiaro ",
+    "chiarimentiWords": [
+      "Nulla",
+      "tutto",
+      "chiaro"
+    ],
+    "chiarimentiTags": [
+      "NOUN",
+      "PRON",
+      "ADJ"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 219,
+    "data": "3/5/2019",
+    "messaggio": "Algoritmo e variabili",
+    "messaggioWords": [
+      "Algoritmo",
+      "e",
+      "variabili"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "CCONJ",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Algoritmo",
+    "argomentoWords": [
+      "Algoritmo"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Variabili",
+    "chiarimentiWords": [
+      "Variabili"
+    ],
+    "chiarimentiTags": [
+      "NOUN"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 233,
+    "data": "3/5/2019",
+    "messaggio": "Comprendere cosa è una variabile informatica",
+    "messaggioWords": [
+      "Comprendere",
+      "cosa",
+      "è",
+      "una",
+      "variabile",
+      "informatica"
+    ],
+    "messaggioTags": [
+      "VERB",
+      "ADV",
+      "AUX",
+      "DET",
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Algoritmi",
+    "argomentoWords": [
+      "Algoritmi"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuna",
+    "chiarimentiWords": [
+      "Nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 236,
+    "data": "3/5/2019",
+    "messaggio": "Definizione",
+    "messaggioWords": [
+      "Definizione"
+    ],
+    "messaggioTags": [
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Algoritmo",
+    "argomentoWords": [
+      "Algoritmo"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuna",
+    "chiarimentiWords": [
+      "Nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 270,
+    "data": "3/5/2019",
+    "messaggio": "Gli algoritmi sono presenti ovunque ",
+    "messaggioWords": [
+      "Gli",
+      "algoritmi",
+      "sono",
+      "presenti",
+      "ovunque"
+    ],
+    "messaggioTags": [
+      "DET",
+      "NOUN",
+      "AUX",
+      "VERB",
+      "ADV"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Algoritmo ",
+    "argomentoWords": [
+      "Algoritmo"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuna",
+    "chiarimentiWords": [
+      "Nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 277,
+    "data": "3/5/2019",
+    "messaggio": "Algoritmi, già conosciuti e presenti nella vita senza sapere cosa fossero",
+    "messaggioWords": [
+      "Algoritmi",
+      ",",
+      "già",
+      "conosciuti",
+      "e",
+      "presenti",
+      "nella",
+      "vita",
+      "senza",
+      "sapere",
+      "cosa",
+      "fossero"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "PUNCT",
+      "ADV",
+      "VERB",
+      "CCONJ",
+      "VERB",
+      "ADP",
+      "NOUN",
+      "ADV",
+      "VERB",
+      "NOUN",
+      "VERB"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Algoritmi",
+    "argomentoWords": [
+      "Algoritmi"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Uguale e uguale uguale",
+    "chiarimentiWords": [
+      "Uguale",
+      "e",
+      "uguale",
+      "uguale"
+    ],
+    "chiarimentiTags": [
+      "NOUN",
+      "CCONJ",
+      "NOUN",
+      "NOUN"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 296,
+    "data": "3/5/2019",
+    "messaggio": "Variabili matematica Vs variabili informatiche (spazi di memoria)\nDefinizione di algoritmo ",
+    "messaggioWords": [
+      "Variabili",
+      "matematica",
+      "Vs",
+      "variabili",
+      "informatiche",
+      "(",
+      "spazi",
+      "di",
+      "memoria",
+      ")",
+      "Definizione",
+      "di",
+      "algoritmo"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "ADJ",
+      "SYM",
+      "NOUN",
+      "ADJ",
+      "PUNCT",
+      "NOUN",
+      "ADP",
+      "ADJ",
+      "PUNCT",
+      "NOUN",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Imparare a scrivere gli algoritmi",
+    "argomentoWords": [
+      "Imparare",
+      "a",
+      "scrivere",
+      "gli",
+      "algoritmi"
+    ],
+    "argomentoTags": [
+      "VERB",
+      "DET",
+      "VERB",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Non ce ne sono state",
+    "chiarimentiWords": [
+      "Non",
+      "ce",
+      "ne",
+      "sono",
+      "state"
+    ],
+    "chiarimentiTags": [
+      "ADV",
+      "AUX",
+      "AUX",
+      "AUX",
+      "VERB"
+    ],
+    "sentimentChiarimenti": "Negativo",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 301,
+    "data": "3/5/2019",
+    "messaggio": "Algoritmo e variabile informatica",
+    "messaggioWords": [
+      "Algoritmo",
+      "e",
+      "variabile",
+      "informatica"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "CCONJ",
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Variabile informatica",
+    "argomentoWords": [
+      "Variabile",
+      "informatica"
+    ],
+    "argomentoTags": [
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Algoritmo",
+    "chiarimentiWords": [
+      "Algoritmo"
+    ],
+    "chiarimentiTags": [
+      "NOUN"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 318,
+    "data": "3/4/2019",
+    "messaggio": "È importante studiare informatica",
+    "messaggioWords": [
+      "È",
+      "importante",
+      "studiare",
+      "informatica"
+    ],
+    "messaggioTags": [
+      "VERB",
+      "ADJ",
+      "VERB",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Scrittura di algoritmi",
+    "argomentoWords": [
+      "Scrittura",
+      "di",
+      "algoritmi"
+    ],
+    "argomentoTags": [
+      "VERB",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuna",
+    "chiarimentiWords": [
+      "Nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 416,
+    "data": "3/7/2019",
+    "messaggio": "Complessità degli algoritmi",
+    "messaggioWords": [
+      "Complessità",
+      "degli",
+      "algoritmi"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Algoritmi",
+    "argomentoWords": [
+      "Algoritmi"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuna",
+    "chiarimentiWords": [
+      "Nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 479,
+    "data": "3/11/2019",
+    "messaggio": "Numeri binari",
+    "messaggioWords": [
+      "Numeri",
+      "binari"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Somma di numeri binari ",
+    "argomentoWords": [
+      "Somma",
+      "di",
+      "numeri",
+      "binari"
+    ],
+    "argomentoTags": [
+      "NOUN",
+      "ADP",
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuna",
+    "chiarimentiWords": [
+      "Nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 483,
+    "data": "3/11/2019",
+    "messaggio": "Rappresentazione",
+    "messaggioWords": [
+      "Rappresentazione"
+    ],
+    "messaggioTags": [
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": ".",
+    "argomentoWords": [
+      "."
+    ],
+    "argomentoTags": [
+      "PUNCT"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": ".",
+    "chiarimentiWords": [
+      "."
+    ],
+    "chiarimentiTags": [
+      "PUNCT"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 515,
+    "data": "3/11/2019",
+    "messaggio": "La rappresentazione dell'informazione",
+    "messaggioWords": [
+      "La",
+      "rappresentazione",
+      "dell",
+      "informazione"
+    ],
+    "messaggioTags": [
+      "DET",
+      "NOUN",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "La ricchezza di simboli per esprimere un determinato concetto ",
+    "argomentoWords": [
+      "La",
+      "ricchezza",
+      "di",
+      "simboli",
+      "per",
+      "esprimere",
+      "un",
+      "determinato",
+      "concetto"
+    ],
+    "argomentoTags": [
+      "DET",
+      "ADJ",
+      "ADP",
+      "NOUN",
+      "ADV",
+      "VERB",
+      "DET",
+      "ADJ",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuna",
+    "chiarimentiWords": [
+      "Nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 582,
+    "data": "3/11/2019",
+    "messaggio": "La complessità di un algoritmo dipende anche dalla sua rappresentazione ",
+    "messaggioWords": [
+      "La",
+      "complessità",
+      "di",
+      "un",
+      "algoritmo",
+      "dipende",
+      "anche",
+      "dalla",
+      "sua",
+      "rappresentazione"
+    ],
+    "messaggioTags": [
+      "DET",
+      "ADJ",
+      "ADP",
+      "DET",
+      "NOUN",
+      "VERB",
+      "ADV",
+      "ADP",
+      "PRON",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "-",
+    "argomentoWords": [
+      "-"
+    ],
+    "argomentoTags": [
+      "PUNCT"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Tutto chiaro ",
+    "chiarimentiWords": [
+      "Tutto",
+      "chiaro"
+    ],
+    "chiarimentiTags": [
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentChiarimenti": "Positivo",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 597,
+    "data": "3/12/2019",
+    "messaggio": "Variabili in python",
+    "messaggioWords": [
+      "Variabili",
+      "in",
+      "python"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "ADP",
+      "ADJ"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Operazioni tra variabili",
+    "argomentoWords": [
+      "Operazioni",
+      "tra",
+      "variabili"
+    ],
+    "argomentoTags": [
+      "NOUN",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuno",
+    "chiarimentiWords": [
+      "Nessuno"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 730,
+    "data": "3/14/2019",
+    "messaggio": "Condizioni and or e not",
+    "messaggioWords": [
+      "Condizioni",
+      "and",
+      "or",
+      "e",
+      "not"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "SYM",
+      "SYM",
+      "CCONJ",
+      "SYM"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "And not or ",
+    "argomentoWords": [
+      "And",
+      "not",
+      "or"
+    ],
+    "argomentoTags": [
+      "SYM",
+      "SYM",
+      "SYM"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Diagramma di flusso ",
+    "chiarimentiWords": [
+      "Diagramma",
+      "di",
+      "flusso"
+    ],
+    "chiarimentiTags": [
+      "NOUN",
+      "ADP",
+      "ADJ"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 735,
+    "data": "3/14/2019",
+    "messaggio": "Il concetto di condizione e asserzione ",
+    "messaggioWords": [
+      "Il",
+      "concetto",
+      "di",
+      "condizione",
+      "e",
+      "asserzione"
+    ],
+    "messaggioTags": [
+      "DET",
+      "NOUN",
+      "ADP",
+      "NOUN",
+      "CCONJ",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Composizionalità ",
+    "argomentoWords": [
+      "Composizionalità"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Esempio successivo alla tabelle di verità del connettivo logico ",
+    "chiarimentiWords": [
+      "Esempio",
+      "successivo",
+      "alla",
+      "tabelle",
+      "di",
+      "verità",
+      "del",
+      "connettivo",
+      "logico"
+    ],
+    "chiarimentiTags": [
+      "NOUN",
+      "ADJ",
+      "DET",
+      "NOUN",
+      "ADP",
+      "ADJ",
+      "ADP",
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 748,
+    "data": "3/13/2019",
+    "messaggio": "Le condizioni di programmazione ",
+    "messaggioWords": [
+      "Le",
+      "condizioni",
+      "di",
+      "programmazione"
+    ],
+    "messaggioTags": [
+      "DET",
+      "NOUN",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "L'approssimazione dei numeri ",
+    "argomentoWords": [
+      "L",
+      "approssimazione",
+      "dei",
+      "numeri"
+    ],
+    "argomentoTags": [
+      "DET",
+      "NOUN",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuna ",
+    "chiarimentiWords": [
+      "Nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 772,
+    "data": "3/14/2019",
+    "messaggio": "Condizioni di esistenza e logica",
+    "messaggioWords": [
+      "Condizioni",
+      "di",
+      "esistenza",
+      "e",
+      "logica"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "ADP",
+      "NOUN",
+      "CCONJ",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Logica",
+    "argomentoWords": [
+      "Logica"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "A cosa serve rappresentare i numeri naturali in codice binario per la programmazione con Python?",
+    "chiarimentiWords": [
+      "A",
+      "cosa",
+      "serve",
+      "rappresentare",
+      "i",
+      "numeri",
+      "naturali",
+      "in",
+      "codice",
+      "binario",
+      "per",
+      "la",
+      "programmazione",
+      "con",
+      "Python",
+      "?"
+    ],
+    "chiarimentiTags": [
+      "DET",
+      "ADV",
+      "VERB",
+      "NOUN",
+      "DET",
+      "NOUN",
+      "ADJ",
+      "ADP",
+      "NOUN",
+      "ADJ",
+      "ADV",
+      "DET",
+      "NOUN",
+      "ADP",
+      "PROPN",
+      "PUNCT"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 774,
+    "data": "3/14/2019",
+    "messaggio": "Condizione ",
+    "messaggioWords": [
+      "Condizione"
+    ],
+    "messaggioTags": [
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Condizioni ",
+    "argomentoWords": [
+      "Condizioni"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuna",
+    "chiarimentiWords": [
+      "Nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 777,
+    "data": "3/14/2019",
+    "messaggio": "Capire il perché di alcuni funzionamenti del programma ",
+    "messaggioWords": [
+      "Capire",
+      "il",
+      "perché",
+      "di",
+      "alcuni",
+      "funzionamenti",
+      "del",
+      "programma"
+    ],
+    "messaggioTags": [
+      "VERB",
+      "DET",
+      "ADV",
+      "ADP",
+      "ADV",
+      "NOUN",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Sempre interessanti gli argomenti però trovo difficoltà ad arrivarci perché non abituato a questa materia ",
+    "argomentoWords": [
+      "Sempre",
+      "interessanti",
+      "gli",
+      "argomenti",
+      "però",
+      "trovo",
+      "difficoltà",
+      "ad",
+      "arrivarci",
+      "perché",
+      "non",
+      "abituato",
+      "a",
+      "questa",
+      "materia"
+    ],
+    "argomentoTags": [
+      "ADV",
+      "ADJ",
+      "DET",
+      "NOUN",
+      "ADV",
+      "VERB",
+      "ADJ",
+      "ADP",
+      "VERB",
+      "ADV",
+      "ADV",
+      "VERB",
+      "DET",
+      "PRON",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Positivo",
+    "chiarimenti": "La parte dell' AND, OR, NO ",
+    "chiarimentiWords": [
+      "La",
+      "parte",
+      "dell",
+      "AND",
+      ",",
+      "OR",
+      ",",
+      "NO"
+    ],
+    "chiarimentiTags": [
+      "DET",
+      "NOUN",
+      "DET",
+      "SYM",
+      "PUNCT",
+      "SYM",
+      "PUNCT",
+      "SYM"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 789,
+    "data": "3/11/2019",
+    "messaggio": "significato di complessità di un algoritmo",
+    "messaggioWords": [
+      "significato",
+      "di",
+      "complessità",
+      "di",
+      "un",
+      "algoritmo"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "ADP",
+      "NOUN",
+      "ADP",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "algoritmi",
+    "argomentoWords": [
+      "algoritmi"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "nessuna\n",
+    "chiarimentiWords": [
+      "nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 810,
+    "data": "3/18/2019",
+    "messaggio": "Condizioni e Decisioni,\nCicli\nFunzioni",
+    "messaggioWords": [
+      "Condizioni",
+      "e",
+      "Decisioni",
+      ",",
+      "Cicli",
+      "Funzioni"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "CCONJ",
+      "NOUN",
+      "PUNCT",
+      "NOUN",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Le decisioni",
+    "argomentoWords": [
+      "Le",
+      "decisioni"
+    ],
+    "argomentoTags": [
+      "DET",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuna",
+    "chiarimentiWords": [
+      "Nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 823,
+    "data": "3/18/2019",
+    "messaggio": "Ciclo ",
+    "messaggioWords": [
+      "Ciclo"
+    ],
+    "messaggioTags": [
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Ciclo ",
+    "argomentoWords": [
+      "Ciclo"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Esercizi ",
+    "chiarimentiWords": [
+      "Esercizi"
+    ],
+    "chiarimentiTags": [
+      "NOUN"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 839,
+    "data": "3/18/2019",
+    "messaggio": "Attenzione ai dettagli",
+    "messaggioWords": [
+      "Attenzione",
+      "ai",
+      "dettagli"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Programmazione",
+    "argomentoWords": [
+      "Programmazione"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Niente ",
+    "chiarimentiWords": [
+      "Niente"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 883,
+    "data": "3/18/2019",
+    "messaggio": "Primi esercizi",
+    "messaggioWords": [
+      "Primi",
+      "esercizi"
+    ],
+    "messaggioTags": [
+      "ADJ",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Evitare gli errori comuni ",
+    "argomentoWords": [
+      "Evitare",
+      "gli",
+      "errori",
+      "comuni"
+    ],
+    "argomentoTags": [
+      "VERB",
+      "DET",
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Soluzioni degli esercizi ",
+    "chiarimentiWords": [
+      "Soluzioni",
+      "degli",
+      "esercizi"
+    ],
+    "chiarimentiTags": [
+      "NOUN",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 945,
+    "data": "3/21/2019",
+    "messaggio": "Modus ponens, algoritmo vitale, bit e byte",
+    "messaggioWords": [
+      "Modus",
+      "ponens",
+      ",",
+      "algoritmo",
+      "vitale",
+      ",",
+      "bit",
+      "e",
+      "byte"
+    ],
+    "messaggioTags": [
+      "SYM",
+      "SYM",
+      "PUNCT",
+      "NOUN",
+      "ADJ",
+      "PUNCT",
+      "PROPN",
+      "CCONJ",
+      "PROPN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Calcolo in bit",
+    "argomentoWords": [
+      "Calcolo",
+      "in",
+      "bit"
+    ],
+    "argomentoTags": [
+      "NOUN",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Algoritmo vitale",
+    "chiarimentiWords": [
+      "Algoritmo",
+      "vitale"
+    ],
+    "chiarimentiTags": [
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 948,
+    "data": "3/21/2019",
+    "messaggio": "Regole di inferenza e veridicità ed architettura di un elaboratore ",
+    "messaggioWords": [
+      "Regole",
+      "di",
+      "inferenza",
+      "e",
+      "veridicità",
+      "ed",
+      "architettura",
+      "di",
+      "un",
+      "elaboratore"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "ADP",
+      "ADJ",
+      "CCONJ",
+      "NOUN",
+      "CCONJ",
+      "NOUN",
+      "ADP",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Modus ponents ",
+    "argomentoWords": [
+      "Modus",
+      "ponents"
+    ],
+    "argomentoTags": [
+      "SYM",
+      "SYM"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuna ",
+    "chiarimentiWords": [
+      "Nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 974,
+    "data": "3/21/2019",
+    "messaggio": "Chiarimento and / or , architettura di un elaboratore , organizzazione della memoria , operazioni della memoria,cpu,algoritmo vitale  ",
+    "messaggioWords": [
+      "Chiarimento",
+      "and",
+      "/",
+      "or",
+      ",",
+      "architettura",
+      "di",
+      "un",
+      "elaboratore",
+      ",",
+      "organizzazione",
+      "della",
+      "memoria",
+      ",",
+      "operazioni",
+      "della",
+      "memoria",
+      ",",
+      "cpu",
+      ",",
+      "algoritmo",
+      "vitale"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "SYM",
+      "SYM",
+      "SYM",
+      "PUNCT",
+      "NOUN",
+      "ADP",
+      "DET",
+      "NOUN",
+      "PUNCT",
+      "NOUN",
+      "ADP",
+      "NOUN",
+      "PUNCT",
+      "NOUN",
+      "ADP",
+      "NOUN",
+      "PUNCT",
+      "NOUN",
+      "PUNCT",
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Nessuno ",
+    "argomentoWords": [
+      "Nessuno"
+    ],
+    "argomentoTags": [
+      "PRON"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Nessuno ",
+    "chiarimentiWords": [
+      "Nessuno"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 991,
+    "data": "3/25/2019",
+    "messaggio": "I cicli in particolare il ciclo for",
+    "messaggioWords": [
+      "I",
+      "cicli",
+      "in",
+      "particolare",
+      "il",
+      "ciclo",
+      "for"
+    ],
+    "messaggioTags": [
+      "DET",
+      "NOUN",
+      "ADP",
+      "ADV",
+      "DET",
+      "NOUN",
+      "PROPN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "For in range e i suoi utilizzi ",
+    "argomentoWords": [
+      "For",
+      "in",
+      "range",
+      "e",
+      "i",
+      "suoi",
+      "utilizzi"
+    ],
+    "argomentoTags": [
+      "SYM",
+      "SYM",
+      "SYM",
+      "CCONJ",
+      "DET",
+      "PRON",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Come creare un ciclo (esercizio)",
+    "chiarimentiWords": [
+      "Come",
+      "creare",
+      "un",
+      "ciclo",
+      "(",
+      "esercizio",
+      ")"
+    ],
+    "chiarimentiTags": [
+      "ADV",
+      "VERB",
+      "DET",
+      "NOUN",
+      "PUNCT",
+      "NOUN",
+      "PUNCT"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 1001,
+    "data": "3/25/2019",
+    "messaggio": "cicli FOR",
+    "messaggioWords": [
+      "cicli",
+      "FOR"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "SYM"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "tutto",
+    "argomentoWords": [
+      "tutto"
+    ],
+    "argomentoTags": [
+      "PRON"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "niente",
+    "chiarimentiWords": [
+      "niente"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 1006,
+    "data": "3/25/2019",
+    "messaggio": "Ciclo For",
+    "messaggioWords": [
+      "Ciclo",
+      "For"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "SYM"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Ciclo For",
+    "argomentoWords": [
+      "Ciclo",
+      "For"
+    ],
+    "argomentoTags": [
+      "NOUN",
+      "SYM"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Esercizi finali",
+    "chiarimentiWords": [
+      "Esercizi",
+      "finali"
+    ],
+    "chiarimentiTags": [
+      "NOUN",
+      "ADJ"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 1015,
+    "data": "3/25/2019",
+    "messaggio": "Costrutto for e esercizi ",
+    "messaggioWords": [
+      "Costrutto",
+      "for",
+      "e",
+      "esercizi"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "SYM",
+      "CCONJ",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Non è stato molto coinvolgente",
+    "argomentoWords": [
+      "Non",
+      "è",
+      "stato",
+      "molto",
+      "coinvolgente"
+    ],
+    "argomentoTags": [
+      "ADV",
+      "AUX",
+      "VERB",
+      "ADJ",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "In generale un po' di cose non mi sono state chiare, ma per il chiasso generale degli studenti ",
+    "chiarimentiWords": [
+      "In",
+      "generale",
+      "un",
+      "po",
+      "di",
+      "cose",
+      "non",
+      "mi",
+      "sono",
+      "state",
+      "chiare",
+      ",",
+      "ma",
+      "per",
+      "il",
+      "chiasso",
+      "generale",
+      "degli",
+      "studenti"
+    ],
+    "chiarimentiTags": [
+      "ADP",
+      "NOUN",
+      "DET",
+      "ADV",
+      "ADP",
+      "NOUN",
+      "ADV",
+      "PRON",
+      "AUX",
+      "AUX",
+      "ADJ",
+      "PUNCT",
+      "NOUN",
+      "ADV",
+      "DET",
+      "NOUN",
+      "ADJ",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentChiarimenti": "Negativo",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 1041,
+    "data": "3/25/2019",
+    "messaggio": "Ciclo FOR",
+    "messaggioWords": [
+      "Ciclo",
+      "FOR"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "SYM"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Strutture policicliche e forma per andare a capo",
+    "argomentoWords": [
+      "Strutture",
+      "policicliche",
+      "e",
+      "forma",
+      "per",
+      "andare",
+      "a",
+      "capo"
+    ],
+    "argomentoTags": [
+      "NOUN",
+      "ADJ",
+      "CCONJ",
+      "NOUN",
+      "ADV",
+      "VERB",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Metodo preciso per svolgere gli esercizi ",
+    "chiarimentiWords": [
+      "Metodo",
+      "preciso",
+      "per",
+      "svolgere",
+      "gli",
+      "esercizi"
+    ],
+    "chiarimentiTags": [
+      "NOUN",
+      "ADJ",
+      "ADV",
+      "VERB",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 1044,
+    "data": "3/25/2019",
+    "messaggio": "Spiegazione ciclo for",
+    "messaggioWords": [
+      "Spiegazione",
+      "ciclo",
+      "for"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "NOUN",
+      "SYM"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Come usare il ciclo for in un codice",
+    "argomentoWords": [
+      "Come",
+      "usare",
+      "il",
+      "ciclo",
+      "for",
+      "in",
+      "un",
+      "codice"
+    ],
+    "argomentoTags": [
+      "ADV",
+      "VERB",
+      "DET",
+      "NOUN",
+      "SYM",
+      "ADP",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Non mi è chiaro la funzione range",
+    "chiarimentiWords": [
+      "Non",
+      "mi",
+      "è",
+      "chiaro",
+      "la",
+      "funzione",
+      "range"
+    ],
+    "chiarimentiTags": [
+      "ADV",
+      "PRON",
+      "AUX",
+      "VERB",
+      "DET",
+      "NOUN",
+      "PROPN"
+    ],
+    "sentimentChiarimenti": "Negativo",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 1092,
+    "data": "3/26/2019",
+    "messaggio": "Funzioni",
+    "messaggioWords": [
+      "Funzioni"
+    ],
+    "messaggioTags": [
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Funzioni",
+    "argomentoWords": [
+      "Funzioni"
+    ],
+    "argomentoTags": [
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "Ultimo esercizio e problema delle variabili ",
+    "chiarimentiWords": [
+      "Ultimo",
+      "esercizio",
+      "e",
+      "problema",
+      "delle",
+      "variabili"
+    ],
+    "chiarimentiTags": [
+      "ADJ",
+      "NOUN",
+      "CCONJ",
+      "NOUN",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 1104,
+    "data": "3/26/2019",
+    "messaggio": "Le funzioni ",
+    "messaggioWords": [
+      "Le",
+      "funzioni"
+    ],
+    "messaggioTags": [
+      "DET",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "i commenti ad una funzione",
+    "argomentoWords": [
+      "i",
+      "commenti",
+      "ad",
+      "una",
+      "funzione"
+    ],
+    "argomentoTags": [
+      "DET",
+      "NOUN",
+      "ADP",
+      "DET",
+      "NOUN"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "la funzione main e gli esempi di funzioni",
+    "chiarimentiWords": [
+      "la",
+      "funzione",
+      "main",
+      "e",
+      "gli",
+      "esempi",
+      "di",
+      "funzioni"
+    ],
+    "chiarimentiTags": [
+      "DET",
+      "NOUN",
+      "ADJ",
+      "CCONJ",
+      "DET",
+      "NOUN",
+      "ADP",
+      "NOUN"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  },
+  {
+    "id": 1149,
+    "data": "3/28/2019",
+    "messaggio": "ripasso teoria e svolgimento di alcuni esercizi ",
+    "messaggioWords": [
+      "ripasso",
+      "teoria",
+      "e",
+      "svolgimento",
+      "di",
+      "alcuni",
+      "esercizi"
+    ],
+    "messaggioTags": [
+      "NOUN",
+      "NOUN",
+      "CCONJ",
+      "VERB",
+      "ADP",
+      "PRON",
+      "NOUN"
+    ],
+    "sentimentMessaggio": "Neutro",
+    "argomento": "Oggi sono molto soddisfatto in quanto sono riuscito a scrivere i primi programmi da solo",
+    "argomentoWords": [
+      "Oggi",
+      "sono",
+      "molto",
+      "soddisfatto",
+      "in",
+      "quanto",
+      "sono",
+      "riuscito",
+      "a",
+      "scrivere",
+      "i",
+      "primi",
+      "programmi",
+      "da",
+      "solo"
+    ],
+    "argomentoTags": [
+      "ADV",
+      "AUX",
+      "ADJ",
+      "VERB",
+      "ADP",
+      "ADV",
+      "AUX",
+      "VERB",
+      "AUX",
+      "VERB",
+      "DET",
+      "ADJ",
+      "NOUN",
+      "ADP",
+      "PRON"
+    ],
+    "sentimentArgomento": "Neutro",
+    "chiarimenti": "nessuna ",
+    "chiarimentiWords": [
+      "nessuna"
+    ],
+    "chiarimentiTags": [
+      "PRON"
+    ],
+    "sentimentChiarimenti": "Neutro",
+    "annotatore": "tamiano"
+  }
+]
