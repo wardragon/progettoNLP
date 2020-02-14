@@ -39,7 +39,7 @@ def update_json(data, filename):
         # file does not exist
         with open(filename, "a+", encoding="latin_1") as output_file:
             output_file.write("[")
-            json.dump(data, output_file, ensure_ascii=False)
+            json.dump(data, output_file, ensure_ascii=False, indent=1)
             output_file.write("]")
     else:
         # file already exists
@@ -62,7 +62,7 @@ def update_json(data, filename):
             f.write(bytes_to_write)
             
         with open(filename, "a+", encoding="latin_1") as output_file:
-            json.dump(data, output_file, ensure_ascii=False)
+            json.dump(data, output_file, ensure_ascii=False, indent=1)
             output_file.write("]")
 
 class SyntacticRecord:
@@ -239,6 +239,7 @@ class PosTaggingPrompt(Cmd):
 
     # TODO: Used to annotate POS tagging and sentiment analysis for a
     # given number of uniformly randomly choosen phrase.
+    '''
     def do_rand_id(self, inp):
         inp = re.sub(' +', ' ', inp).strip()
 
@@ -252,6 +253,7 @@ class PosTaggingPrompt(Cmd):
                 # arg validation finished
                 # TODO: generate rand numbers and do the annoations.
                 pass
+    '''
 
     def do_file(self, inp):
         filename = inp
@@ -392,8 +394,8 @@ class SemanticTaggingPrompt(Cmd):
 
     # TODO: Used to annotate similarity for a given number of
     # uniformly randomly choosen phrase.
-    def do_rand_id(self, inp):
-        pass
+    # def do_rand_id(self, inp):
+    # pass
 
     def do_file(self, inp):
         filename = inp
@@ -440,7 +442,8 @@ class BasicPrompt(Cmd):
     def do_auth(self, inp):
         global ANNOTATOR_NAME
         
-        ANNOTATOR_NAME = inp.split(" ")[0]
+        #ANNOTATOR_NAME = inp.split(" ")[0]
+        ANNOTATOR_NAME = inp
         if len(ANNOTATOR_NAME) > 0:
             print(f"Welcome: {ANNOTATOR_NAME}!")
         else:

@@ -37,7 +37,7 @@ public class JsonUtil {
 		
 		try {
 			is = new FileInputStream(fileName); 
-			buf = new BufferedReader(new InputStreamReader(is)); 
+			buf = new BufferedReader(new InputStreamReader(is,"windows-1252")); 
 			
 			String line = buf.readLine(); 
 			while(line != null)
@@ -74,7 +74,7 @@ public class JsonUtil {
 		try {
 
 			FileInputStream is = new FileInputStream(filePath);
-			BufferedReader buf = new BufferedReader(new InputStreamReader(is,"ISO-8859-1"));
+			BufferedReader buf = new BufferedReader(new InputStreamReader(is,"windows-1252"));
 			String line = buf.readLine(); 
 			StringBuilder sb = new StringBuilder(); 
 			while(line != null)
@@ -151,7 +151,7 @@ public class JsonUtil {
 			String updatedString = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(listOfRiga);
 
 			out = new BufferedWriter(new OutputStreamWriter(
-				    new FileOutputStream(filePath), "ISO-8859-1"));
+				    new FileOutputStream(filePath),"windows-1252"));
 				
 				    out.write(updatedString);
 				
@@ -174,7 +174,7 @@ public class JsonUtil {
 		try {
 
 			InputStream is = new FileInputStream("semantics.json"); 
-			BufferedReader buf = new BufferedReader(new InputStreamReader(is)); 
+			BufferedReader buf = new BufferedReader(new InputStreamReader(is,"windows-1252")); 
 			String line = buf.readLine(); 
 			StringBuilder sb = new StringBuilder(); 
 			while(line != null)

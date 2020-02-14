@@ -1,550 +1,1351 @@
-[ {
-  "firstId" : 1353,
-  "secondId" : 1352,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "Nessuna ",
-  "secondPhrase" : "Scrambled Code si serve ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1353-1352-2"
-}, {
-  "firstId" : 1352,
-  "secondId" : 1353,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Esercizio con i dizionari",
-  "secondPhrase" : "Lo ?Scrambled code? Ã¨ utile ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1352-1353-0"
-}, {
-  "firstId" : 34,
-  "secondId" : 33,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Conoscenza ",
-  "secondPhrase" : "Presentazione del corso ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "34-33-0"
-}, {
-  "firstId" : 33,
-  "secondId" : 34,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Programmazione C++",
-  "secondPhrase" : "Su cosa si basa la programmazione",
-  "voto" : 2,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "33-34-1"
-}, {
-  "firstId" : 33,
-  "secondId" : 34,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "Nessuna ",
-  "secondPhrase" : "Nessuna",
-  "voto" : 6,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "33-34-2"
-}, {
-  "firstId" : 1353,
-  "secondId" : 1352,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Lo ?Scrambled code? Ã¨ utile ",
-  "secondPhrase" : "Esercizio con i dizionari",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1353-1352-0"
-}, {
-  "firstId" : 1352,
-  "secondId" : 1353,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Le duble",
-  "secondPhrase" : "Gli esercizi ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1352-1353-1"
-}, {
-  "firstId" : 1392,
-  "secondId" : 1391,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Esercizio con dizionario",
-  "secondPhrase" : "Scrittura di un algoritmo partendo da un codice parzialmente giÃ¡ scritto",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1392-1391-0"
-}, {
-  "firstId" : 1391,
-  "secondId" : 1392,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Algoritmi con liste e dizionari",
-  "secondPhrase" : "Per me Ã¨ molto utile lo scrambled code.",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1391-1392-1"
-}, {
-  "firstId" : 1391,
-  "secondId" : 1392,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "Nessuno",
-  "secondPhrase" : "Nessuna",
-  "voto" : 6,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1391-1392-2"
-}, {
-  "firstId" : 885,
-  "secondId" : 884,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "cicli con while",
-  "secondPhrase" : "Ciclo ",
-  "voto" : 3,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "885-884-0"
-}, {
-  "firstId" : 884,
-  "secondId" : 885,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Ciclo",
-  "secondPhrase" : "i cicli con while e tutte le funzioni studiate",
-  "voto" : 3,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "884-885-1"
-}, {
-  "firstId" : 885,
-  "secondId" : 884,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "tutto sufficientemente chiaro",
-  "secondPhrase" : "Nessuna ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "885-884-2"
-}, {
-  "firstId" : 611,
-  "secondId" : 610,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Sintassi e semantica in Python",
-  "secondPhrase" : "Tipi di variabili nel linguaggio Python",
-  "voto" : 2,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "611-610-0"
-}, {
-  "firstId" : 610,
-  "secondId" : 611,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Operazioni  tra variabili ",
-  "secondPhrase" : "Float, numeri interi e stringhe ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "610-611-1"
-}, {
-  "firstId" : 610,
-  "secondId" : 611,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "Nessuna ",
-  "secondPhrase" : "Nessuna ",
-  "voto" : 6,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "610-611-2"
-}, {
-  "firstId" : 838,
-  "secondId" : 837,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "cicli",
-  "secondPhrase" : "Ciclo While, esercizi ed errori",
-  "voto" : 2,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "838-837-0"
-}, {
-  "firstId" : 838,
-  "secondId" : 837,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "i cicli",
-  "secondPhrase" : "Esercizi",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "838-837-1"
-}, {
-  "firstId" : 837,
-  "secondId" : 838,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "Esercizi",
-  "secondPhrase" : "l'ultimo esercizio",
-  "voto" : 2,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "837-838-2"
-}, {
-  "firstId" : 1295,
-  "secondId" : 1294,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Duplicazione liste, Creazioni di insiemi e dizionari ",
-  "secondPhrase" : "Insiemi; dizionari che sono insiemi di chiavi e valori",
-  "voto" : 3,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1295-1294-0"
-}, {
-  "firstId" : 1295,
-  "secondId" : 1294,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Dizionari",
-  "secondPhrase" : "le applicazioni di unione intersezione e differenza sugli insiemi",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1295-1294-1"
-}, {
-  "firstId" : 1295,
-  "secondId" : 1294,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "Nessuna",
-  "secondPhrase" : "come si genera una nuova posizione negli insiemi",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1295-1294-2"
-}, {
-  "firstId" : 1386,
-  "secondId" : 1387,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "eserzizio con uno dizionario",
-  "secondPhrase" : "Tuple, esercizi",
-  "voto" : 2,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1386-1387-0"
-}, {
-  "firstId" : 1386,
-  "secondId" : 1387,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Ho trovato postivo il metodo dello scrambled code poichÃ¨ la mia grande difficoltÃ  Ã¨ capire cosa fare quando mi trovo davanti il testo dell'esercizio e la maggior parte delle volte sbaglio la risoluzione",
-  "secondPhrase" : "Tuple",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1386-1387-1"
-}, {
-  "firstId" : 1387,
-  "secondId" : 1386,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "Le tuple cosa sono di preciso e come si possono usare",
-  "secondPhrase" : "lezione un pÃ² pesante",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1387-1386-2"
-}, {
-  "firstId" : 653,
-  "secondId" : 652,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Come usare una variabile ",
-  "secondPhrase" : "Variabili, errori e convenzioni nel linguaggio di Python con definizione di stringa",
-  "voto" : 2,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "653-652-0"
-}, {
-  "firstId" : 653,
-  "secondId" : 652,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Le stringhe ",
-  "secondPhrase" : "come scrivere un codice",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "653-652-1"
-}, {
-  "firstId" : 652,
-  "secondId" : 653,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "la forma in cui sono trascritti gli input negli spazi di memoria",
-  "secondPhrase" : "Nessuna ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "652-653-2"
-}, {
-  "firstId" : 400,
-  "secondId" : 399,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Algoritmo",
-  "secondPhrase" : "complessitÃ  degli algoritimi ",
-  "voto" : 3,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "400-399-0"
-}, {
-  "firstId" : 400,
-  "secondId" : 399,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Somma",
-  "secondPhrase" : "i diversi tipi di algoritmi ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "400-399-1"
-}, {
-  "firstId" : 400,
-  "secondId" : 399,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "Trovare la complessitÃ ",
-  "secondPhrase" : "quale tra metodo del pallottoliere e normale sia piÃ¹ complesso",
-  "voto" : 3,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "400-399-2"
-}, {
-  "firstId" : 603,
-  "secondId" : 602,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Imparare alcuni comandi e linguaggi di phyton",
-  "secondPhrase" : "Variabili in python",
-  "voto" : 2,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "603-602-0"
-}, {
-  "firstId" : 602,
-  "secondId" : 603,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Stringhe",
-  "secondPhrase" : "Imparare le operazioni tra interi e reali",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "602-603-1"
-}, {
-  "firstId" : 602,
-  "secondId" : 603,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "Nessuna",
-  "secondPhrase" : "Tutto abbastanza chiaro",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "602-603-2"
-}, {
-  "firstId" : 629,
-  "secondId" : 630,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Tipo di Variabili reali float stringhe e usarle",
-  "secondPhrase" : "Iniziare a usare python",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "629-630-0"
-}, {
-  "firstId" : 629,
-  "secondId" : 630,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "I vari tipi di variabili ",
-  "secondPhrase" : "Variabili in python",
-  "voto" : 3,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "629-630-1"
-}, {
-  "firstId" : 630,
-  "secondId" : 629,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "/",
-  "secondPhrase" : "Come si rappresentano i reali ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "630-629-2"
-}, {
-  "firstId" : 556,
-  "secondId" : 555,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "La rappresentazione ",
-  "secondPhrase" : "Rappresentazione",
-  "voto" : 5,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "556-555-0"
-}, {
-  "firstId" : 555,
-  "secondId" : 556,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Sistema binario",
-  "secondPhrase" : "La somma dei numeri binari",
-  "voto" : 3,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "555-556-1"
-}, {
-  "firstId" : 555,
-  "secondId" : 556,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "Somma del sistema binario",
-  "secondPhrase" : "La somma in colonna",
-  "voto" : 3,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "555-556-2"
-}, {
-  "firstId" : 153,
-  "secondId" : 154,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Informazioni sul corso di informatica ",
-  "secondPhrase" : "Bisogna imparare ad utilizzare bene Internet e i dispositivi tecnologici",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "153-154-0"
-}, {
-  "firstId" : 153,
-  "secondId" : 154,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Programmazione di siti",
-  "secondPhrase" : "Programmazione",
-  "voto" : 3,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "153-154-1"
-}, {
-  "firstId" : 153,
-  "secondId" : 154,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "La spiegazione iniziale Ã¨ stata un po' confusionaria",
-  "secondPhrase" : "Nessuna",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "153-154-2"
-}, {
-  "firstId" : 295,
-  "secondId" : 296,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "istruzioni",
-  "secondPhrase" : "Variabili matematica Vs variabili informatiche (spazi di memoria)\nDefinizione di algoritmo ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "295-296-0"
-}, {
-  "firstId" : 296,
-  "secondId" : 295,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Imparare a scrivere gli algoritmi",
-  "secondPhrase" : "algoritmi",
-  "voto" : 3,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "296-295-1"
-}, {
-  "firstId" : 295,
-  "secondId" : 296,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "nessuna",
-  "secondPhrase" : "Non ce ne sono state",
-  "voto" : 2,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "295-296-2"
-}, {
-  "firstId" : 1110,
-  "secondId" : 1109,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Concetto di funzioni",
-  "secondPhrase" : "definire le funzioni ",
-  "voto" : 3,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1110-1109-0"
-}, {
-  "firstId" : 1110,
-  "secondId" : 1109,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Come definire una nuova funzione ",
-  "secondPhrase" : "gli esempi oggi sono stati piÃ¹ chiari ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1110-1109-1"
-}, {
-  "firstId" : 1110,
-  "secondId" : 1109,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "Esercizio finale ",
-  "secondPhrase" : "Quando una variabile puÃ² assumere lo stesso nome di una funzione che abbiamo definito ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1110-1109-2"
-}, {
-  "firstId" : 239,
-  "secondId" : 240,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "L?algoritmo Ã¨ una sequenza ordintata di operazioni",
-  "secondPhrase" : "X in informatica non Ã¨ incognita, ma memoria ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "239-240-0"
-}, {
-  "firstId" : 240,
-  "secondId" : 239,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Algoritmi",
-  "secondPhrase" : "L?algoritmo, come possiamo crearne uno",
-  "voto" : 3,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "240-239-1"
-}, {
-  "firstId" : 239,
-  "secondId" : 240,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "Nessuna",
-  "secondPhrase" : "Niente",
-  "voto" : 3,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "239-240-2"
-}, {
-  "firstId" : 479,
-  "secondId" : 478,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Numeri binari",
-  "secondPhrase" : "Si",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "479-478-0"
-}, {
-  "firstId" : 478,
-  "secondId" : 479,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "No, tutto ok",
-  "secondPhrase" : "Somma di numeri binari ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "478-479-1"
-}, {
-  "firstId" : 479,
-  "secondId" : 478,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "Nessuna",
-  "secondPhrase" : "Wow finalmente una lezione in cui mi Ã¨ tutto chiaro, gg",
-  "voto" : 2,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "479-478-2"
-}, {
-  "firstId" : 943,
-  "secondId" : 944,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Logica, dimostrazioni, CPU",
-  "secondPhrase" : "logica e dimostrazioni\n",
-  "voto" : 4,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "943-944-0"
-}, {
-  "firstId" : 943,
-  "secondId" : 944,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Logica",
-  "secondPhrase" : "logica",
-  "voto" : 6,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "943-944-1"
-}, {
-  "firstId" : 944,
-  "secondId" : 943,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "bit \n",
-  "secondPhrase" : "Nessuna",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "944-943-2"
-}, {
-  "firstId" : 1279,
-  "secondId" : 1280,
-  "column" : "Messaggio docente",
-  "firstPhrase" : "Conoscere e comprendere la costruzione ed il funzionamento del calcolatore e dei suoi componenti",
-  "secondPhrase" : "Sistema operativo ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1279-1280-0"
-}, {
-  "firstId" : 1279,
-  "secondId" : 1280,
-  "column" : "Argomento piï¿½ interessante",
-  "firstPhrase" : "Funzionamente della CPU e gestione della memoria",
-  "secondPhrase" : "Capire come funziona la macchina ",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1279-1280-1"
-}, {
-  "firstId" : 1280,
-  "secondId" : 1279,
-  "column" : "Argomento meno chiaro",
-  "firstPhrase" : "Come funziona la macchina ",
-  "secondPhrase" : "Nessuna",
-  "voto" : 1,
-  "annotatore" : "Paolo Cerrito",
-  "id" : "1280-1279-2"
-} ]
+[{
+ "firstId": 1287,
+ "secondId": 1336,
+ "column": "Messaggio docente",
+ "firstPhrase": "Insiemi e dizionari",
+ "secondPhrase": "Insiemi, dizionari",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1287-1336-0"
+},{
+ "firstId": 1287,
+ "secondId": 1336,
+ "column": "Argomento più interessante",
+ "firstPhrase": "Unione e intersezione",
+ "secondPhrase": "/",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1287-1336-1"
+},{
+ "firstId": 1287,
+ "secondId": 1336,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "Nessuna",
+ "secondPhrase": "/",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1287-1336-2"
+},{
+ "firstId": 1287,
+ "secondId": 1406,
+ "column": "Messaggio docente",
+ "firstPhrase": "Insiemi e dizionari",
+ "secondPhrase": "Dizionari insiemi ",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1287-1406-0"
+},{
+ "firstId": 1287,
+ "secondId": 1406,
+ "column": "Argomento più interessante",
+ "firstPhrase": "Unione e intersezione",
+ "secondPhrase": "Dizionari ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1287-1406-1"
+},{
+ "firstId": 1287,
+ "secondId": 1406,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "Nessuna",
+ "secondPhrase": "Nessuna ",
+ "voto": 6,
+ "annotatore": "Paolo Cerrito",
+ "id": "1287-1406-2"
+},{
+ "firstId": 1288,
+ "secondId": 1289,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi  e dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1289-0"
+},{
+ "firstId": 1288,
+ "secondId": 1289,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Operazioni tra piu insiemi",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1289-1"
+},{
+ "firstId": 1288,
+ "secondId": 1289,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "I dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1289-2"
+},{
+ "firstId": 1288,
+ "secondId": 1290,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Come duplicare le liste, Gli insiemi e le funzioni da utilizzare per operare con essi,il dizionario  ",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1290-0"
+},{
+ "firstId": 1288,
+ "secondId": 1290,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": " L'applicazione delle varie funzioni sugli insiemi ",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1290-1"
+},{
+ "firstId": 1288,
+ "secondId": 1290,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Come costruire le funzioni  da usare sugli insiemi ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1290-2"
+},{
+ "firstId": 1288,
+ "secondId": 1291,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "concetto di insieme e dizionario ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1291-0"
+},{
+ "firstId": 1288,
+ "secondId": 1291,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "insiemi ",
+ "voto": 6,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1291-1"
+},{
+ "firstId": 1288,
+ "secondId": 1291,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "nessuna ",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1291-2"
+},{
+ "firstId": 1288,
+ "secondId": 1292,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "La duplicazione delle liste, insiemi e dizionari",
+ "voto": 3,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1292-0"
+},{
+ "firstId": 1288,
+ "secondId": 1292,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Vorrei fare ancora tanti esercizi ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1292-1"
+},{
+ "firstId": 1288,
+ "secondId": 1292,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "È stato chiaro ma vorrei fare esercizi ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1292-2"
+},{
+ "firstId": 1288,
+ "secondId": 1294,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi; dizionari che sono insiemi di chiavi e valori",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1294-0"
+},{
+ "firstId": 1288,
+ "secondId": 1294,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "le applicazioni di unione intersezione e differenza sugli insiemi",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1294-1"
+},{
+ "firstId": 1288,
+ "secondId": 1294,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "come si genera una nuova posizione negli insiemi",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1294-2"
+},{
+ "firstId": 1288,
+ "secondId": 1295,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Duplicazione liste, Creazioni di insiemi e dizionari ",
+ "voto": 3,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1295-0"
+},{
+ "firstId": 1288,
+ "secondId": 1295,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1295-1"
+},{
+ "firstId": 1288,
+ "secondId": 1295,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nessuna",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1295-2"
+},{
+ "firstId": 1288,
+ "secondId": 1296,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1296-0"
+},{
+ "firstId": 1288,
+ "secondId": 1296,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Tutti",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1296-1"
+},{
+ "firstId": 1288,
+ "secondId": 1296,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nessuno",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1296-2"
+},{
+ "firstId": 1288,
+ "secondId": 1297,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi, operazioni sugli insiemi  e duplicare una lista ",
+ "voto": 3,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1297-0"
+},{
+ "firstId": 1288,
+ "secondId": 1297,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Operazioni tra insiemi ",
+ "voto": 3,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1297-1"
+},{
+ "firstId": 1288,
+ "secondId": 1297,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nessuno",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1297-2"
+},{
+ "firstId": 1288,
+ "secondId": 1298,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Cosa sono gli insieme e i dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1298-0"
+},{
+ "firstId": 1288,
+ "secondId": 1298,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "I dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1298-1"
+},{
+ "firstId": 1288,
+ "secondId": 1298,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nessuna",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1298-2"
+},{
+ "firstId": 1288,
+ "secondId": 1299,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi e relative operazioni, dizionari. Esempi",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1299-0"
+},{
+ "firstId": 1288,
+ "secondId": 1299,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Esempi",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1299-1"
+},{
+ "firstId": 1288,
+ "secondId": 1299,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Operazione di intersezione",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1299-2"
+},{
+ "firstId": 1288,
+ "secondId": 1300,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Slicing delle liste, insiemi e dizionario",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1300-0"
+},{
+ "firstId": 1288,
+ "secondId": 1300,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "L'applicazione del dizionario",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1300-1"
+},{
+ "firstId": 1288,
+ "secondId": 1300,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nessuna",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1300-2"
+},{
+ "firstId": 1288,
+ "secondId": 1301,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi e dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1301-0"
+},{
+ "firstId": 1288,
+ "secondId": 1301,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "La differenza tra lista e dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1301-1"
+},{
+ "firstId": 1288,
+ "secondId": 1301,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "La parte sul set",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1301-2"
+},{
+ "firstId": 1288,
+ "secondId": 1302,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Duplicazione insiemi e dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1302-0"
+},{
+ "firstId": 1288,
+ "secondId": 1302,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Insiemi",
+ "voto": 6,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1302-1"
+},{
+ "firstId": 1288,
+ "secondId": 1302,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Duplicazione",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1302-2"
+},{
+ "firstId": 1288,
+ "secondId": 1303,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Operazioni con le liste e insiemi",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1303-0"
+},{
+ "firstId": 1288,
+ "secondId": 1303,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Esercizi sugli insiemi",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1303-1"
+},{
+ "firstId": 1288,
+ "secondId": 1303,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Differenza tra insiemi ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1303-2"
+},{
+ "firstId": 1288,
+ "secondId": 1304,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi, dizionari ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1304-0"
+},{
+ "firstId": 1288,
+ "secondId": 1304,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1304-1"
+},{
+ "firstId": 1288,
+ "secondId": 1304,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "L’esercizio def diff ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1304-2"
+},{
+ "firstId": 1288,
+ "secondId": 1305,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi e dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1305-0"
+},{
+ "firstId": 1288,
+ "secondId": 1305,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1305-1"
+},{
+ "firstId": 1288,
+ "secondId": 1305,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Alcuni comandi per gli Insiemi ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1305-2"
+},{
+ "firstId": 1288,
+ "secondId": 1306,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "insiemi e dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1306-0"
+},{
+ "firstId": 1288,
+ "secondId": 1306,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "i set",
+ "voto": 3,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1306-1"
+},{
+ "firstId": 1288,
+ "secondId": 1306,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "nessuna",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1306-2"
+},{
+ "firstId": 1288,
+ "secondId": 1307,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Dizionari ed Insiemi ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1307-0"
+},{
+ "firstId": 1288,
+ "secondId": 1307,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Insiemi ",
+ "voto": 6,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1307-1"
+},{
+ "firstId": 1288,
+ "secondId": 1307,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nessuna ",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1307-2"
+},{
+ "firstId": 1288,
+ "secondId": 1308,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "dizionari e insiemi ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1308-0"
+},{
+ "firstId": 1288,
+ "secondId": 1308,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "insiemi",
+ "voto": 6,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1308-1"
+},{
+ "firstId": 1288,
+ "secondId": 1308,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "nessuna",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1308-2"
+},{
+ "firstId": 1288,
+ "secondId": 1309,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "liste insiemi dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1309-0"
+},{
+ "firstId": 1288,
+ "secondId": 1309,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "l'utilizzo dei dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1309-1"
+},{
+ "firstId": 1288,
+ "secondId": 1309,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "la conversione da insieme a lista",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1309-2"
+},{
+ "firstId": 1288,
+ "secondId": 1310,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi, liste, dizionario",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1310-0"
+},{
+ "firstId": 1288,
+ "secondId": 1310,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Insiemi",
+ "voto": 6,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1310-1"
+},{
+ "firstId": 1288,
+ "secondId": 1310,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nessuna",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1310-2"
+},{
+ "firstId": 1288,
+ "secondId": 1311,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Parentesi quadra: liste che sono ordinate;graffe: insieme non ordinati. Duplicare le varie liste. Come aggiungere numeri negli insiemi. Intersezione, differenza e dizionario.",
+ "voto": 4,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1311-0"
+},{
+ "firstId": 1288,
+ "secondId": 1311,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Insiemi",
+ "voto": 6,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1311-1"
+},{
+ "firstId": 1288,
+ "secondId": 1311,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Ultimo esempio non capisco perchè  dopo l'insieme se scrivo rubrica [\"dario\"] non ottengo il valore della graffa",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1311-2"
+},{
+ "firstId": 1288,
+ "secondId": 1312,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1312-0"
+},{
+ "firstId": 1288,
+ "secondId": 1312,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Utilizzo insiemi ",
+ "voto": 4,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1312-1"
+},{
+ "firstId": 1288,
+ "secondId": 1312,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "-",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1312-2"
+},{
+ "firstId": 1288,
+ "secondId": 1313,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "ripasso sullo slicing, insiemi e dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1313-0"
+},{
+ "firstId": 1288,
+ "secondId": 1313,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "i dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1313-1"
+},{
+ "firstId": 1288,
+ "secondId": 1313,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "nessuna",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1313-2"
+},{
+ "firstId": 1288,
+ "secondId": 1314,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi e dizionari ",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1314-0"
+},{
+ "firstId": 1288,
+ "secondId": 1314,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Duplicare le liste ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1314-1"
+},{
+ "firstId": 1288,
+ "secondId": 1314,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Dizionari ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1314-2"
+},{
+ "firstId": 1288,
+ "secondId": 1315,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi e dizionario",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1315-0"
+},{
+ "firstId": 1288,
+ "secondId": 1315,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Dizionario",
+ "voto": 3,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1315-1"
+},{
+ "firstId": 1288,
+ "secondId": 1315,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Niente",
+ "voto": 6,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1315-2"
+},{
+ "firstId": 1288,
+ "secondId": 1316,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insieme, dizionari, liste",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1316-0"
+},{
+ "firstId": 1288,
+ "secondId": 1316,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Tutte e tre ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1316-1"
+},{
+ "firstId": 1288,
+ "secondId": 1316,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Funzioni ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1316-2"
+},{
+ "firstId": 1288,
+ "secondId": 1317,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi e Dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1317-0"
+},{
+ "firstId": 1288,
+ "secondId": 1317,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Utilizzo dei dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1317-1"
+},{
+ "firstId": 1288,
+ "secondId": 1317,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nulla, credo",
+ "voto": 3,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1317-2"
+},{
+ "firstId": 1288,
+ "secondId": 1318,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Come duplicare le varie liste, gli insiemi e  il dizionario",
+ "voto": 4,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1318-0"
+},{
+ "firstId": 1288,
+ "secondId": 1318,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "I dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1318-1"
+},{
+ "firstId": 1288,
+ "secondId": 1318,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Come non far mutare una lista",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1318-2"
+},{
+ "firstId": 1288,
+ "secondId": 1319,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi e chiavi ",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1319-0"
+},{
+ "firstId": 1288,
+ "secondId": 1319,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Insiemi ",
+ "voto": 6,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1319-1"
+},{
+ "firstId": 1288,
+ "secondId": 1319,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Funzionamento di una chiave (oltre il fatto che associa più elementi)",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1319-2"
+},{
+ "firstId": 1288,
+ "secondId": 1320,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Dizionari insiemi ",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1320-0"
+},{
+ "firstId": 1288,
+ "secondId": 1320,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Dizionari ",
+ "voto": 3,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1320-1"
+},{
+ "firstId": 1288,
+ "secondId": 1320,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nessuna ",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1320-2"
+},{
+ "firstId": 1288,
+ "secondId": 1321,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi e dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1321-0"
+},{
+ "firstId": 1288,
+ "secondId": 1321,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "I dizionari e le chiavi",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1321-1"
+},{
+ "firstId": 1288,
+ "secondId": 1321,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "La soluzione migliore per la differenza tra insiemi",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1321-2"
+},{
+ "firstId": 1288,
+ "secondId": 1322,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Liste, insiemi, unione, intersezione, differenza e dizionari ",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1322-0"
+},{
+ "firstId": 1288,
+ "secondId": 1322,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "I dizionari e come funzionano ",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1322-1"
+},{
+ "firstId": 1288,
+ "secondId": 1322,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "La differenza ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1322-2"
+},{
+ "firstId": 1288,
+ "secondId": 1323,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi e dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1323-0"
+},{
+ "firstId": 1288,
+ "secondId": 1323,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Insiemi e dizionari ",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1323-1"
+},{
+ "firstId": 1288,
+ "secondId": 1323,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nessuna",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1323-2"
+},{
+ "firstId": 1288,
+ "secondId": 1324,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi, unire insiemi, duplicare liste",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1324-0"
+},{
+ "firstId": 1288,
+ "secondId": 1324,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Insiemi",
+ "voto": 6,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1324-1"
+},{
+ "firstId": 1288,
+ "secondId": 1324,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Operatore diff",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1324-2"
+},{
+ "firstId": 1288,
+ "secondId": 1325,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1325-0"
+},{
+ "firstId": 1288,
+ "secondId": 1325,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1325-1"
+},{
+ "firstId": 1288,
+ "secondId": 1325,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nessuna",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1325-2"
+},{
+ "firstId": 1288,
+ "secondId": 1326,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi e dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1326-0"
+},{
+ "firstId": 1288,
+ "secondId": 1326,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1326-1"
+},{
+ "firstId": 1288,
+ "secondId": 1326,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Come modificare (aggiungere, togliere, o modificare) elementi di un dizionario",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1326-2"
+},{
+ "firstId": 1288,
+ "secondId": 1327,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Spiegare insiemi e dizionari e capire come duplicare le liste",
+ "voto": 3,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1327-0"
+},{
+ "firstId": 1288,
+ "secondId": 1327,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "I dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1327-1"
+},{
+ "firstId": 1288,
+ "secondId": 1327,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nulla",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1327-2"
+},{
+ "firstId": 1288,
+ "secondId": 1328,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Definizione insiemi e dizionario",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1328-0"
+},{
+ "firstId": 1288,
+ "secondId": 1328,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Dizionari, \"chiavi\" ",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1328-1"
+},{
+ "firstId": 1288,
+ "secondId": 1328,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "L'esercizio sugli insieme per la funzione differenza",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1328-2"
+},{
+ "firstId": 1288,
+ "secondId": 1329,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Introduzione duplicazione lista e insiemi",
+ "voto": 3,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1329-0"
+},{
+ "firstId": 1288,
+ "secondId": 1329,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Insiemi",
+ "voto": 6,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1329-1"
+},{
+ "firstId": 1288,
+ "secondId": 1329,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Differenza tra insiemi",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1329-2"
+},{
+ "firstId": 1288,
+ "secondId": 1330,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi e dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1330-0"
+},{
+ "firstId": 1288,
+ "secondId": 1330,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Gli insieme, la loro unione e intersezione ",
+ "voto": 3,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1330-1"
+},{
+ "firstId": 1288,
+ "secondId": 1330,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "I dizionari\n",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1330-2"
+},{
+ "firstId": 1288,
+ "secondId": 1331,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "desrizione insiemi e dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1331-0"
+},{
+ "firstId": 1288,
+ "secondId": 1331,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Come sfruttarli insieme alle funzioni ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1331-1"
+},{
+ "firstId": 1288,
+ "secondId": 1331,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Niente ",
+ "voto": 6,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1331-2"
+},{
+ "firstId": 1288,
+ "secondId": 1332,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Liste e insiemi, dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1332-0"
+},{
+ "firstId": 1288,
+ "secondId": 1332,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Creare differenti dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1332-1"
+},{
+ "firstId": 1288,
+ "secondId": 1332,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Definizione della funzione sottrazione",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1332-2"
+},{
+ "firstId": 1288,
+ "secondId": 1333,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Gli insiemi",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1333-0"
+},{
+ "firstId": 1288,
+ "secondId": 1333,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Gli insiemi",
+ "voto": 4,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1333-1"
+},{
+ "firstId": 1288,
+ "secondId": 1333,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Niente",
+ "voto": 6,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1333-2"
+},{
+ "firstId": 1288,
+ "secondId": 1334,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Gli insiemi e i dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1334-0"
+},{
+ "firstId": 1288,
+ "secondId": 1334,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "I metodi degli insiemi e dei dizionari",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1334-1"
+},{
+ "firstId": 1288,
+ "secondId": 1334,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nessuna",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1334-2"
+},{
+ "firstId": 1288,
+ "secondId": 1335,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1335-0"
+},{
+ "firstId": 1288,
+ "secondId": 1335,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Intersezione e Unione ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1335-1"
+},{
+ "firstId": 1288,
+ "secondId": 1335,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nessuna ",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1335-2"
+},{
+ "firstId": 1288,
+ "secondId": 1336,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Insiemi, dizionari",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1336-0"
+},{
+ "firstId": 1288,
+ "secondId": 1336,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "/",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1336-1"
+},{
+ "firstId": 1288,
+ "secondId": 1336,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "/",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1336-2"
+},{
+ "firstId": 1288,
+ "secondId": 1406,
+ "column": "Messaggio docente",
+ "firstPhrase": "Duplicare una lista",
+ "secondPhrase": "Dizionari insiemi ",
+ "voto": 1,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1406-0"
+},{
+ "firstId": 1288,
+ "secondId": 1406,
+ "column": "Argomento più interessante",
+ "firstPhrase": "insiemi",
+ "secondPhrase": "Dizionari ",
+ "voto": 2,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1406-1"
+},{
+ "firstId": 1288,
+ "secondId": 1406,
+ "column": "Argomento meno chiaro",
+ "firstPhrase": "niente",
+ "secondPhrase": "Nessuna ",
+ "voto": 5,
+ "annotatore": "Paolo Cerrito",
+ "id": "1288-1406-2"
+}]

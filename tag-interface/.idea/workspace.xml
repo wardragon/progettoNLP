@@ -14,8 +14,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/interfaces/InterfaceSemantics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1581">
-              <caret line="109" column="50" selection-start-line="109" selection-start-column="50" selection-end-line="109" selection-end-column="50" />
+            <state relative-caret-position="218">
+              <caret line="105" column="50" selection-start-line="105" selection-start-column="50" selection-end-line="105" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -26,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dataProcessing/RegenerateCleanDataset.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="306">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -63,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utils/JsonUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3196">
-              <caret line="209" column="31" selection-start-line="209" selection-start-column="25" selection-end-line="209" selection-end-column="31" />
+            <state relative-caret-position="2533">
+              <caret line="166" column="31" selection-start-line="166" selection-start-column="25" selection-end-line="166" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -149,8 +149,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,7 +194,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580053814280" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579951358715" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -208,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RegenerateCleanDataset">
+  <component name="RunManager" selected="Application.InterfaceSemantics">
     <configuration name="InterfacePosTagging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaces.InterfacePosTagging" />
       <module name="tag-interface" />
@@ -250,9 +250,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterfaceSemantics" />
         <item itemvalue="Application.RegenerateCleanDataset" />
         <item itemvalue="Application.InterfacePosTagging" />
-        <item itemvalue="Application.InterfaceSemantics" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +272,7 @@
   <component name="ToolWindowManager">
     <frame x="764" y="303" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3164179" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29850745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -327,8 +327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interfaces/InterfaceSemantics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="109" column="50" selection-start-line="109" selection-start-column="50" selection-end-line="109" selection-end-column="50" />
+        <state relative-caret-position="218">
+          <caret line="105" column="50" selection-start-line="105" selection-start-column="50" selection-end-line="105" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -357,8 +357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/JsonUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3196">
-          <caret line="209" column="31" selection-start-line="209" selection-start-column="25" selection-end-line="209" selection-end-column="31" />
+        <state relative-caret-position="2533">
+          <caret line="166" column="31" selection-start-line="166" selection-start-column="25" selection-end-line="166" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -388,8 +388,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dataProcessing/RegenerateCleanDataset.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="306">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

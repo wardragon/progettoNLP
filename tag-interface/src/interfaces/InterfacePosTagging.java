@@ -13,6 +13,7 @@ import utils.ParsingUtil;
 import java.awt.*;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -228,7 +229,9 @@ public class InterfacePosTagging {
 		ActionListener annota=  e -> {
 			String val=textBox.getText();
 
-			String[] temp = val.split("[\\s,']");
+			String[] temp2 = val.split("[\\s,']");
+			String[] temp=Arrays.stream(temp2).filter(w -> w!=null && w.length()>0).toArray(String[]::new);
+			
 			if(wordNumber < temp.length) {
 
 				Matcher m = Pattern.compile("(ADJ:|ADP:|ADV:|AUX:|CCONJ:|DET:|INTJ:|NOUN:|NUM:|PART:|PRON:|PROPN:|PUNCT:|SCONG:|SYM:|VERB:)?(.*)").matcher(temp[wordNumber]);

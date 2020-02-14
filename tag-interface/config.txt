@@ -1,2 +1,2 @@
-firma:Paolo Cerrito
-count:61
+firma:
+count:8
